@@ -1,0 +1,7390 @@
+﻿TITUS Texts: Gandhari Dharmapada
+
+  
+TITUS
+Text: DhP 
+The Gāndhārī Dharmapada
+
+
+On the basis of the edition
+The Gāndhārī Dharmapada,
+edited with an introduction and commentary by
+John Brough,
+London 1962
+(London Oriental Series, 7.)
+prepared by Jost Gippert and Katharina Kupfer,
+Frankfurt a/M 1995-1999;
+
+TITUS Version by Jost Gippert,
+Frankfurt a/M, 9.1.1999 / 18.6.2000
+
+ 
+
+[Note the following provisional substitutions for transcriptional characters used in Brough's edition:
+   ǧ   for   g with acute;
+   ġ   for   g with macron.
+   ǰ   for   j with macron;
+   ń   for   n with macron;
+   š   for   s with macron above and dot below;
+   Ǧ   for   g with acute and macron above;
+   ṯ   for   t with acute above and dot below;
+The daṇḍa is substituted by a back slash, \.
+Uncertain readings marked by using italics in Brough's edition were marked by parentheses instead.
+Pāli parallels are marked by braces, Tibetan parallels by angle brackets. JG.]
+
+
+
+Halfverse: a    budha-varmasa ṣamaṇasa
+Halfverse: b    budhaṇadi-sardhavayarisa
+Halfverse: c    ida dharma-padasa postaka
+Halfverse: d    dharmuyaṇe likhida arañi.
+
+
+
+
+
+Vagga: 1 
+{brammaṇa}
+
+
+Cross-Reference: Uv_33,_11 
+Cross-Reference: DP_393 
+Verse: 1  
+1
+
+
+Halfverse: a     na jaḍa'i na gotreṇa
+   {na jaṭāhi na gottena}
+Halfverse: b     na yaca bhodi bramaṇo
+   {na jaccā hoti brāhmaṇo.}
+Cross-Reference: DP_265 
+Halfverse: c     yo du brahetva pavaṇa
+   {yo ca sameti pāpāni}
+Halfverse: d     aṇu-thulaṇi sarvaśo
+   {aṇuṃ-thūlāni sabbaso}
+Halfverse: e     brahidare va pavaṇa
+   {samitattā hi pāpānaṃ}
+Halfverse: f     brammaṇo di pravucadi. (1)
+   {samaṇo ti pavuccati.}
+         {O_2}
+Cross-Reference: Uv_11,_12 
+Cross-Reference: DP_267 
+   {yo dha puññaṃ ca pāpaṃ ca}
+   {bāhetvā brahmacariyavā.}
+
+
+
+Cross-Reference: Uv_33,_8 
+Cross-Reference: Uv_33,_9 
+Cross-Reference: DP_394 
+Verse: 2  
+2
+
+
+Halfverse: a     ki di jaḍa'i drumedha
+   {kiṃ te jatāhi dummedha}
+Halfverse: b     ki di ayiṇa-śaḍi'a
+   {kiṃ te ajina-sātiyā}
+Halfverse: c     adara gahaṇa kitva
+   {abbhantaraṃ te gahanaṃ}
+Halfverse: d     bahire parimajasi. (2)
+   {bāhiraṃ parimajjasi.}
+         {O_3}
+
+
+
+Cross-Reference: Uv_33,_77 
+Cross-Reference: DP_392 
+Verse: 3  
+3
+
+
+Halfverse: a     yasa dharmo vi'aṇe'a
+   {yamhā dhammaṃ vijāneyya}
+Halfverse: b     same-sabudha-deśida
+   {sammā-sambuddha-desitaṃ}
+Halfverse: c     sakhaca ṇa namase'a
+   {sakkaccaṃ taṃ namasseyya}
+Halfverse: d     agi-hotra ba brammaṇo. (3)
+   {aggi-huttaṃ va brāhmaṇo.}
+         {O_4}
+
+
+
+Cross-Reference: Sn_650 
+Verse: 4  
+4
+
+
+Halfverse: a     na yaca brammaṇo bhodi
+   {na jaccā brāhmaṇo hoti.}
+Halfverse: b     na trevija na śotri'a
+Halfverse: c     na agi-parikirya'i
+Halfverse: d     udake oruhaṇeṇa va. (4)
+         {O_5}
+
+
+
+Cross-Reference: Uv_33,_57 
+Cross-Reference: DP_423 
+Verse: 5  
+5
+
+
+Halfverse: a     purve-nivasa yo uvedi
+   {pubbe-nivāsaṃ yo vedi}
+         {(Saṃ_I_167)}
+Halfverse: b     svaga avaya ya paśadi
+   {saggāpāyaṃ ca passati}
+Halfverse: c     atha jadi-kṣaya prato
+   {atho jāti-kkhayaṃ patto}
+Halfverse: d     abhiña-vosido muṇi, (5)
+   {abhiññā-vosito muni}
+   {sabba-vosita-vosānaṃ}
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_6}
+
+
+
+Cross-Reference: Uv_33,_58 
+Cross-Reference: Saṃ_I_167 
+Verse: 6  
+6
+
+
+Halfverse: a     edahi trihi vijahi
+   {etāhi tīhi vijjāhi}
+Halfverse: b     treviju bhodi brammaṇu
+   {tevijjo hoti brāhmaṇo}
+Halfverse: c     vijacaraṇa-sabarṇo
+   {vijjācaraṇa-sampanno.}
+Halfverse: d     brammaṇo di pravucadi. (6)
+         {O_7}
+
+
+
+Cross-Reference: Sn_656ab 
+Verse: 7  
+7
+
+
+Halfverse: a     trihi vijahi sabarṇo
+   {tīhi vijjāhi saṃpanno}
+Halfverse: b     śadu kṣiṇa-puṇarbhavu
+   {santo khīṇa-punabbhavo.}
+Cross-Reference: It_97 
+Halfverse: c     asido sarva-lokasya
+   {asitaṃ sabba-lokassa.}
+Halfverse: d     brammaṇo di pravucadi. (7)
+         {O_8}
+
+
+
+Cross-Reference: Thg_631 
+Cross-Reference: Sn_655 
+Verse: 8  
+8
+
+
+Halfverse: a     taveṇa bramma-yiryeṇa
+   {tapena brahmacariyena}
+Halfverse: b     sañameṇa dameṇa ca
+   {saññamena damena ca}
+Halfverse: c     edeṇa brammaṇo bhodi
+   {etena brāhmaṇo hoti}
+Halfverse: d     eda brammaña utamu. (8)
+   {etaṃ brāhmaṇaṃ uttamaṃ.}
+         {O_9}
+
+
+
+Cross-Reference: Saṃ_I_49 
+Verse: 9  
+9
+
+
+Halfverse: a     china sodu parakamu
+   {chinda sotaṃ parakkamma}
+Halfverse: b     kama praṇuyu bramaṇa
+   {kāme panuda brāhmaṇa}
+Halfverse: c     na apraha'i muṇi kama
+   {nappahāya munī kāme}
+Halfverse: d     ekatvu adhikachadi. (9)
+   {ekattaṃ upapajjati.}
+         {O_10}
+
+Cross-Reference: Uv_11,_1 
+   {chindhi srotaḥ parakrāmya}
+   {kāmāṃ praṇuda brāhmaṇa}
+   {nāprahāya muniḥ kāmān}
+   {ekatvam adhigacchati.}
+
+
+Cross-Reference: Uv_33,_71 
+Cross-Reference: DP_383 
+Verse: 10  
+10
+
+
+Halfverse: a     china sodu parakamu
+   {chinda sotaṃ parakkamma}
+Halfverse: b     kama praṇuyu bramaṇa
+   {kāme panuda brāhmaṇa}
+Halfverse: c     sagharaṇa kṣaya ñatva
+   {saṅkhārānaṃ khayaṃ ñatvā}
+Halfverse: d     akadaño si brammaṇa. (10)
+   {akataññu si brāhmaṇa.}
+         {O_11}
+
+
+
+Cross-Reference: Uv_33,_74 
+Cross-Reference: DP_389 
+Verse: 11  
+11
+
+
+Halfverse: a     na brammanasa prahare'a
+   {na brāhmaṇassa pahareyya}
+Halfverse: b     nasa muje'a bramaṇi
+   {nāssa muñcetha brāhmaṇo}
+Halfverse: c     dhi bramaṇasa hadara
+   {dhī brāhmaṇassa hantāraṃ}
+Halfverse: d     tada vi dhi yo ṇa mujadi. (11)
+   {tato dhī y'assa muñcati.}
+         {O_12}
+
+
+
+Cross-Reference: Uv_33,_72 
+Cross-Reference: Uv_29,_24 
+Cross-Reference: DP_294 
+Verse: 12  
+12
+
+
+Halfverse: a     madara pidara ǰatva
+   {mātaraṃ pitaraṃ hantvā}
+Halfverse: b     rayaṇa dvayu śotri'a
+   {rājāno dve ca khattiye}
+Halfverse: c     raṭha saṇayara1 ǰatva
+   {ratthaṃ sānucaraṃ hantvā}
+Halfverse: d     aṇiho yadi brammaṇo. (12)
+   {anīgho yāti brāhmaṇo.}
+Cross-Reference: DP_295 
+   {rājāno dve ca sotthiye.}
+         {O_13}
+
+
+
+Verse: 13  
+13
+
+
+Halfverse: a     rayana pradhamu ǰatva
+Halfverse: b     pariṣa ja aṇadara
+Halfverse: c     doṣi sa-señaka ǰatva
+Halfverse: d     aṇiho yadi brammaṇo. (13)
+         {O_14}
+
+
+
+Cross-Reference: Uv_33,_83 
+Cross-Reference: DP_384 
+Verse: 14  
+14
+
+
+Halfverse: a     yada dva'eṣu dharmeṣu
+   {yadā dvayesu dhammesu}
+Halfverse: b     parako bhodi brammaṇo
+   {pāragū hoti brāhmaṇo}
+Halfverse: c     athasa sarvi sañoka
+   {ath' assa sabbe saṃyogā}
+Halfverse: d     asta=ǧachadi jaṇada. (14)
+   {atthaṃ-gacchanti jānato.}
+         {O_15}
+
+
+
+Cross-Reference: DP_390 
+Verse: 15  
+15
+
+
+Halfverse: a     na bramaṇasediṇa kiji bhodi
+   {+na brāhmaṇass' etad akiñci seyyo}
+Halfverse: b     yo na nisedhe maṇasa pri'aṇi
+   {yadā nisedho manaso piyehi}
+Halfverse: c     yado yado y=asa maṇo nivartadi
+   {yato yato hiṃsamano nivattati}
+Halfverse: d     tado tado samudim aha saca. (15)
+   {tato tato sammati-m-eva dukkhaṃ.}
+         {O_16}
+Cross-Reference: Uv_33,_87 
+      <ji ltar mi sdug pa las yid ldog pa>
+      <de ḥdra bram ze rnams la cuṅ zad med>
+      <ji lta ji ltar de yi yid ldog pa>
+      <de lta de ltar kun rdzob bden par zad.>
+
+
+
+Cross-Reference: Uv_11,_15 
+Cross-Reference: DP_388 
+Verse: 16  
+16
+
+
+Halfverse: a     brahetva pavaṇi brammaṇo
+   {bāhita-pāpo ti brāhmaṇo}
+Halfverse: b     sama'irya śramaṇo di vucadi
+   {samacariyā samaṇo ti vuccati}
+Halfverse: c     parvahi'a atvaṇo mala
+   {pabbājayaṃ attano malam}
+Halfverse: d     tasa parva'ido di vucadi. (16)
+   {tasmā pabbajito ti vuccati.}
+         {O_17}
+
+
+
+Cross-Reference: Uv_33,_18 
+Cross-Reference: DP_396 
+Verse: 17  
+17
+
+
+Halfverse: a     na aho brammaṇa bromi
+   {na cāhaṃ brāhmaṇaṃ brumi}
+Halfverse: b     yoṇeka-matra-sabhamu
+   {yonijaṃ matti-saṃbhavaṃ}
+Halfverse: c     bho-va'i namu so bhodi
+   {bho-vādi nāma so hoti}
+Halfverse: d     sayi bhodi sakijaṇo
+   {sace2 hoti sakiñcano}
+Halfverse: e     akijaṇa aṇadaṇa
+   {akiñcanaṃ anādānam}
+Halfverse: f     tam aho bro mmaṇa.1 (17)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_18}
+
+
+
+Cross-Reference: Uv_33,_47 
+Cross-Reference: DP_405 
+Verse: 18  
+18
+
+
+Halfverse: a     niha'i daṇa bhudeṣu
+   {nidhāya daṇḍaṃ bhūtesu}
+Halfverse: b     traseṣu thavaresu ca
+   {tasesu thāvaresu ca}
+Halfverse: c     yo na hadi na ghadhedi
+   {yo na hanti na ghāteti}
+Halfverse: d     tam aho bromi bramaṇa. (18)
+   {tam ahaṃ brūmi brāhmanaṃ.}
+         {O_19}
+
+
+
+Cross-Reference: Uv_33,_29 
+Cross-Reference: DP_409 
+Verse: 19  
+19
+
+
+Halfverse: a     yo du drigha ci rasa ji
+   {yo dha dīghaṃ va rassam vā}
+Halfverse: b     aṇo-thulu śuhśauhu
+   {aṇuṃ-thūlaṃ subhāsubham}
+Halfverse: c     loki adiṇa na adi'adi
+   {loke adinnaṃ nādiyati}
+Halfverse: d     tam aho brommi bramaṇa. (19)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_20}
+
+
+
+Cross-Reference: Uv_33,_46 
+Cross-Reference: DP_415 
+Verse: 20  
+20
+
+
+Halfverse: a     yo du kama prahatvaṇa
+   {yo dha kāme pahatvāna}
+Halfverse: b     aṇakare parivaya
+   {anāgāro paribbaje}
+Halfverse: c     kama-bhoka-parikṣiṇa
+   {kāma-bhava-parikkhiṇaṃ}
+Halfverse: d     tam aho bromi bramaṇa. (20)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_21}
+
+
+
+Cross-Reference: Uv_33,_35 
+Cross-Reference: DP_401 
+Verse: 21  
+21
+
+
+Halfverse: a     vari puṣkara-patre va
+   {vāri pokkhara-patte va}
+Halfverse: b     arage-r-iva sarṣava
+   {āragge-r-iva sāsapo}
+Halfverse: c     yo na lipadi kamehi
+   {yo na lippati kamesu}
+Halfverse: d     tam ahu bromi brammaṇa. (21)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_22}
+
+
+
+Cross-Reference: Uv_33,_20 
+Cross-Reference: DP_408 
+Verse: 22  
+22
+
+
+Halfverse: a     akakaśa viñamaṇi
+   {akakkasaṃ viññāpāṇiṃ}
+Halfverse: b     gira saca udira'i
+   {giraṃ saccaṃ udīraye}
+Halfverse: c     ya'i naviṣa'i kaji
+   {yāya nābhisaje kaṃci}
+Halfverse: d     tam ahu bromi brammaṇa. (22)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_23}
+
+
+
+Cross-Reference: Uv_33,_19 
+Cross-Reference: DP_391 
+Verse: 23  
+23
+
+
+Halfverse: a     yasya ka'eṇa vaya'i
+   {yassa kāyena vācāya}
+Halfverse: b     maṇasa nasti drukida
+   {manasā natthi dukkataṃ}
+Halfverse: c     savrudu trihi ṯhaṇehi
+   {saṃvutaṃ tīhi ṭhānehi}
+Halfverse: d     tam aho bromi brammaṇa. (23)
+   {tam ahaṃ brūmi brāhmanaṃ.}
+         {O_24}
+
+
+
+Cross-Reference: DP_363 
+Verse: 24  
+24
+
+
+Halfverse: a     vaśada varada
+   {yo mukha-saññato bhikkhu}
+Halfverse: b     mana-bhāṇī aṇudhada
+   {manta-bhāṃ anuddhato}
+Halfverse: c     artha dharma ja deśedi
+   {atthaṃ dhammaṃ ca dīpeti}
+Halfverse: d     tam aho bromi brammaṇa. (24)
+   {madhuraṃ tassa bhāsitaṃ.}
+Cross-Reference: Uv_28,_8 
+Cross-Reference: Thg_2,_1006ab 
+      {upasanto uparato}
+      {manta-bhāṇī anuddhato.}
+         {O_25}
+
+
+
+Verse: 25  
+25
+
+
+Halfverse: a     vaśada varada
+Halfverse: b     mana-bhaṇi aṇudhada
+Cross-Reference: DP_386 
+Cross-Reference: DP_403 
+Halfverse: c     utamatha aṇuprato
+   {uttamatthaṃ anuppattaṃ}
+Halfverse: d     tam aho bromi brammaṇa. (25)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_26}
+
+
+
+Cross-Reference: Saṃ_I_13 
+Cross-Reference: Saṃ_I_165 
+Verse: 26  
+26
+
+
+Halfverse: a     yasya rako ca doṣo ca
+   {yesaṃ rāgo ca doso ca}
+Halfverse: b     avija ca vira'ida
+   {avijjā ca virājitā}
+Halfverse: c     kṣiṇasavu arahada
+   {khīṇāsavā arahanto.}
+Cross-Reference: DP_420 
+   {khīṇāsavaṃ arahantaṃ}
+Halfverse: d     tam ahu bromi brammaṇa. (26)
+   {tam ahaṃ brūmi brāhmaṇam.}
+         {O_27}
+
+
+
+Cross-Reference: Uv_33,_49 
+Cross-Reference: DP_407 
+Verse: 27  
+27
+
+
+Halfverse: a     yasya rako ca doṣo ca
+   {yassa rāgo ca doso ca}
+Halfverse: b     maṇu makṣu pravadido
+   {māno makkho ca pātito}
+Cross-Reference: DP_402 
+Halfverse: c     paṇa-bhara visañutu
+   {panna-bhāraṃ visaṃyuttaṃ}
+Halfverse: d     tam ahu bromi brammaṇo. (z7)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_28}
+
+
+
+Cross-Reference: Uv_33,_21 
+Cross-Reference: DP_399 
+Verse: 28  
+28
+
+
+Halfverse: a     ak(r)ośa vadha-baña ca
+   {akkosaṃ vadha-bandhaṃ ca}
+Halfverse: b     aduṭh(u) yo tidikṣadi
+   {aduttho yo titikkhati}
+Halfverse: c     kṣadi-bala balaṇeka
+   {khantī-balaṃ balānīkaṃ}
+Halfverse: d     tam ahu bromi brammaṇa. (28)
+   {tam ahaṃ brumi brāhmaṇaṃ.}
+         {O_29}
+
+
+
+Cross-Reference: Uv_33,_48 
+Cross-Reference: DP_406 
+Verse: 29  
+29
+
+
+Halfverse: a     avirudhu virudheṣu
+   {aviruddhaṃ viruddhesu}
+Halfverse: b     ata-daṇeṣu nivudu
+   {atta-daṇḍesu nibbutaṃ}
+Halfverse: c     sadaṇeṣu aṇadaṇa
+   {sādānesu anādānaṃ}
+Halfverse: d     tam aho bromi brammaṇa. (29)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_30}
+
+
+
+Cross-Reference: Uv_32,_35 
+Cross-Reference: DP_402 
+Verse: 30  
+30
+
+
+Halfverse: a     yo idheva pre'aṇadi
+   {yo dukkhassa pajānāti}
+Halfverse: b     dukhasa kṣaya atvaṇo
+   {idheva khayaṃ attano}
+Cross-Reference: Uv_33,_30 
+Halfverse: c     vipramutu visañutu
+   {panna-bhāraṃ visaṃyuttam}
+Halfverse: d     tam aho bromi brammaṇa. (30)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+         {O_31}
+
+
+
+Cross-Reference: Uv_33,_63 
+Verse: 31  
+31
+
+
+Halfverse: a     navaǰa'i naviǰapu
+   <sdig can rnam par mi sems śiṅ>
+Halfverse: b     pavaka na vicida'i
+   <mi bsgom smra bar mi byed par>
+Halfverse: c     sadaśam atha-daśavi
+   <(hdug nas rdul bral sems pa de)>
+Halfverse: d     tam aho bromi bramaṇa. (31)
+   <bram ze yin par ṅas gsuṅs so.>
+
+
+
+Cross-Reference: Uv_33,_23 
+Cross-Reference: DP_404 
+Verse: 32  
+32
+
+
+Halfverse: a     asatsiṭha ghahaṯhehi
+   {asaṃsaṭṭhaṃ gahatṭhehi}
+Halfverse: b     aṇakarehi y=uha'i
+   {anāgārehi c'ūbhayaṃ}
+Halfverse: c     aṇova-sari apicha
+   {anoka-sārim appicchaṃ}
+Halfverse: d     tam aho brommi brammaṇa. (32)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+
+
+Cross-Reference: Uv_33,_53 
+Cross-Reference: DP_418 
+Verse: 33  
+33
+         {33, 65}
+
+
+Halfverse: a     aradi radi ca yo hitva
+   {hitvā ratiṃ ca aratiṃ ca}
+Cross-Reference: Thg_607d 
+Halfverse: b     sab(r)ayaṇ(o) pradisvado
+   {sampajāno patissato}
+Cross-Reference: DP_415 
+Halfverse: c     sarva-bhava-parikṣiṇa
+   {kāma-bhava-parikkhīṇaṃ}
+Halfverse: d     tam aho brommi brammaṇa. (33)
+   {tam ahaṃ brūmi brāhmanaṃ.}
+
+
+Cross-Reference: DP_421 
+Verse: 34  
+34
+         {64}
+
+
+Halfverse: a     yasa pure ya pacha ya
+   {yassa pure ca pacchā ca}
+Halfverse: b     . . . . . . .i
+   {majjhe ca natthi kiñcanaṃ}
+Halfverse: c     akijaṇa aṇadaṇa
+   {akiñcanam anādānam}
+Halfverse: d     tam ahu brommi brammaṇa. (34)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+
+
+
+Cross-Reference: Uv_33,_27 
+Cross-Reference: DP_385 
+Verse: 36  
+36
+         {63}
+
+
+Halfverse: a     yasa pari avare ca
+   {yassa pāraṃ aparaṃ vā}
+Halfverse: b     para . . . .
+   {pārāpāraṃ na vijjati}
+Halfverse: c     vikada-dvara visañota
+   {vītaddaraṃ visaññuttaṃ}
+Halfverse: d     tam ano brommi brammaṇa. (35)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+
+
+
+Cross-Reference: Uv_33,_39cd 
+Verse: 36  
+36
+         {62, 66}
+
+
+Halfverse: a     chitvaṇa paja saṃdaṇa
+Halfverse: b     . . . . .
+         {36}
+Cross-Reference: DP_413 
+Halfverse: c     nani-bhava-parikṣiṇa
+   {nandī-bhava-parikkhīṇaṃ}
+Halfverse: d     tam ahu bromi bramaṇa. (36)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+
+
+
+Cross-Reference: Sn_759ab 
+Verse: 37  
+37
+         {67}
+
+
+Halfverse: a     ruva=chada rasa gańa
+   {rūpa saddā rasā gandhā}
+Halfverse: b     phaṣa dhama ya kevala
+   {phassā dhammā ca kevalā}
+         {37}
+Halfverse: c     praha'i na paritasadi
+Halfverse: d     tam ahu brommi brammaṇa. (37)
+
+
+
+Cross-Reference: Uv_33,_64 
+Cross-Reference: DP_395 
+Verse: 38  
+38
+         {68}
+
+
+Halfverse: a     patsukula-dhara jadu
+   {paṃsukūla-dharaṃ jantuṃ}
+Halfverse: b     kiśa dhamaṇi-sadhada
+   {kisaṃ dhamani-santhataṃ}
+Halfverse: c     jayada rukha-mulasya
+   {ekam vanasmim jhāyantam}
+Halfverse: d     tam ahu brommi bramaṇa. (38)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+Cross-Reference: Sn_709c 
+   {jhāyetha rukkha-mūlasmiṃ.}
+
+
+
+Cross-Reference: Sn_165 
+Verse: 39  
+39
+         {69}
+
+
+Halfverse: a     eṇe-jaǧa kiśa vira
+   {eṇijanghaṃ kisaṃ dhīraṃ}
+         {39}
+Halfverse: b     apahara alolubh\u
+   {appāhāram alolupaṃ.}
+Cross-Reference: M_II_197 
+Halfverse: c     apaṯha apa-kica ji
+   {. . . appaṭṭhaṃ appa-kiccaṃ.}
+Halfverse: d     tam ahu brommi brammaṇa. (39)
+
+
+
+Cross-Reference: Uv_33,_37 
+Cross-Reference: D_III_159 
+Verse: 40  
+40
+         {70}
+
+
+Halfverse: a     akrodhu aṇuvayasaṃ
+   {akkodhano ahosi anupāyāsabahulo.}
+Cross-Reference: DP_413 
+Halfverse: b     viprasana aṇavila
+   {vippasannam anāvilaṃ}
+Cross-Reference: DP_413 
+         {40}
+Halfverse: c     cadra ba vimali śudhu
+   {candaṃ va vimalaṃ suddhaṃ.}
+Halfverse: d     tam ahu bromi brammaṇa. (40)
+
+
+
+Cross-Reference: DP_422 
+Verse: 41  
+41
+         {71}
+
+
+Halfverse: a     . . . . . (ra dhira)(?)
+   {usabhaṃ pavaraṃ vīraṃ}
+Halfverse: b     . (h) . (v)iy(i)daviṇo
+   {mahesiṃ vijitāvinaṃ}
+         {41}
+Halfverse: c     aṇiha nadaka budhu
+   {anejaṃ nahātakaṃ buddhaṃ}
+Halfverse: d     tam ahu bromi bramaṇa. (41)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+
+
+
+Cross-Reference: DP_398 
+Verse: 42  
+42
+         {72}
+
+
+Halfverse: a     chetva nadhi valatra ya
+   {chetvā nandhiṃ varattaṃ ca}
+Halfverse: b     sadaṇa samadikrammi
+   {sandānaṃ sahanukkamaṃ}
+         {42}
+Halfverse: c     uksita-phali'a vira
+   {ukkhitta-paĪ¸·igham buddhaṃ}
+Halfverse: d     tam aho brommi brammaṇa. (42)
+   {tam ahaṃ brūmi brāhmaṇaṃ.}
+
+
+
+Cross-Reference: Uv_33,_55 
+Cross-Reference: DP_420 
+Verse: 43  
+43
+         {73}
+
+
+Halfverse: a     yasa gadi na jaṇadi
+   {yassa gatiṃ na jānanti}
+Halfverse: b     deva gańava-maṇ . .
+   {devā gandhabba-mānusā}
+         {43}
+Halfverse: c     tadhakadasa budhasa
+   {khīnāsavaṃ arahantaṃ}
+Halfverse: d     tam ahu brommi bramaṇa. (43)
+   {tam ahaṃ brūmi brāhmaṇaṃ}
+
+
+
+Cross-Reference: Uv_33,_59 
+Cross-Reference: DP_419 
+Verse: 44  
+44
+         {94}
+
+
+Halfverse: a     yo cudi uvedi satvaṇa
+   {cutiṃ yo vedi sattānaṃ}
+         {480 44}
+Halfverse: b     vavati ca \vi sa\rvaśo
+   {upapattiṃ ca sabbaso}
+Cross-Reference: Uv_33,_43 
+Halfverse: c     budhu adima-śarira
+   {asattam sugataṃ buddhaṃ}
+Halfverse: d     tam aho bromi bramaṇa. (44)
+   {tam ahaṃ brūmi brāhmaṇaṃ}
+Cross-Reference: DP_400 
+      {dantaṃ antima-sārīraṃ.}
+         {B_1}
+
+
+
+Verse: 45  
+45
+         {95}
+
+
+Halfverse: a     akrodhu aṇuvayasa
+Halfverse: b     vipramutu p(u)ṇa(r)bhava
+         {45}
+Cross-Reference: DP_261 
+Halfverse: c     budhu vada-mala dhira
+   {sa ve vanta-malo dhīro.}
+Halfverse: d     tam aho bromi bramaṇa. (45)
+         {B_2}
+
+
+
+Cross-Reference: Uv_33,_32 
+Cross-Reference: Uv_33,_25 
+Cross-Reference: DP_412 
+Verse: 46  
+46
+         {96}
+
+
+Halfverse: a     yo du puñe ca pave ca
+   {yo dha puññaṃ ca pāpaṃ ca}
+Halfverse: b     uhu ṣaǧa uvaca'i
+   {ubho sangaṃ upaccagā}
+         {46}
+Halfverse: c     aṣaǧa viraya budhu
+   {asokaṃ virajaṃ suddhaṃ}
+Halfverse: d     tam anu bromi bramaṇa. (46)
+   {tam ahaṃ brūmi brāhmaṇāṃ.}
+         {B_3}
+
+
+
+Cross-Reference: Uv_33,_50 
+Cross-Reference: DP_414 
+Verse: 47  
+47
+         {97}
+
+
+Halfverse: a     ja'i para-kada budhu
+   {tiṇṇo pāra-gato jhāyī}
+Halfverse: b     jidavi akadaggadi
+   {anejo akathamkathī.}
+Cross-Reference: Sn_527c 
+         {47}
+Halfverse: c     pruju deva-maṇuśaṇa
+   {deva-manussehi pūjiyo so.}
+Halfverse: d     tam ahu brommi bramana. (47)
+         {B_4}
+
+
+
+Cross-Reference: Uv_33,_43 
+Cross-Reference: DP_386 
+Verse: 48  
+48
+         {98}
+
+
+Halfverse: a     ja'i para-kada budhu
+   {jhāyiṃ virajam āsīnaṃ}
+Halfverse: b     kida-kica aṇasṛvu
+   {kata-kiccaṃ anāsavaṃ.}
+         {48}
+Halfverse: c     budhu daśabaloveda
+Halfverse: d     tam ahu bromi bramaṇa. (48)
+         {B_5}
+
+
+
+Cross-Reference: Uv_33,_44 
+Cross-Reference: DP_403 
+Verse: 49  
+49
+         {99}
+
+
+Halfverse: a     gammira-praña medhavi
+   {gambhīra-paññaṃ medhāviṃ}
+         {471}
+Halfverse: b     margamargasa ko'i'a
+   {maggāmaggassa kovidaṃ}
+         {49}
+Halfverse: c     utamu pravara vira
+   {uttamatthaṃ anuppattaṃ}
+Halfverse: d     tam ahu brommi bramaṇa. (49)
+   {tam ahaṃ brūmi brāhmaṇaṃ}
+Cross-Reference: DP_422 
+      {usabhaṃ pavaraṃ vīraṃ.}
+         {B_6}
+
+
+
+Cross-Reference: Uv_33,_85 
+Cross-Reference: DP_387 
+Verse: 50  
+50
+         100
+
+
+Halfverse: a     diva tavadi adicu
+   {divā tapati ādicco}
+Halfverse: b     radi avha'i cadrimu
+   {rattim ābhāti candimā}
+         {50}
+Halfverse: c     sanadhu kṣa\tri'o tavadi
+   {sannaddho khattiyo tapati}
+Halfverse: d     ǰa'i tavadi bramaṇo
+   {jhāyī tapati brāhmaṇo}
+Halfverse: e     adha sarva aho-ratra
+   {atha sabbaṃ aho-rattim}
+Halfverse: f     budhu tavadi teyasa. (50)
+   {buddho tapati tejasā.}
+         {B_7}
+Cross-Reference: Uv_33,_86 
+         (in margin)
+   {20 20 10.}
+
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 2
+
+Vagga: 2  
+{bhikhu}
+         {101}
+
+
+Cross-Reference: Uv_7,_8 
+Cross-Reference: DP_234 
+Verse: 51  
+51
+
+
+Halfverse: a     ka'eṇa savrudo bhikhu
+   {kāyena saṃvutā dhīrā}
+         {466}
+Halfverse: c     atha vaya'i savrudo
+   {atho vācāya samvutā}
+         {51}
+Halfverse: e     maṇeṇa savrudo bhikhu
+   {manasā saṃvutā dhīrā}
+   {te ve suparisaṃvutā.}
+Cross-Reference: Itiv_34 
+Halfverse: f     sarva druggade'o jahi. (1)
+   {sabbā duggatiyo jahe.}
+         {B_8
+         {102}
+
+
+
+Cross-Reference: Uv_7,_7 
+Cross-Reference: DP_361 
+Verse: 52  
+52
+
+
+Halfverse: a     ka'eṇa sañamu sadhu
+   {kāyena saṃvaro sādhu}
+Halfverse: b     sadhu vaya'i sañamu
+   {sādhu vācāya saṃvaro}
+Halfverse: c     maṇeṇa sañamu sadhu
+   {manasā samvaro sādhu}
+         {52}
+Halfverse: e     sadhu savatra sañamu
+   {sādhu sabbattha samvaro}
+Halfverse: f     sarvatra sañado bhikhu
+   {sabbattha samvuto bhlkkhu}
+Halfverse: g     sarva dugadi'o jahi. (2)
+   {sabba-dukkhā pamuccati.}
+Cross-Reference: Mv_III_423 
+         {. 9}
+         {103}
+
+
+
+Cross-Reference: Uv_32,_8 
+Cross-Reference: DP_362 
+Verse: 53  
+53
+
+
+Halfverse: a     hasta-sañadu pada-sañadu
+   {hattha-saññato pada-saññato}
+Halfverse: b     vaya-sañadu savudidri'o
+   {vācāya saññato saññatuttamo}
+         {53}
+Halfverse: c     aǰatva-\rado samahido
+   {ajjhatta-rato samāhito}
+Halfverse: d     eko saduṣido tam ahu bhikhu (3)
+   {eko saṃtuslto tam ahu bhlkkhum.}
+Cross-Reference: Mv_III_423cd 
+         {104}
+
+
+
+Cross-Reference: Uv_8,_10 
+Cross-Reference: DP_363 
+Verse: 54  
+54
+
+
+Halfverse: a     yo muheṇa sañado bhikhu
+   {yo mukha-saññato bhikkhu}
+Halfverse: b     mana-bhaṇi aṇudhado
+   {manta-bhāṃ anuddhato}
+         {54}
+Halfverse: c     artha dhar\ma Ci deśedi
+   {attham dhammam ca dīpeti}
+Halfverse: d     masuru tasa bhasida. (4)
+   {madhuram tassa bhāsitam-}
+         {B_1 ~ VIIl- 10 (XXV11I. 8b)}
+         {105}
+
+
+
+Cross-Reference: Uv_32,_10 
+Cross-Reference: DP_373 
+Verse: 55  
+55
+
+
+Halfverse: a     śuñakare praviṭhasa
+   {suññāgāraṃ pavitthassa}
+Halfverse: b     śada-citasa bhikhuṇo
+   {santa-cittassa bhikkhuno}
+         {55}
+Halfverse: c     amaṇuṣa-radi\ bhodi
+   {amānusī radi hoti}
+Halfverse: d     sa(m)e dhar(ma) vivaśadu. (5)
+   {sammā dhammam vipassato.}
+         {B_12}
+         {106}
+
+
+
+Cross-Reference: Uv_32,_11 
+Cross-Reference: DP_374 
+Verse: 56  
+56
+
+
+Halfverse: a     yado yado sammaṣadi
+   {yato yato sammasati}
+Halfverse: b     kanaṇa udaka-vaya
+   {khandhānaṃ udaya-bbayaṃ}
+         {56}
+Halfverse: c     lahadi pridi-\pramoju
+   {labhati pīti-pāmojjam}
+Halfverse: d     amudu ta vi'aṇadu. (6)
+   {amatam tam nJānatam.}
+         {B_13}
+         {107}
+
+
+
+Verse: (56a)  
+(56a)
+
+
+Halfverse: a     śuñakare pravithasa
+Halfverse: b     śada-citasa bhikhuṇo
+         {57}
+Halfverse: d     ama\ṇuṣa-radi bhodi
+Halfverse: e     same dharma vivaśadu. (5)
+         {B_14}
+Halfverse: f     {108, 474}
+
+
+
+Cross-Reference: Uv_31,_50 
+Cross-Reference: Thg_398 
+Verse: 57  
+57
+
+
+Halfverse: a     pajagi'eṇa turi'eṇa
+   {pañcarigikena turiyena}
+Halfverse: b     na radi bhodi tadiśa
+   {na rati hoti tādisī}
+         {58}
+Halfverse: d     (ya)\tha '(e)kaga-citasa
+   {yathā ekagga-cittassa}
+Halfverse: e     same dharma vivaśadu. (7)
+   {samma dhammaṃ vipassato}
+         {B_IS}
+         {109}
+
+
+
+Cross-Reference: Uv_32,_25 
+Cross-Reference: DP_372 
+Verse: 58  
+58
+
+
+Halfverse: a     nasti ǰaṇa aprañasa
+   {natthi jhānaṃ apaññassa}
+Halfverse: b     praña nasti aǰayado
+   {paññā natthi ajjhāyato}
+Halfverse: c     yasa jaṇa ca praña ya
+   {yamhi jhānaṃ ca paññā ca}
+         {59}
+Halfverse: d     so hu \ nirvaṇasa sadi'i. (8)
+   {sa ve nibbāna-santike.}
+         {B_16}
+         {110}
+
+
+
+Cross-Reference: Uv_32,_26 
+Cross-Reference: DP_375 
+Verse: 59  
+59
+
+
+Halfverse: a     tatra'i adi bhavadi
+   {tatrāyam ādi bhavati}
+Halfverse: b     tadha prañasa bhikhuṇo
+   {idha paññassa bhikkhuno}
+Cross-Reference: Uv_32,_27 
+Halfverse: c     idri'a-goti saduṭhi
+   {indriya-guttī saṃtutthī}
+         {60}
+Halfverse: d     pradimukhe i . . \r(o). (9)
+   {pātimokkhe ca saṃvaro.}
+         {B_7}
+         {111}
+
+
+
+Cross-Reference: Uv_32,_7 
+Cross-Reference: DP_375 
+Verse: 60  
+60
+
+
+Halfverse: a     mitra bhaye'a paḍiruva
+   {mitte bhajassu kalyāṇe}
+Halfverse: b     śudhayiva ata(dr)idi
+   {suddhājīve atandite}
+         {479}
+Cross-Reference: DP_376 
+Halfverse: c     paḍisadhara-guti=sa
+   {patisanthāra-vutty=assa}
+Halfverse: d     ayara-kuśa . . .
+   {acara-kusalo siya}
+         {112}
+   {tato pāmojja-bahulo}
+Cross-Reference: DP_379 
+Halfverse: f     tadu ayara-kuśalo
+   {sukham bhikkhu vihāhisi.}
+Halfverse: g     suhu bhikhu vihaṣisi. (10)
+         {B_18~ 19}
+         {113}
+
+
+
+Cross-Reference: Uv_13,_8 
+Cross-Reference: DP_365 
+Verse: 61  
+61
+
+
+Halfverse: a     salavhu nadimañe'a
+   {salābhaṃ nātimanñeyya}
+Halfverse: b     nañeṣa sviha'o si'a
+   {nāññesaṃ pihayaṃ care}
+Halfverse: c     añeṣa sviha'o bhikhu
+   {aññesaṃ pihayaṃ bhikkhu}
+Halfverse: d     samadhi nadhikachadi. (11)
+   {samādhiṃ nādhigacchati.}
+         {B_20}
+         {114}
+
+
+
+Cross-Reference: Uv_13,_12 
+Cross-Reference: DP_366 
+Verse: 62  
+62
+
+
+Halfverse: a     apa-labho du yo bhikhu
+   {appa-lābho pi ce bhikkhu}
+Halfverse: b     salavhu nadimañadi
+   {salābhaṃ nātimaññati}
+Halfverse: c     ta gu deva praśaǰadi
+   {taṃ ve devā pasaṃsanti}
+Halfverse: d     śudhayivu atadrida. (12)
+   {suddhājīvim atanditam.}
+         {B_. 2 I}
+Cross-Reference: Uv_32,_2 
+         {115}
+
+
+
+Verse: 63  
+63
+
+
+Halfverse: a     kamaramu kama-radu
+Halfverse: b     kamu aṇuvicida'o
+Halfverse: c     kamu aṇusvaro bhikhu
+         {477}
+Halfverse: e     sadharma parihayadi. (13)
+         {B_22}
+         {116}
+
+
+
+Cross-Reference: Uv_32,_9 
+Cross-Reference: DP_364 
+Verse: 64  
+64
+
+
+Halfverse: a     dhamaramu dhama-radu
+   {dhammārāmo dhamma-rato}
+Halfverse: b     dhamu aṇuvicida'o
+   {dhammaṃ anuvicintayaṃ}
+Halfverse: c     dhamu aṇusvaro bhikhu
+   {dhammaṃ anussaraṃ bhikkhu}
+Halfverse: d     sadharma na parihayadi. (14)
+   {sad-dhammā na parihāyati.}
+         {B_23}
+Cross-Reference: Mv_III_422 
+         {117}
+
+
+
+Cross-Reference: Uv_32,_36 
+Cross-Reference: DP_271 
+Verse: 65  
+65
+
+
+Halfverse: a     na śila-vada-matreṇa
+   {na sīla-bbata-mattena}
+Halfverse: b     baho-ṣukeṇa va maṇo
+   {bāhusaccena vā puna}
+Halfverse: c     adha samadhi-labheṇa
+   {atha vā samādhi-lābhena}
+Halfverse: d     vevita-śayaṇeṇa va (15)
+   {vivieca-sayanena vā}
+         {118}
+
+
+
+Cross-Reference: DP_272 
+Verse: 66  
+66
+
+
+Halfverse: a     phuṣamu nekhama-sukhu
+   {phusāmi nekkhamma-sukhaṃ}
+Halfverse: b     aprudha-jaṇa-sevida
+   {aputhujjana-sevitaṃ}
+Halfverse: c     bhikhu viśpaśa mavad(i)
+   {bhikkhu vissāsa māpādi}
+         {476}
+Halfverse: e     aprate asava-kṣaye. (16)
+   {appatto āsava-kkhayam.}
+Cross-Reference: Mv_III_422 
+         {B_24, 25}
+         {119}
+
+
+
+Cross-Reference: Uv_32,_18 
+Cross-Reference: DP_266 
+Verse: 67  
+67
+
+
+Halfverse: a     na bhikhu tavada bhodi
+   {na tena bhikkhu hoti}
+Halfverse: b     yavada bhikṣadi para
+   {yāvatā bhikkhate pare}
+Halfverse: c     veśma dharma samada'i
+   {vissam dhammam samādāya}
+         {473}
+Halfverse: d     bhikhu bhodi na tavada. (17)
+   {bhikkhu hoti na tāvatā-}
+         {B_6}
+Cross-Reference: Mv_III_422 
+         {120}
+
+
+
+Cross-Reference: Uv_32,_19 
+Cross-Reference: DP_267 
+Verse: 68  
+68
+
+
+Halfverse: a     yo du baheti pavaṇa
+   {yo dha puññaṃ ca pāpaṃ ca}
+Halfverse: b     vadava bramma-yiyava
+   {bāhetvā brahmacariyavā}
+Halfverse: c     sagha'i caradi loku
+   {samkhāya loke carati}
+Halfverse: d     so du bhikhu du vucadi. (18)
+   {sa ve bhikkhū ti vuccati.}
+         {B_27}
+Cross-Reference: Mv_III_422 
+         {121 (472)}
+
+
+
+Cross-Reference: Uv_32,_25 
+Verse: 69  
+69
+
+
+Halfverse: a     metra-vihari yo bhikhu
+Halfverse: b     prasanu budha-śaśaṇe
+Cross-Reference: Uv_4,_28 
+Cross-Reference: Uv_28,_8 
+Cross-Reference: Thg_2,_1006cd 
+Halfverse: c     duṇadi pavaka dharma
+   {dhunati pāpake dhamme}
+Halfverse: d     druma-patra ba maduru. (19)
+   {duma-pattaṃ va māluto.}
+         {B_28}
+         {122}
+
+
+
+Cross-Reference: Uv_32,_20 
+Cross-Reference: DP_368 
+Verse: 70  
+70
+
+
+Halfverse: a     metra-vihara yo bhikhu
+   {mettā-vihārī yo bhikkhu}
+Halfverse: b     prasanu budha-śaśaṇe
+   {pasanno buddha-sāsane}
+Cross-Reference: Uv_4,_31 
+Halfverse: c     paḍiviǰu pada śada
+   {adhigacche padaṃ santaṃ}
+Halfverse: d     sagharavośamu suha. (20)
+   {sarikhārūpasamaṃ sukhaṃ.}
+         {B_29}
+Cross-Reference: Mv_III_421 
+         {123}
+
+
+
+Cross-Reference: Mv_III_422,_6 
+Verse: 71  
+71
+
+
+Halfverse: a     udaga-citu yo bhikhu
+   {udagra-citto sumanā}
+Halfverse: b     abhivuyu pri'apri'a
+   {abhibhūya priyāpriyaṃ}
+Halfverse: c     adhikachi pada śada
+   {ibid. I adhigacchati padaṃ śāntaṃ}
+Halfverse: d     akavuruṣa-sevida. (21)
+   {akāpuruṣa-sevitaṃ.}
+Cross-Reference: Thg_649d 
+   {akāpurisa-sevitaṃ.}
+         {B_30}
+         {124}
+
+
+
+Cross-Reference: Uv_32,_23 
+Cross-Reference: DP_381 
+Verse: 72  
+72
+
+
+Halfverse: a     pramoja-baholu yo bhikhu
+   {pāmojja-bahulo bhikkhu.}
+Halfverse: b     abhivuyu pri'apri'a
+Cross-Reference: Therī_196cd 
+Halfverse: c     adhikachi pada śada
+   {adhigacche padaṃ santaṃ}
+Halfverse: d     aseyaṇe moyaka. (22)
+   {asecanakam ojavaṃ.}
+Cross-Reference: Mv_III_421 
+   {asecanaṃ ca mocanaṃ.}
+Cross-Reference: Uv_32,_21 
+   {asecanaka-darśanam.}
+         {B_31}
+         {125}
+
+
+
+Cross-Reference: Uv_4,_32 
+Cross-Reference: DP_32 
+Verse: 73  
+73
+
+
+Halfverse: a     apramada-radu yo bhikhu
+   {appamāda-rato bhikkhu}
+Halfverse: b     pramadi bhaya-daśima
+   {pamāde bhaya-dassiva}
+Cross-Reference: Uv_6,_7 
+Halfverse: c     abhavu parihaṇa'i
+   {abhabbo parihānāya}
+Halfverse: d     nivaṇaseva sadi'i. (23)
+   {nibbānasseva santike.}
+         {B_32}
+         {126}
+
+
+
+Cross-Reference: Uv_4,_29 
+Cross-Reference: DP_31 
+Verse: 74  
+74
+
+
+Halfverse: a     apramada-radu yo bhikhu
+   {appamāda-rato bhikkhu}
+Halfverse: b     pramadi bhaya-da[(sima)]
+   {pamāde bhaya-dassivā}
+         {202 126}
+Halfverse: c     sañoya\ṇa (aṇu)-thu(l)a
+   {sannojanam aṇuṃ-thūlaṃ}
+         {475 126}
+Halfverse: d     ḍahu ag\i va gachadi. (24)
+   {ḍahaṃ aggīva gacchati.}
+         {B_33}
+         {127}
+
+
+
+Cross-Reference: Uv_31,_31 
+Cross-Reference: DP_371 
+Verse: 75  
+75
+
+
+Halfverse: a     ja'i bhikhu ma yi pramati
+   {jhāya bhikkhu mā ca pamādo}
+         {(202)}
+Halfverse: b     ma de kama-guṇa bhametsu cita
+   {mā te kāma-gune bhavassu cittam}
+Halfverse: c     ma loha guḍa gili pramata
+   {mā loha-guĪ¸·aṃ gilī pamatto}
+Halfverse: d     kani dukham ida di ḍaǰamaṇo. (25)
+   {mā kandi dukkham idaṃ ti ḍayhamāno.}
+         {B_34}
+         {128}
+
+
+
+Cross-Reference: Uv_26,_12 
+Cross-Reference: DP_369 
+Verse: 76  
+76
+
+
+Halfverse: a     sija bhikhu ima nama
+   {siñca bhikkhu imaṃ nāvaṃ}
+Halfverse: b     sita di lahu bheṣidi
+   {sittā te lahum essati}
+Halfverse: c     chetva raka ji doṣa ji
+   {chetvā rāgaṃ ca dosaṃ ca}
+Halfverse: d     tado nivaṇa eṣidi. (26)
+   {tato nibbānam ehisi.}
+         {B_35}
+Cross-Reference: Mv_III_421 
+         {129}
+
+
+
+Cross-Reference: Jāt_I_298 
+Verse: 77  
+77
+
+
+Halfverse: a     kodhaṇa akidaña i
+   {kodhanā akataññu ca}
+Halfverse: b     drohiṇi pa(r)i(va)ja'(i)
+   {pisuṇā ca vibhedikā}
+         {. (478~}
+Halfverse: c     brama-yirya cara bhikhu
+   {brahmacariyam cara bhikkhu}
+Halfverse: d     {465, 129}
+Halfverse: e     same-sabudha-śaśaṇi. (27)
+   {so sukhaṃ na vlhāhlsl.}
+         {B_36}
+         {130}
+
+
+
+Cross-Reference: DP_370 
+Verse: 78  
+78
+
+
+Halfverse: a     paja china paje jahi
+   {pañca chinde pañca jahe}
+Halfverse: b     paja utvari-bhava'i
+   {pañca vuttari-bhāvaye}
+Halfverse: c     paja-ṣaǧadhi'o bhikhu
+   {pañca-sarigātigo bhikkhu}
+Halfverse: d     oha-tiṇo di vucadi. (28)
+   {ogha-tiṇṇo ti vuccati.}
+         {B_37}
+         {131}
+
+
+
+Cross-Reference: Uv_32,_17 
+Cross-Reference: DP_367 
+Verse: 79  
+79
+
+
+Halfverse: a     savaśu nama-ruvasa
+   {sabbaso nāma-rūpasmiṃ}
+Halfverse: b     yasa nasti mama'ida
+   {yassa natthi mamāyitaṃ}
+Halfverse: c     asata i na śoyadi
+   {asatā ca na socati}
+Halfverse: d     so hu bhikhu du vucadi. (29)
+   {sa ve bhikkhū ti vuccati.}
+         {B_38}
+         {132}
+
+
+
+Cross-Reference: Uv_33,_1 
+Cross-Reference: DP_142 
+Verse: 80  
+80
+
+
+Halfverse: a     alagido ya vi care'a dhamu
+   {alarikato ce pi samaṃ careyya}
+Halfverse: b     dadu śadu sañadu bramma-yari
+   {santo danto niyato brahmacārī}
+Halfverse: c     saveṣu bhudeṣu niha'i daṇa
+   {sabbesu bhūtesu nidhāya daṇḍaṃ}
+Halfverse: d     so bramaṇo so ṣamaṇo so bhikhu. (30)
+   {so brāhmaṇo so samaṇo sa bhikkhu.}
+         {B_39}
+Cross-Reference: Mv_III_412 
+Cross-Reference: Divy_339 
+         {133}
+
+
+
+Cross-Reference: Uv_18,_21 
+Cross-Reference: Sn_5 
+Verse: 81  
+81
+
+
+Halfverse: a     yo najakamo bhavaṣ(u)1 sara
+   {yo nājjhagamā bhavesu sāraṃ}
+Halfverse: b     (v)iyi(ṇ)i p(u)ph(a) viva . . (puraṇa)
+   {vicinaṃ puppham iva udumbaresu}
+Halfverse: c     s(o) bhikhu jahadi (o) . . .
+   {so bhikkhu jahāti ora-pāram}
+         {136a 133}
+Halfverse: d     urako jiṇa \viva udumarṣ(u). (31)
+   {urago Jlṇṇam Iva tacaṃ purāṇaṃ.}
+         {. . B 40}
+         {134}
+
+
+
+Cross-Reference: Uv_32,_63 
+Cross-Reference: Sn_1 
+Verse: 82  
+82
+
+
+Halfverse: a     yo upad(i)[(da)] (v)iṇedi kodhu
+   {yo uppatitaṃ vineti kodhaṃ}
+Halfverse: b     visaḍa . . . . . .
+   {visataṃ sappavisaṃ va osadhehi}
+         {204}
+Halfverse: c     ..... orupa(r)a
+   {so bhikkhu jahāti ora-pāram}
+         {209}
+Halfverse: d     urako jiṇa v . . ya puraṇa. (32)
+   {uragoJIṇṇamlvatacaṃ purāṇaṃ.}
+         {B_41, 43}
+         {135}
+
+
+
+Cross-Reference: Uv_18,_25 
+Cross-Reference: Sn_4 
+Verse: 83  
+83
+
+
+Halfverse: a     yo maṇa udavahi aśeṣa
+   {yo mānam udabbadhī asesaṃ}
+Cross-Reference: Sn_2 
+Halfverse: b     bisa . . . . vikaśa
+   {bhisa-pupphaṃ va saroruhaṃ vigayha}
+Halfverse: c     so bhikhu jahadi (o) . para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jiṇa viva tvaya puraṇa. (33)
+         {B_42, 44}
+         {136}
+
+
+
+Cross-Reference: Sn_3 
+Verse: 84  
+84
+
+
+Halfverse: a     yo taša udacha'i aśeṣa
+   {yo taṇham udacchidā asesaṃ}
+Halfverse: b     sa(r) . . . . . śoṣa'(i)tha
+   {saritaṃ sīghasaraṃ visosayitvā}
+Halfverse: c     so bhikhu jaha . ora-para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jiṇa viva tvaya puraṇa. (34)
+         {B_43~ 45}
+         {137}
+
+
+
+Cross-Reference: Uv_32,_65 
+Verse: 85  
+85
+
+
+Halfverse: a     yo sarva-keleśa dala'itha
+Cross-Reference: Sn_4 
+Halfverse: b     naḍa . . . . [(ma)]hoho
+   {nala-setuṃ va sudubbalaṃ mahogho}
+Halfverse: c     so . kh(u) (ja)hadi ora-para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jina viva tvaya puraṇa. (35)
+         {B_44, 46}
+         {138}
+
+
+
+Cross-Reference: Sn_8_(?) 
+Verse: 86  
+86
+
+
+Halfverse: a     yo ecasari1 na precasari
+   {yo naccasārī na paccasārī}
+Halfverse: b     sar(v)a ('iha) (?) . . . .
+   {sabbam accagamā imam papañcaṃ}
+Halfverse: c     so bhikhu jaha . ora-para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jiṇa viva tvaya puraṇa. (36)
+         {B_47}
+         {139}
+
+
+
+Cross-Reference: Uv_32,_57 
+Cross-Reference: Sn_9 
+Verse: 87  
+87
+
+
+Halfverse: a     yo necasari na precasari
+   {yo nāccasārī na paccasārī}
+         {134A}
+Halfverse: b     sarvu vidadham ida di ñatva . \ku
+   {sabbaṃ vitatham idaṃ ti ñatva loke}
+         {139}
+Halfverse: c     so bhikhu jahadi ora-para
+   {so bhikkhu, Õ˚c}
+Halfverse: d     urako jiṇa viva tvaya puraṇa. (37)
+         {B_48}
+         {140}
+
+
+
+Cross-Reference: Uv_32,_77 
+Cross-Reference: Sn_14 
+Verse: 88  
+88
+
+
+Halfverse: a     yasa aṇośe'a na sadi keyi
+   {yassānusayā na santi keci}
+Cross-Reference: Sn_15 
+Halfverse: b     oru akamaṇa'i prace'a i
+   {oraṃ āgamanāya paccayāse}
+Halfverse: c     so bhikhu jahadi ora-para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jiṇa viva tvayo puraṇa. (38)
+         {B_49}
+         {141}
+
+
+
+Cross-Reference: Uv_32,_75 
+Cross-Reference: Sn_16 
+Verse: 89  
+89
+
+
+Halfverse: a     yasa vaṇaśe'a na sadi keyi
+   {yassa vanathajā na santi keci}
+Halfverse: b     viṇavana'u bhava'i hedu-kapa
+   {vinibandhāya bhavaya hetukappā}
+Halfverse: c     so bhikhu jahadi ora-para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jiṇa viva tvaya puraṇa. (39)
+         {B_48, 50}
+
+
+
+Cross-Reference: Uv_32,_72 
+Cross-Reference: Sn_17 
+Verse: 90  
+90
+
+
+Halfverse: a     . . . . . . .
+   {yo nīvaraṇe pahāya pañca}
+         {142}
+Halfverse: b     . . ti(ṇa)-kadaka . (v)iśal(a)
+   {anīgho tiṇṇa-kathaṃkatho visa//o}
+Halfverse: c     so bhikhu jahadi ora-para
+   {so bhikkhu, Õ˚c.}
+Halfverse: d     urako jiṇa viva tvaya puraṇa. (40)
+         {7 ( 7}
+         {(in margin) 20 20.}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 3
+
+Vagga: 3  
+{tasiṇa}
+
+
+Cross-Reference: DP_334 
+Verse: 91  
+91
+
+
+Halfverse: a     . . . . . . . .
+   {manujassa pamatta-cārino}
+Halfverse: b     . . . . . . . .
+   {taṇhā vaḍḍhati māluvā viya}
+         {464}
+Halfverse: c     ..................... [(h)]oru
+   {so plavati hurāhuraṃ}
+         {143}
+Halfverse: d     phalam ich\o va vaṇasma vaṇaru. (1)
+   {phalam iechaṃ va vanasmiṃ vānaro.}
+Cross-Reference: Uv_3,_4 
+         {B_5r}
+
+
+
+Cross-Reference: Uv_27,_26 
+Cross-Reference: DP_344 
+Verse: 92  
+92
+
+
+Halfverse: a     . . . . . . . .
+   {yo nibbanatho vanādhimutto}
+Halfverse: b     . . . . . . . .
+   {vana-mutto vanam eva dhāvati}
+         {144}
+Halfverse: c     ..................... paśadha
+   {taṃ puggalam eva passatha}
+Halfverse: d     muto bańaṇam eva jayadi. (2)
+   {mutto bandhanam eva dhāvati.}
+         {B.52}
+
+
+
+Cross-Reference: Uv_18,_3 
+Cross-Reference: DP_283 
+Verse: 93  
+93
+
+
+Halfverse: a     . . . . . . . .
+   {vanaṃ chindatha mā rukkhaṃ}
+Halfverse: b     . . . . . . . .
+   {vanato jayatl bhayam}
+         {145}
+Halfverse: c     .. .. . . . . . . . yi
+   {chetvā vanaṃ ca vanathaṃ ca}
+Halfverse: d     nivaṇa bhodha bhikṣavi. (3) .
+   {nibbanā hotha bhikkhavo}
+         {B_53}
+
+
+
+Cross-Reference: DP_284 
+Verse: 94  
+94
+
+
+Halfverse: a     . . . . . . . .
+   {yāvaṃ hi vanatho na chijjati}
+Halfverse: b     . . . . . . . .
+   {aṇu-matto pi narassa nārisu}
+Halfverse: c     . . . . . . . .
+   {paṭibaddha-mano va tāva so}
+         {146}
+Halfverse: d     .. . . kṣira-vayo va madara. (4)
+   {vaccho khīra-pako va matari.}
+         {54}
+
+
+
+Cross-Reference: Uv_3,_5 
+Cross-Reference: DP_341 
+Verse: 95  
+95
+
+
+Halfverse: a     . . . . . . . .
+   {saritāni sinehitani ca}
+Halfverse: b     . . . . . . . .
+   {somanassāni bhavanti jantuno}
+         {459}
+Halfverse: c     ........ . suh(e)ṣiṇo
+   {te sātasitā sukhesino}
+   {te ve Jati-~arupaga nara.}
+         {455}
+Cross-Reference: Uv_3,_6 
+Cross-Reference: DP_342 
+   {tasiṇāya purakkhatā pajā}
+   {parisappanti saso va bādhito}
+   {saṃyojana-sanga-sattakā}
+Halfverse: d     yokam a'ed(i) \puṇapuṇu cira'i.
+   {dukkham upenti punappunaṃ ciraya.}
+
+
+
+Cross-Reference: Uv_2,_7 
+Cross-Reference: Saṃ_I_22 
+Verse: 96  
+96
+
+
+Halfverse: a     . . . . . . . .
+   {na te kāmā yāni citrāni loke}
+         {462 457}
+Halfverse: b     . . ku puruṣasa kama
+   {samkappa-rago purisassa kamo}
+         {432, 460 451}
+Halfverse: c     ciṭhadu ci\t(r)aṇi tadheva\ loke
+   {titṭhanti cltrānl tatheva loke}
+Halfverse: d     athatha dhira veṇe'adi chana.
+   {ath' ettha dhīrā vinayanti chandaṃ.}
+
+
+
+Cross-Reference: DP_351 
+Verse: 96a  
+96a
+
+
+Halfverse: a     . . . . . . . .
+   { niṭṭhangato asantāsī}
+Halfverse: b     . . . . . . . .
+   {vīta-taṇho anangano}
+         {458 452}
+Halfverse: c     .... . . [(bha)]va-śa\laṇa
+   {acchidda bhava-sallāni}
+      {antlmo 'yam samussayo.}
+Cross-Reference: Thg_607d 
+Halfverse: d     sabrayaṇo pradisvado.
+   {sampalano patlssato.}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 4
+
+Vagga: 4  
+{pavu}
+
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 5
+
+Vagga: 5  
+{araha}
+
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 6
+
+Vagga: 6  
+{magu}
+         {147}
+
+
+Cross-Reference: Saṃ_I_33 
+Verse: 97  
+97
+
+
+Halfverse: a     (u)ju'o namu so magu
+   {ujuko nāma so maggo}
+Halfverse: b     abhaya namu sa diśa
+   {abhayā nāma sā disā}
+Halfverse: c     radho akuyaṇo namu
+   {ratho akūjano nāma}
+Halfverse: d     dharma-trakehi sahado. (18)
+   {dhamma-cakkehi saṃyuto.}
+         {A41}
+         {148}
+
+
+
+Verse: 98  
+98
+
+
+Halfverse: a     hiri tasa avaramu
+   {hirī tassa apālambo}
+Halfverse: b     svadi=sa parivaraṇa
+   {saty=assa parivāranaṃ}
+Halfverse: c     dhamaha saradhi bromi
+   {dhammāhaṃ sārathiṃ brūmi}
+Halfverse: d     same-diṭhi-purejavu. (19)
+   {sammā-diṭṭhi-purejavam.}
+         {A42}
+         {149}
+
+
+
+Verse: 99  
+99
+
+
+Halfverse: a     yasa edadiśa yaṇa
+   {yassa etādisaṃ yānaṃ}
+Halfverse: b     gihi parva'idasa va
+   {itthiya purisassa vā}
+Halfverse: c     sa vi ediṇa yaṇeṇa
+   {sa ve etena yānena}
+Halfverse: d     nivaṇaseva sadi'a. (20)
+   {nibbānasseva santike.}
+         {A43}
+         {150}
+
+
+
+Cross-Reference: DP_296 
+Verse: 100  
+100
+
+
+Halfverse: a     supra'udhu pra'ujadi
+   {suppabuddhaṃ pabujjhanti}
+Halfverse: b     imi godama-ṣavaka
+   {sadā gotama-sāvakā}
+Halfverse: c     yeṣa diva ya radi ca
+   {yesaṃ divā ca ratto ca}
+Halfverse: d     nica budha-kada svadi. (21)
+   {niccaṃ buddha-gatā sati.}
+         {A44}
+Cross-Reference: Uv_15,_12 
+         {151}
+
+
+
+Cross-Reference: DP_297 
+Verse: 101  
+101
+
+
+Halfverse: a     supra'udhu pra'uǰadi
+   {suppabuddhaṃ pabujjhanti}
+Halfverse: b     imi godama-ṣavaka
+   {sadā gotama-sāvakā}
+Halfverse: c     yeṣa diva ya radi ca
+   {yesaṃ divā ca ratto ca}
+Halfverse: d     nica dhama-kada svadi. (22)
+   {niccaṃ dhamma-gata sati.}
+         {A45 ~. 13}
+         {152}
+
+
+
+Cross-Reference: DP_298 
+Verse: 102  
+102
+
+
+Halfverse: a     supra'udhu pra'uǰadi
+   {suppabuddhaṃ pabujjhanti}
+Halfverse: b     imi godama-ṣavaka
+   {sadā gotama-sāvaka}
+Halfverse: c     yeṣa diva ya radi ca
+   {yesaṃ diva ca ratto ca}
+Halfverse: d     nica saǦa-kada svadi. (23)
+   {niccaṃ sangha-gatā sati.}
+         {A46}
+Cross-Reference: Uv_15,_14 
+         {153}
+
+
+
+Cross-Reference: DP_299 
+Verse: 103  
+103
+
+
+Halfverse: a     supra'udhu pra'uǰadi
+   {suppabuddhaṃ pabujjhanti}
+Halfverse: b     imi godama-ṣavaka
+   {sada gotama-sāvakā}
+Halfverse: c     yeṣa diva ya radi ca
+   {yesam divā ca ratto ca}
+Halfverse: d     nica kaya-kada svadi. (24)
+   {niccam kaāya-gatā sati.}
+         {A47}
+Cross-Reference: Uv_15,_15 
+         {154}
+
+
+
+Cross-Reference: DP_300 
+Verse: 104  
+104
+
+
+Halfverse: a     supra'udhu pra'uǰadi
+   {suppabuddhaṃ pabujjhanti}
+Halfverse: b     imi godama-ṣavaka
+   {sadā gotama-sāvakā}
+Halfverse: c     yeṣa diva ya radi ca
+   {yesam divā ca ratto ca}
+Halfverse: d     ahitsa'i rado maṇo. (25)
+   {ahiṃsaya rato mano.}
+         {A48}
+Cross-Reference: Uv_15,_17 
+         {155}
+
+
+
+Cross-Reference: DP_301 
+Verse: 105  
+105
+
+
+Halfverse: a     supra'udhu pra'uǰadi
+   {suppabuddhaṃ pabujjhanti}
+Halfverse: b     imi godama-ṣavaka
+   {sadā gotama-sāvakā}
+Halfverse: c     yeṣa diva ya radi ca
+   {yesam diva ca ratto ca}
+Halfverse: d     bhamaṇa'i rado maṇo. (26)
+   {bhāvanaya rato mano.}
+         {A49}
+Cross-Reference: Uv_15,_25 
+         {156}
+
+
+
+Cross-Reference: DP_277 
+Verse: 106  
+106
+
+
+Halfverse: a     savi saghara aṇica di
+   {sabbe saṃkhārā aniccā ti}
+Halfverse: b     yada prañaya paśadi
+   {yadā panñāya passati}
+Halfverse: c     tada nivinadi dukha
+   {atha nibbindati dukkhe}
+         {234 449}
+Halfverse: e     e[(ṣo)] magu viśo\dh(i)'a. (27)
+   {esa maggo vlsuddhlya}
+         {A31}
+Cross-Reference: Uv_12,_5 
+         {157}
+
+
+
+Cross-Reference: DP_278 
+Verse: 107  
+107
+
+
+Halfverse: a     savi saghara dukha di
+   {sabbe saṃkhārā dukkhā ti}
+Halfverse: b     yada praña'i gradhadi
+   {yadā paññāya passati}
+Halfverse: c     tada nivinadi dukha
+   {atha nibbindati dukkhe}
+         {235}
+Halfverse: d     eṣo magu viśodhi'a. (28)
+   {esa maggo visuddhiyā}
+         {A32}
+Cross-Reference: Uv_12,_6 
+         {158}
+
+
+
+Cross-Reference: DP_279 
+Verse: 108  
+108
+
+
+Halfverse: a     sarvi dhama aṇatva di
+   {sabbe dhammā anattā ti}
+Halfverse: b     yada paśadi cakhkṣuma
+   {yadā paññāya passati}
+Halfverse: c     tada nivinadi dukha
+   {atha nibbindati dukkhe}
+Halfverse: d     eṣo mago viśodhi'a. (29)
+   {esa maggo visuddhiyā.}
+         {A33}
+Cross-Reference: Uv_12,_7 
+         {159}
+
+
+
+Cross-Reference: DP_273 
+Verse: 109  
+109
+
+
+Halfverse: a     magaṇa aṭhaǧi'o śeṭho
+   {maggān' aṭṭhangiko seṭṭho}
+Halfverse: b     sacaṇa ca'uri pada
+   {saccānam caturo padā}
+Halfverse: c     viraku śeṭho dhamaṇa
+   {virāgo seṭṭho dhammānam}
+Halfverse: d     praṇa-bhudaṇa cakhuma. (30)
+   {dipadānaṃ ca cakkhumā.}
+         {A34}
+Cross-Reference: Uv_12,_4 
+         {ga 20 10.}
+         {160}
+
+
+
+Cross-Reference: DP_168 
+Verse: 110  
+110
+
+
+Halfverse: a     udiṭha na pramaje'a
+   {uttiṭṭhe na ppamajjeyya}
+Halfverse: b     dhamu sucarida cari
+   {dhammaṃ sucaritaṃ care}
+Halfverse: c     dhama-cari suhu śe'adi
+   {dhamma-cārī sukham seti}
+Halfverse: d     asvi loki parasa yi. (1)
+   {asmiṃ loke paramhi ca.}
+         {A36 IV. 35}
+         {161}
+
+
+
+Cross-Reference: DP_25 
+Verse: 111  
+111
+
+
+Halfverse: a     uṯhaṇeṇa apramadeṇa
+   {uṭṭhānenappamādena}
+Halfverse: b     sañameṇa dameṇa ca
+   {sañnamena damena ca}
+Halfverse: c     divu karodi medhavi
+   {dīpam kayirātha medhāvī}
+Halfverse: d     ya jara nabhimardadi. (2)
+   {yam ogho nābhikīrati.}
+         {A37 IV. 5}
+         {162}
+
+
+
+Cross-Reference: DP_24 
+Verse: 112  
+112
+
+
+Halfverse: a     uṯhaṇamado svadimado
+   {uṭṭhānavato satīmato.}
+Halfverse: b     suyi-kamasa niśama-cariṇo
+   {suci-kammassa nisamma-kārino}
+Halfverse: c     sañadasa hi dhama-jiviṇo
+   {saññatassa ca dhammajīvino}
+Halfverse: d     apramatasa yaś=idha vaḍhadi. (3)
+   {appamattassa yaso 'bhivaḍḍhati.}
+         {A38 IV. 6}
+         {163}
+
+
+
+Cross-Reference: DP_280 
+Verse: 113  
+113
+
+
+Halfverse: a     uṯhaṇe-'alasa aṇuṯhehadu
+   {utthāna-kālamhi anutthahāno}
+Halfverse: b     yo'i bali alasi'e uvidu
+   {yüvā balī ālasiyaṃ upeto}
+Halfverse: c     satsana-sagapa-maṇo svadima
+   {samsannasamkappa-mano kusīto}
+Halfverse: d     praña'i maga alasu na vinadi. (4)
+   {pannāya maggaṃ alaso na vindati.}
+         {A39}
+Cross-Reference: Uv_31,_32 
+         {164}
+
+
+
+Cross-Reference: DP_259 
+Verse: 114  
+114
+
+
+Halfverse: a     na tavada dhama-dharo
+   {na tāvatā dhamma-dharo}
+Halfverse: b     yavada baho bhaṣadi
+   {yāvatā bahu bhāsati}
+Halfverse: c     yo du apa bi ṣutvaṇa
+   {yo ca appam pi sutvāna}
+Halfverse: d     dhamu ka'eṇa phaṣa'i
+   {dhammaṃ kāyena passati}
+         {165}
+Halfverse: f     so ho dhama-dharo bhodi
+   {sa ve dhamma-dharo hoti}
+Halfverse: g     yo dhamu na pramajadi. (5)
+   {YO dhammaṃ na ppama~ati}
+         {A310,11 IV.21}
+         {166}
+
+
+
+Cross-Reference: DP_21 
+Verse: 115  
+115
+
+
+Halfverse: a     apramadu amuda-pada
+   {appamādo amata-padaṃ}
+Halfverse: b     pramadu mucuṇo pada
+   {pamādo maccuno padaṃ}
+Halfverse: c     apramata na miyadi
+   {appamattā na mīyanti}
+Halfverse: d     ye pramata yadha mudu. (6)
+   {ye pamattā yathā matā.}
+         {A312 IV.}
+         {167}
+
+
+
+Cross-Reference: DP_22 
+Verse: 116  
+116
+
+
+Halfverse: a     eda viśeṣadha ñatva
+   {etam visesato ñatvā}
+Halfverse: b     apramadasa paṇido
+   {appamādamhi paṇḍitā}
+Halfverse: c     apramadi pramodi'a
+   {appamāde pamodanti}
+Halfverse: d     ari'aṇa goyari rado. (7)
+   {ariyānaṃ gocare rata.}
+         {A313 IV.}
+         {168}
+
+
+
+Cross-Reference: DP_26 
+Verse: 117  
+117
+
+
+Halfverse: a     pramada aṇuyujadi
+   {pamādaṃ anuyuñjanti}
+Halfverse: b     bala drumedhiṇo jaṇa
+   {bālā dummedhino janā}
+Halfverse: c     apramada du medhavi
+   {appamādaṃ ca medhāvī}
+         (468)
+Halfverse: d     dhaṇa śeṭhi va rakṣadi. (8)
+   {dhanam settham va rakkhati.}
+Cross-Reference: Uv_4,_10 
+         {A314}
+         {169}
+
+
+
+Cross-Reference: DP_29 
+Verse: 118  
+118
+
+
+Halfverse: a     apramatu pramateṣu
+   {appamatto pamattesu}
+Halfverse: b     suteṣu baho-jagaru
+   {suttesu bahujāgaro}
+Halfverse: c     avalaśa va bhadraśu
+   {abalassaṃ va sīghasso}
+Halfverse: d     hitva yadi sumedhasu. (9)
+   {hitvā yāti sumedhaso.}
+         {A315}
+Cross-Reference: Uv_19,_4 
+         {170}
+
+
+
+Cross-Reference: DP_28 
+Verse: 119  
+119
+
+
+Halfverse: a     pramadu apramadeṇa
+   {pamādaṃ appamādena}
+Halfverse: b     yadha nudadi paṇidu
+   {yadā nudati paṇḍito}
+Halfverse: c     praña-prasada aruśu
+   {paññā-pāsādam āruyha}
+Halfverse: d     aśoka śo'iṇo jaṇa
+   {asoko sokiniṃ pajaṃ}
+         {188a}
+Halfverse: e     pravada-ṯho \va bhuma-ṯha
+   {pabbata-ttho va bhumma-tthe}
+Halfverse: f     dhiru bala avekṣidi. (10)
+   {dhīro bāle avekkhatl.}
+
+         {171}
+
+
+
+Cross-Reference: DP_30 
+Verse: 120  
+120
+
+
+Halfverse: a     apramadeṇa makavha
+   {appamādena maghavā}
+Halfverse: b     devaṇa samidhi gadu
+   {devānaṃ seṭṭhataṃ gato}
+Halfverse: c     apramada praśaǰadi
+   {appamādaṃ pasaṃsanti}
+         {189a}
+Halfverse: d     pramadu gara\hidu sada. (11)
+   {pamādo garahito sadā}
+Cross-Reference: Uv_4,_24 
+         {A317, A21}
+         {172}
+
+
+
+Cross-Reference: DP_167 
+Verse: 121  
+121
+
+
+Halfverse: a     [(hi)]ṇa dha(r)ma na seva'a1
+   {hīnaṃ dhammaṃ na seveyya}
+Halfverse: b     pramadeṇa na savasi
+   {pamādena na samvase}
+Halfverse: c     micha-diṭhi na roy(e)'a
+   {micchā-ditthiṃ na seveyya}
+Halfverse: d     na si'a loka-vaḍhaṇo. (12)
+   {na siyā loka-vaddhano.}
+         {A22 IV. 8}
+         {173}
+
+
+
+Cross-Reference: DP_172 
+Verse: 122  
+122
+
+
+Halfverse: a     yo du puvi pramajeti
+   {yāŸ ca pubbe pamajjitvā}
+Halfverse: b     pacha su na pramajadi
+   {pacchā so na ppamajjati}
+Halfverse: c     so ida loku ohasedi
+   {so 'maṃ lokaṃ pabhāseti}
+Halfverse: d     abha muto va suri'u. (13)
+   {abbhā mutto va candimā.}
+         {A23}
+Cross-Reference: Uv_16,_5 
+         {174}
+
+
+
+Cross-Reference: Thg_256,_1147 
+Cross-Reference: Saṃ_I_156 
+Verse: 123  
+123
+
+
+Halfverse: a     arahadha nikhamadha
+   {ārabhathanikkhamatha}
+Halfverse: b     yujatha budha-śaśaṇe
+   {yunjatha buddha-sāsane}
+Halfverse: c     dhuṇatha mucuṇo seṇa
+   {dhunātha maccuno senaṃ}
+Halfverse: d     naḍakara ba kuñaru. (14)
+   {nalāgāraṃ va kuñjaro.}
+         {A24 IV.37; DIVy.68J138~ Õ˚C.}
+         {175}
+
+
+
+Cross-Reference: D_II_120 
+Verse: 124  
+124
+
+
+Halfverse: a     apramata svadimada
+   {appamattā satimanto}
+Halfverse: b     suśila bhodu bhikṣavi
+   {susīlā hotha bhikkhavo}
+Halfverse: c     susamahida-sagapa
+   {susamāhita-saṃkappā}
+Halfverse: d     sacita aṇurakṣadha. (15)
+   {sacittaṃ anurakkhatha.}
+         {A25 IV. 36}
+         {176}
+
+
+
+Cross-Reference: D_II_121 
+Cross-Reference: Saṃ_I_157 
+Cross-Reference: Thg_257 
+Verse: 125  
+125
+
+
+Halfverse: a     yo imasma dhama-viṇa'i
+   {yo imasmiṃ dhamma-vinaye}
+Halfverse: b     apramatu vihaṣidi
+   {appamatto vihessati}
+Halfverse: c     praha'i jadi-satsara
+   {pahāya jāti-saṃsāraṃ}
+Halfverse: d     dukhusada kariṣadi. (16)
+   {dukhass' antaṃ karissati.}
+         {~26}
+         {Uv. IV. 38; DIVy. 68, 139, Õ˚c.}
+         {177}
+
+
+
+Cross-Reference: DP_337 
+Verse: 126  
+126
+
+
+Halfverse: a     ta yu vadami bhadrañu
+   {taṃ vo vadāmi bhaddaṃ vo}
+Halfverse: b     yavaditha samakada
+   {yāvant' ettha samāgatā}
+Cross-Reference: DP_327 
+Halfverse: c     apramada-rada bhodha
+   {appamāda-ratā hotha}
+Cross-Reference: Itiv_78 
+Halfverse: d     sadhami supravedidi. (17)
+   {saddhamme suppavedite.}
+         {A27}
+         {Uv. III. I Iab}
+         {178}
+
+
+
+Verse: 127  
+127
+
+
+Halfverse: a     pramada parivajeti
+         {469}
+Halfverse: c     apramada-rada sada
+Cross-Reference: Therī_8cd 
+Halfverse: d     bhavetha kuśala dhama
+   {bhāvehi kusale dhamme}
+Halfverse: e     yoka-kṣemasa prata'a. (18)
+   {yoga-kkhemassa pattiyā.}
+Cross-Reference: Jāt_I_275 
+   {(bhaveti)}
+         {A28}
+         {179}
+
+
+
+Cross-Reference: M_III_187 
+Verse: 128  
+128
+
+
+Halfverse: a     te kṣema-prata suhiṇo
+   {te khema-ppattā sukhino.}
+         {(470) 454}
+Cross-Reference: Thg_1011d 
+Halfverse: b     apramada-vihar\i'o
+   {appamāda-vihārinO}
+Cross-Reference: Dhp_23c? 
+Halfverse: c     phuṣad(i) . . . . (ṇa)
+   {phusanti dhīrā nibbānaṃ.}
+Halfverse: d     . . . . . . . . (19)
+         {A}
+         {180}
+
+
+
+Cross-Reference: DP_27 
+Verse: 129  
+129
+
+
+Halfverse: a     apramadi pramodi'a
+   {mā pamādaṃ anuyuñjetha}
+Halfverse: b     ma gami-radi-sabhamu
+   {mā kāma-rati-santhavaṃ}
+Halfverse: c     apramato hi ǰayadu
+   {appamatto hi jhāyanto}
+Halfverse: d     viśeṣa adhikachadi. (20)
+   {pappoti vipulaṃ sukhaṃ.}
+Cross-Reference: Jāt_I_435 
+   {visesaṃ adhigacchati.}
+Cross-Reference: Jāt_IV_12 
+Cross-Reference: Thg_884 
+   {(paramaṃ for vipulaṃ)}
+         {A'2}
+         {181}
+
+
+
+Verse: 130  
+130
+
+
+Halfverse: a     apramadi pramodi'a
+Halfverse: b     ma gami-radi-sabhamu
+Halfverse: c     apramato hi jayadu
+Cross-Reference: Itiv_30,_87 
+Halfverse: d     kṣaya dukhasa pramuṇi. (21)
+   {khayaṃ dukkhassa pāpuṇe.}
+         {A13}
+         {182}
+
+
+
+Cross-Reference: DP_327 
+Verse: 131  
+131
+
+
+Halfverse: a     . . . da-rada bhodha
+   {appamāda-ratā hotha}
+Cross-Reference: DP_315 
+Halfverse: b     khaṇo yu ma uvaca'i
+   {khaṇo ve mā upaccagā}
+Halfverse: c     khaṇadida hi śoyadi
+   {khaṇātītā hi socanti}
+Halfverse: d     nira'eṣu samapi(da). (22)
+   {nirayamhi samappitā.}
+         {V, 17; cf. III. 14}
+         {183}
+
+
+
+Cross-Reference: DP_327 
+Verse: 132  
+132
+
+
+Halfverse: a     apramada-rada bhodha
+   {appamada-ratā hotha}
+Halfverse: b     sadhami supravedide
+   {sacittaṃ anurakkhatha}
+Halfverse: c     drugha udhvaradha atvaṇa
+   {duggā uddharath' attānaṃ}
+Halfverse: d     paga-sana va kuña. . (23)
+   {panke sanno va kuñjaro.}
+         {A'5 IV. 27cd (T_25);}
+Cross-Reference: Uv_32,_24cd 
+         {184}
+
+
+
+Cross-Reference: Uv_4,_13 
+Verse: 133  
+133
+
+
+Halfverse: a     na'i kalu pramadasa
+   {nāyaṃ pramāda-kālaḥ syād}
+Halfverse: b     aprati asava-kṣaye
+   {aprāpte hy āsrava-kṣaye}
+Halfverse: c     pramata duhu amedi
+   {pramattam māra anveti}
+Halfverse: d     siha ba mruya-madi'a. (24)
+   {siṃhaṃ va [s~c] mṛga-mātṛkā.}
+         {A'6}
+         {185}
+
+
+
+Verse: 134  
+134
+
+
+Halfverse: a     na'i pramada-samayu
+Cross-Reference: DP_272 
+Halfverse: b     aprati asava-kṣayi
+   {appatto āsava-kkhayaṃ.}
+Cross-Reference: DP_27 
+Halfverse: c     apramato hi jayadu
+   {appamatto hi jhāyanto}
+Halfverse: d     pranodi paramu sukhu. (25)
+   {pappoti vipulaṃ sukhaṃ.}
+         {A'7 IV. I 2cd; Thg. 884cd paramarp}
+         {ga 20 4 I.}
+         {A'8}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 7
+
+Vagga: 8  
+{cita}
+         {186, 440 435}
+
+
+Cross-Reference: Mv_III_212 
+Verse: 135  
+135
+
+
+Halfverse: a     diṭha-dharma-suhatha'i
+   {drṣṭa-dharme hitārthaṃ vā}
+         {431 437}
+Halfverse: b     sabaraka-'ida\'i ca
+   {saṃparaya-su~aya va}
+         {186 461}
+Halfverse: c     . . (ru)kha-pra\h(a)ṇaṇi
+         {429 186}
+Cross-Reference: DP_36 
+Halfverse: d     cita rakṣe\'a paṇid(u). (1)
+   {cittaṃ rakkhetha medhāvī.}
+         {A19}
+         {434 436}
+
+
+
+Cross-Reference: DP_33 
+Verse: 136  
+136
+
+
+Halfverse: a     phanaṇa cava\la cita
+   {phandanaṃ capalaṃ cittaṃ}
+Halfverse: b     drurakṣa drunivaraṇa
+   {dūrakkhaṃ dunnivārayaṃ}
+Halfverse: c     u . . . .
+   {ujuṃ karoti medhāvī}
+Halfverse: d     . . . . . . . (2)
+   {usukāro va tejanaṃ.}
+Cross-Reference: Uv_31,_8 
+         {441}
+
+
+
+Cross-Reference: DP_37 
+Verse: 137a  
+137a
+
+
+Halfverse: a     duraga(ma) eka . . .
+   {dūrangamaṃ eka-caraṃ}
+Halfverse: b     . . . . . . . .
+   {asarīraṃ guhāsayaṃ}
+Halfverse: c     . . . . . . . .
+   {ye cittaṃ sanñamessanti}
+Halfverse: d     . . . . . . . .
+   {mokkhanti māra-bandhanā.}
+Cross-Reference: Uv_31,_9 
+Cross-Reference: Uv_33,_67 
+         {442}
+
+
+
+Cross-Reference: Uv_31,_2 
+Cross-Reference: DP_34 
+Verse: 137b  
+137b
+
+
+Halfverse: a     vari'o va thale kṣit[(o)]
+   {vārijo va thale khitto}
+Halfverse: b     . . . . . . . .
+   {okamokato ubbhato}
+Halfverse: c     . . . . . . . .
+   {pariphandat' idaṃ cittaṃ}
+Halfverse: d     . . . . . . . .
+   {māra-dheyyaṃ pahātave.}
+
+         {443}
+
+
+
+Cross-Reference: DP_38 
+Verse: 137c  
+137c
+
+
+Halfverse: a     aṇuvaṯhida-citasa
+   {anavatṭhita-cittassa}
+Halfverse: b     . . . . . . . .
+   {saddhammaṃ avijānato}
+Halfverse: c     . . . . . . . .
+   {pariplava-pasādassa}
+Halfverse: d     . . . . . . . .
+   {pannā na paripūrati.}
+Cross-Reference: Uv_31,_28 
+         {444}
+
+
+
+Cross-Reference: DP_39 
+Verse: 137d  
+137d
+
+
+Halfverse: a     aṇuvaṣuda-cita(sa)
+   {anavassuta-cittassa}
+Halfverse: b     . . . . . . . .
+   {ananvāhata-cetaso}
+Halfverse: c     . . . . . . . .
+   {puñña-pāpa-pahīnassa}
+Halfverse: d     . . . . . . . .
+   {natthi jāgarato bhayaṃ.}
+Cross-Reference: Uv_28,_6 
+         {445}
+
+
+
+Cross-Reference: DP_36 
+Verse: 138a  
+138a
+
+
+Halfverse: a     sudu . . . . . .
+   {sududdasaṃ sunipuṇaṃ}
+Halfverse: b     . . . . . . . .
+   {yattha-kāma-nipātino}
+Halfverse: c     . . . . . . . .
+   {cittaṃ rakkhetha medhāvī}
+Halfverse: d     . . . . . . . .
+   {cittaṃ guttaṃ sukhāvaham.}
+         {438}
+
+
+
+Cross-Reference: DP_40 
+Verse: 138b  
+138b
+
+
+Halfverse: a     kummovamu ka(ya) .
+   {kumbhūpamaṃ kāyam imaṃ viditvā}
+Halfverse: b     . . . . . . . .
+   {nagarupamaṃ cittam idaṃ ṭhapetva}
+Halfverse: c     . . . . . . . .
+   {yodhetha māraṃ pañnāvudhena}
+Halfverse: d     . . . . . . . .
+   {jitaṃ ca rakkhe anivesano siyā.}
+Cross-Reference: Uv_31,_35 
+         {446}
+
+
+
+Cross-Reference: Uv_31,_51_(?) 
+Verse: 138c  
+138c
+
+
+Halfverse: a     (sa[ma]dhi) . . . . .
+   <gaṅ yid tiri hdzin la dgah ba>
+Halfverse: b     . . . . . . . .
+   <de dag hdod pas rtse mi byed>
+Halfverse: c     . . . . . . . .
+   <gan iig cuṅ zad gduri med pahi>
+Halfverse: d     . . . . . . . .
+   <skyob pa bde bar nal bar hgyur.>
+         {447}
+
+
+
+Verse: 138d  
+138d
+
+
+Halfverse: a     samadhi mu(c)i . . .
+Cross-Reference: Uv_31,_52_(?) 
+   <gai~ yid tiri hdzin la dgah ba>
+Halfverse: b     . . . . . . . .
+   <de dag hdod pas rtse mi byed>
+Halfverse: c     . . . . . . . .
+   <gan zig cuṅ zad gduṅ med pahi>
+Halfverse: d     . . . . . . . .
+   <thub pa kye maho dgah bar h. gyur.>
+         {439}
+
+
+
+Verse: 138e  
+138e
+
+
+Halfverse: a     [(ci)]teṇa vaji(da) . .( ?)
+         {430}
+Halfverse: b     yo d(u) vi (pra) . . (?)
+         {433}
+Halfverse: d     (tayo) (?)
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 8
+
+Vagga: 9  
+{bala}
+
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 9
+
+Vagga: 10  
+{jara}
+
+
+Cross-Reference: Uv_17,_3 
+Cross-Reference: DP_155 
+Verse: 139a  
+139a
+
+
+Halfverse: a     . . . . . . .
+   {acaritvā brahmacariyaṃ}
+Halfverse: b     . . . . . . . .
+   {aladdhā yobbane dhanaṃ}
+         {450r}
+Halfverse: c     . . . . . . . .(d)i
+   {jiṇṇa-koncā va jhāyanti}
+         {463}
+Halfverse: d     apa-matse va palare.
+   {khīṇa-macche va pa//ale.}
+
+
+
+Cross-Reference: DP_156 
+Verse: 139b  
+139b
+
+
+Halfverse: a     . . . . . . .
+   {acaritvā brahmacariyam}
+Halfverse: b     . . . . . . . .
+   {aladdhā yobbane dhanam.}
+Halfverse: c     . . . . . . . .
+   {senti cāpātikhīnā va}
+         {453}
+Halfverse: d     pora(ṇ)aṇi a(ṇu)svar(u).
+   {purānāni anutthunaṃ.}
+Cross-Reference: Uv_17,_4 
+         {187 501}
+
+
+
+Cross-Reference: Saṃ_V_217 
+Verse: 140  
+140
+
+
+Halfverse: a     (dh) . . jimi jare astu
+   {dhī taṃ jammī jare atthu}
+Halfverse: b     dr(u) . . . . . (ja)r(e)
+   {dubbaṇṇa-karaṇī jare}
+Halfverse: c     . . . . . . . .
+   {tāva manoramaṃ vimbaṃ}
+Halfverse: d     . . . . . . . .
+   {jarāya abhimadditaṃ.}
+         (4)
+         {CVI i. 29}
+         {188}
+
+
+
+Cross-Reference: Saṃ_V_217 
+Verse: 141  
+141
+
+
+Halfverse: a     yo vi varṣa-śada jivi
+   {yo pi vassa-satam jīve}
+Halfverse: b     so vi mrucu-parayaṇo
+   {so pi maccu-parayaṇo}
+Halfverse: c     na kaji pari . . .
+   {na kiñci parivajjeti}
+Halfverse: d     . . . . . . . .
+   {sabbam evābhimaddati.}
+         (5)
+         {CV2 i. 3o}
+         {189}
+
+
+
+Cross-Reference: DP_148 
+Verse: 142  
+142
+
+
+Halfverse: a     parijiṇam ida ruvu
+   {parijiṇṇam idaṃ rūpaṃ}
+Halfverse: b     ro'a-neḍa pravhaguṇo
+   {roga-niḍḍaṃ pabhangunaṃ}
+Halfverse: c     bhetsidi p(u)di . . .
+   {bhijjati pūti-sandeho}
+Halfverse: d     . . . . . . . .
+   {maraṇantaṃ hi jīvitaṃ.}
+         (6)
+         {Cv3 i. 34}
+         {190}
+
+
+
+Cross-Reference: DP_146 
+Verse: 143  
+143
+
+
+Halfverse: a     ko nu harṣ(o) ki[(m a]nano)
+   {ko nu hāso kim ānando}
+         {512 481}
+Halfverse: c     (ta)va pa[(j)]va\lide sado
+   { }
+Halfverse: d     anakarasm(a) paksiti
+   {ndh kāP J~ n ddh-}
+Halfverse: e     pra. . . . . . . .
+   {padīpaṃ na gavessatha.}
+         (7)
+         {Cv4 . 3}
+Cross-Reference: Mv_III_376 
+      {ko nu harṣo ko nu ānando}
+      {evaṃ prajvalite sadā}
+      {andhakārasmiṃ prakṣiptā}
+      {ālokaṃ na prakāśatha.}
+         (and in preceding stanza,
+      {(pradīpaṃ na gaveṣatha).}
+         {191}
+
+
+
+Cross-Reference: Jāt_IV_494 
+Verse: 144  
+144
+
+
+Halfverse: a     yam eva paḍhama radi
+   {yam ekarattim pathamam}
+Halfverse: b     gabhi vasadi maṇavo
+   {gabbhe vasati manavo}
+         {482}
+Halfverse: c     aviṯhidu \so vayadi
+   {abbhuṭṭhito va sayati}
+Halfverse: d     so gachu na nivatadi. (8)
+   {sa gacchaṃ na nivattati.}
+         {CV5}
+         {192}
+
+
+
+Cross-Reference: Jāt_VI_26 
+Verse: 145  
+145
+
+
+Halfverse: a     yasa radi vivasiṇa
+   {yassa ratyā vivasane}
+Halfverse: b     ayu aparado si'a
+   {āyum appataram siyā}
+         {483}
+Cross-Reference: DP_483 
+Halfverse: c     apodake \ va matsaṇa
+   {appodake va macchānam}
+Halfverse: d     ki teṣa u kumulaṇa (9)
+   {kiṃ nu komārakaṃ tahiṃ.}
+         {Cv6}
+Cross-Reference: Uv_1,_33 
+      {yeṣāṃ rātridivāpāye}
+      {hy āyur alpataraṃ bhavet}
+      {alpodake va matsyānāṃ}
+      {kā nu tatra ratir bhavet.}
+         {193}
+
+
+
+Cross-Reference: Jāt_VI_572 
+Verse: 146  
+146
+
+
+Halfverse: a     ye vrudha ye ya dahara
+   {ye ca vuddhā ye ca daharā}
+Halfverse: b     ye ca maǰima-poruṣa
+   {ye ca majjhima-porisā.}
+Cross-Reference: Uv_1,_10_(T_8) 
+      {ye ca vṛddhā ye ca daharā}
+      {ye ca madhyama-purusāh}
+         {402 484}
+Halfverse: c     aṇ(u)pova [(pravaya]d)i
+   {anupūrvaṃ pravrajanti}
+         {499}
+Halfverse: d     (pha)\la paka va banaṇa. (10)
+   {phalaṃ pakvam iva bandhanāt.}
+         {C-7}
+         {194}
+
+
+
+Cross-Reference: Sn_576 
+Verse: 147  
+147
+
+
+Halfverse: a     yadha phalaṇa pakaṇa
+   {phalānaṃ iva pakkānaṃ}
+Halfverse: b     nice padaṇado bhayo
+   {pāto patanato bhayam}
+Halfverse: c     emu jadasa macasa
+   {evam jātānam maccanam}
+Halfverse: d     nica maraṇado bhayo. (11)
+   {niccaṃ maranato bhayarn.}
+         {CV8 i. I I (T_9)}
+         {195}
+
+
+
+Cross-Reference: Jāt_VI_26 
+Verse: 148  
+148
+
+
+Halfverse: a     yadha nadi pravadi'a
+   {yathā vārivaho pūro}
+Halfverse: b     rakṣa vahadi kulaya
+   {vahe rukkh ūpakūlaje}
+Halfverse: c     emu jara ya mruca ya
+   {evaṃ jarāya maraṇena}
+Halfverse: d     aya payedi praṇiṇa. (12)
+   {vuyhante vata panino.}
+Cross-Reference: DP_135 
+      {evaṃ jarā ca maccu ca}
+      {āyu pācenti pāṇinaṃ.}
+         {Cvg}
+
+         {i. 15 17cd(T_13 15)}
+         {196}
+
+
+
+Cross-Reference: Jāt_VI_26 
+Verse: 149  
+149
+
+
+Halfverse: a     yadha vi tadri vikadi
+   {yathā pi tante vitate}
+Halfverse: b     ya yed eva odu opadi
+   {yaṃ yad ev l ūpavīyati}
+Halfverse: c     apaka bhodi votavi
+   {appakaṃ hoti vetabbaṃ}
+Halfverse: d     oharaṇaseva sadi'i (13)
+   {evaṃ maccāna jīvitam.}
+         {CV10 i. 13 (T_11)}
+         {197}
+
+
+
+Verse: 150  
+150
+
+
+Halfverse: a     emam eva maṇuśa(ṇa)
+Halfverse: b     [(ye)] y=a(ñe) sadi praṇayo
+Cross-Reference: Sn_201 
+   {ye c'aññe santi pāṇayo.}
+         {207}
+Halfverse: c     ya ya i vivasadi \radi
+         {197}
+Halfverse: d     mara\ṇaseva sadi'i. (14)
+         {Cvl I}
+         {198}
+
+
+
+Cross-Reference: Jāt_IV_127 
+Verse: 151  
+151
+
+
+Halfverse: a     sadi eki na diśadi
+   {sāyaṃ eke na dissanti}
+Halfverse: b     pradu diṭho baho-jaṇo
+   {pāto diṭṭhā bahujjanā}
+Halfverse: c     pradu eki na diśadi
+   {pāto eke na dissanti}
+Halfverse: d     sadi ditha baho-jaṇo. (15)
+   {sāyaṃ diṭṭhā bahujjanā.}
+         {CV12 i- 7 (T- 5)}
+         {199}
+
+
+
+Cross-Reference: Jāt_VI_26 
+Verse: 152  
+152
+
+
+Halfverse: a     tatra ko viśpaśi maco
+   {daharā pi hi mīyanti}
+         {489}
+   {narā ca atha nāriyo}
+         {489}
+Halfverse: c     daharo si di jivid\i
+         {199}
+   {tattha ko vissase poso}
+Halfverse: e     daha\ra vi miyadi
+   {daharo mhīti jīvite.}
+Halfverse: f     nara nari ca ekada. (16)
+Cross-Reference: Uv_1,_8 
+         {CV13}
+         {200}
+
+
+
+Cross-Reference: DP_41 
+Verse: 153  
+153
+
+
+Halfverse: a     ayireṇa vada'i kayu
+   {aciraṃ vat ayaṃ kāyo}
+Halfverse: b     {490, 500, 510}
+Halfverse: c     paḍha'i varl śa'iṣidi
+   {pathavim adhisessati}
+         {500 200}
+Halfverse: e     tuchu (a\vaka)da-viñaṇa
+   {chuddho apeta-vinnāṇo}
+Halfverse: f     niratha ba kaḍiġara. (17)
+   {niratthaṃ va kalingaraṃ.}
+Cross-Reference: Uv_1,_35 
+         {Cv14}
+Halfverse: g     {201, 491}
+
+
+
+Cross-Reference: DP_149 
+Verse: 154  
+154
+
+
+Halfverse: a     (ya)ṇi[(ma)]ṇi avathaṇi
+   {yān imāni apatthāni}
+         {511}
+Halfverse: b     ala'uṇi ba \śarada
+   {alāpūneva sārade}
+         {491 201}
+Halfverse: d     (śa)gha-(va)r(ṇa)\ṇ(i) śiṣaṇi
+Halfverse: e     taṇi diṣpaṇi ka radi. (18)
+         {Cv15}
+Cross-Reference: Divy_561 
+      {imāni yāny upasthānāni}
+      {alābur iva śāradel}
+      {śankha-varṇāni śīrṣāṇi}
+      {tāni drṣṭveha kā ratih.}
+         {492}
+
+
+
+Verse: 155  
+155
+
+
+Halfverse: a     yaṇimaṇi pravhaguṇi
+Halfverse: b     viksitani diśo diśa
+         {505 203}
+Cross-Reference: DP_149 
+Halfverse: c     kavodaka\ṇi \aṯhiṇi
+   {kāpotakāni aṭṭhīni}
+Halfverse: d     taṇi diṣpaṇi ka radi. (19)
+   {tāni disvāna kā rati.}
+         {cvl6}
+Cross-Reference: Divy_561 
+      {yānīmāny apaviddhāni}
+      {vikṣiptāni diśo daśa}
+      {kapota-varṇāny asthīni}
+      {tāni drṣtveha kā ratih.}
+         {i. 4}
+         {493}
+
+
+
+Cross-Reference: Therī_140 
+Verse: 156  
+156
+
+
+Halfverse: a     imiṇa pudi-ka'eṇa
+   {iminā pūti-kāyena}
+Halfverse: b     adureṇa pravhaguṇa
+   {āturena pabhangunā}
+Halfverse: c     nicaśuha-vijiṇeṇa
+         {506}
+Halfverse: d     jara-dhameṇa sa\vaśu
+         {203a}
+Cross-Reference: Thg_32 
+Halfverse: e     nime\dha parama śodhi
+   {nimmissaṃ paramam santiṃ}
+Halfverse: f     yoka-kṣemu aṇutara. (20)
+   {yogakkhemaṃ anuttaraṃ.}
+         {CVI'7 i- 3'~7}
+         {205}
+
+
+
+Verse: 157  
+157
+
+
+Halfverse: a     imiṇa pudi-ka'eṇa
+Halfverse: b     vidvareṇa . . .
+         {494}
+Halfverse: d     (n)icaśuha-vijiṇeṇa
+Halfverse: e     jara-dhameṇa savaśu
+         {205}
+Halfverse: g     nim\edha parama śodhi
+Halfverse: h     yoka-kṣemu aṇutara. (21)
+         {CV18}
+         {206}
+
+
+
+Cross-Reference: Uv_1,_36 
+Verse: 158  
+158
+
+
+Halfverse: a     imiṇa pudi-ka'eṇa
+   {kim anena śarīreṇa}
+Halfverse: b     viśravadeṇa pudiṇa
+   {sravatā pūtinā sadā}
+Halfverse: c     nicaśuha-vijiṇeṇa
+   {nityaṃ rogābhibhūtena}
+         {495}
+Halfverse: d     jara-dha\(m)eṇa savaśu
+   {jarā-maraṇa-bhīruṇā.}
+Halfverse: e     n(i)medha parama śodhi
+         {206}
+Halfverse: f     yoka-kṣema \aṇutara. (22)
+         {CVI 9}
+         {208}
+
+
+
+Cross-Reference: Thg_32 
+Verse: 159  
+159
+
+
+Halfverse: a     ayara jiyamaṇeṇa
+   {ajaraṃ jīramānena}
+Halfverse: b     ḍaǰamaṇeṇa nivrudi
+   {tappamānena nibbutiṃ}
+         {496}
+Halfverse: c     nimedha \parama śodhi
+   {nimmissam paramam santim}
+Halfverse: d     yoka-kṣemu aṇutara. (23)
+   {yogakkhemaṃ anuttaram}
+         {cv20}
+         {210}
+
+
+
+Cross-Reference: DP_151 
+Verse: 160  
+160
+
+
+Halfverse: a     jiyadi hi raya-radha sucitra
+   {jīranti ve rāja-rathā sucittā}
+Halfverse: b     adha śarira bi jara uvedi
+   {atho sarīraṃ pi jaram upeti}
+         {497}
+Halfverse: c     sada du dharma na \jara (u)vedi
+   {satam ca dhammo na jaram upeti}
+         {210}
+Halfverse: d     sado hi ṣa sabhi praveraya\di. (24)
+   {santo ha ve sabbhi pavedayanti}
+Cross-Reference: Uv_1,_28 
+         {CV2 I}
+         {211}
+
+
+
+Cross-Reference: DP_348 
+Verse: 161  
+161
+
+
+Halfverse: a     muj(u) pur(a) muju pachadu
+   {muñca pure muñca pacchato}
+Halfverse: b     maǰadu muju bhavasa parako
+   {majjhe muñca bhavassa pāragū}
+Halfverse: c     sarvatra vi(muta-mo)ṇa(s)o
+   {sabbattha vimutta-mānaso}
+Halfverse: d     {211, 448, 498}
+Halfverse: e     na puṇu jadi-jara uvehiṣ(i). (25)
+   {na punam jātijaram upehisi}
+Cross-Reference: Uv_29,_66 
+         {212}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 10
+
+Vagga: 11  
+{suha}
+
+
+Cross-Reference: DP_204 
+Verse: 162  
+162
+
+
+Halfverse: a     aroga parama labha
+   {ārogyaparamā Iābhā}
+Halfverse: b     saduṭhi parama dhaṇa
+   {saṃtutthiparamam dhanam}
+Halfverse: c     vaśpaśa1 parama mitra
+   {vissāsaparamā ñāti}
+Halfverse: d     nivaṇa paramo suha. (1)
+   {nibbānaṃ paramam sukhaṃ.}
+         {Cv24}
+Cross-Reference: Uv_26,_6 
+         {485}
+
+
+
+Cross-Reference: DP_203 
+Verse: 163  
+163
+
+
+Halfverse: a     . (k)itsa parama roka
+   {jigaccha paramā rogā}
+         {213}
+Halfverse: b     saghara parama duha
+   {samkhārā paramā dukhā}
+Halfverse: c     eda ñatva yadha-bh(u)du
+   {etam natva yatha-bhutam}
+Halfverse: d     nivaṇa pararno suha. (2)
+   {nlbbānam paramam sukham.}
+Cross-Reference: Uv_26,_7 
+         {Cv25}
+         {486 502}
+
+
+
+Cross-Reference: DP_290 
+Verse: 164  
+164
+
+
+Halfverse: a     . tra-suha-parica'i
+   {mattā-sukha-pariccāga}
+Halfverse: b     yo (pa)śi vi(v)ulu suha\
+   {passe ce vipulam sukham}
+         {214}
+Halfverse: d     (ca)yi matra-suha dhiro
+   {caje mattā-sukham dhlro}
+Halfverse: e     sabaśu vi(v)ula suha. (3)
+   {sampassam vlpulam sukham.}
+         {CV26}
+Cross-Reference: Uv_30,_30 
+Halfverse: f     {215, 487 503}
+
+
+
+Cross-Reference: DP_199 
+Verse: 165  
+165
+
+
+Halfverse: a     . (ha'i vada) /jivamu
+   {susukhaṃ vata jlvāma}
+         {215}
+Halfverse: c     (u)s\u'esu aṇusu'a
+   {ussukesu anussukā}
+Halfverse: d     (u)s(u)'esu maṇuśeṣu
+   {ussukesu manussesu}
+Halfverse: e     viharamu aṇusu'a. (4)
+   {vlharāma anussukā.}
+         {Cv27}
+         {216}
+
+
+
+Cross-Reference: DP_197 
+Verse: 166  
+166
+
+
+Halfverse: a     suha'i vada jivamu
+   {susukhaṃ vata jlvāma}
+Halfverse: b     veraṇeṣu averaṇa \
+   {verinesu averino}
+         {488 216}
+Halfverse: d     veraṇeṣu ma\nuśeṣu
+   {verinesu manussesu}
+Halfverse: e     viharamu averaṇa. (5)
+   {vlharāma avermo.}
+
+         {Cv28}
+         {217}
+
+
+Verse: 167  
+167
+
+
+Halfverse: a     suha'i . . jivamu
+Halfverse: b     kijaṇeṣu akijaṇa
+Halfverse: c     kijaṇeṣu maṇu(ṣ)u
+Halfverse: d     v(i)haramu akijaṇa. (6)
+         {CV29}
+         {218}
+
+
+
+Cross-Reference: DP_200 
+Verse: 168  
+168
+
+
+Halfverse: a     suha'i vada jivamu
+   {susukhaṃ vata jīvāma}
+Halfverse: b     yeṣa mu nasti kajaṇi2
+   {yesaṃ no natthi kiñcanaṃ.}
+Halfverse: c     kijaṇeṣu maṇuśeṣu
+Cross-Reference: Uv_30,_49ab 
+Halfverse: d     viharamu akijaṇa. (7)
+         {CV30}
+         {219}
+
+
+
+Cross-Reference: DP_345 
+Verse: 169  
+169
+
+
+Halfverse: a     na ta driḍha bańaṇam aha dhira
+   {na taṃ dalhaṃ bandhanam āhu dhīrā}
+Halfverse: b     ya asa1 taruva babaka va
+   {yad āyasaṃ dārujaṃ babbajaṃ ca}
+Halfverse: c     sarata-cita maṇi-kuṇaleṣu
+   {sārattarattā maṇi-kuṇḍalesu}
+Halfverse: d     putreṣu dareṣu ya ya aveha. (8)
+   {puttesu dāresu ca yā apekkhā.}
+         {CV3 I}
+Cross-Reference: Uv_2,_5 
+         {220}
+
+
+
+Cross-Reference: DP_346 
+Verse: 170  
+170
+
+
+Halfverse: a     eda driḍha bańaṇam aha dhira
+   {etaṃ dalhaṃ bandhanam āhu dhīrā}
+Halfverse: b     ohariṇa śiśila drupamokṣu
+   {ohārinaṃ sithilaṃ duppamuñcaṃ}
+Halfverse: c     eda bi chitvaṇa parivrayadi
+   {etaṃ pi chetvāna paribbajanti}
+Halfverse: d     aṇavehiṇo kama-suhu praha'i. (9)
+   {anapekkhino kāma-sukharppahāya.}
+         {Cv32}
+Cross-Reference: Uv_2,_6 
+         {221}
+
+
+
+Cross-Reference: DP_347 
+Verse: 171  
+171
+
+
+Halfverse: a     ye raka-rata aṇuvadadi sodu
+   {ye rāga-rattānupatanti sotaṃ}
+Halfverse: b     sa'i-gada [(ma)](kaḍa)'o (jala)
+   {sayaṃ-kataṃ makkatako va jālaṃ}
+Halfverse: c     eda b(i) chitvaṇa parivrayadi
+   {etaṃ pi chetvāna vajanti dhīrā}
+Halfverse: d     anavehiṇo kama-suha
+   {anapekkhino sabba-dukkhaṃ}
+Halfverse: e     praha'i. (10)
+   {pahāya.}
+         {CV33}
+         {222}
+
+
+
+Cross-Reference: DP_109 
+Verse: 172  
+172
+
+
+Halfverse: a     ahivadaṇa-śilisa
+   {abhivādana-sīlissa}
+Halfverse: b     nica vridhavayariṇo
+   {niccaṃ vaddhāpacāyino}
+Halfverse: c     catvari tasa vardhadi
+   {cattāro dhammā vaḍḍhanti}
+Halfverse: d     ayo kirta suha bala. (11)
+   {āyu vaṇṇo sukhaṃ balaṃ.}
+         {Cv34}
+         {223,513}
+
+
+
+Cross-Reference: DP_193 
+Verse: 173  
+173
+
+
+Halfverse: a     drulavhu puruṣayañu
+   {du//abho purisājañño}
+Halfverse: b     {509 223}
+Halfverse: c     (na) sa savatra [(ja]yadi)
+   {na so sabbattha jāyati}
+Halfverse: d     yatra . (ja)yadi viru
+   {yattha so jāyatī dhīro}
+Halfverse: e     ta kulu suhu modadi. (12)
+   {tam kulam sukham edhati.}
+         {CV35}
+Cross-Reference: Uv_30,_27 
+Cross-Reference: Mv_III_109 
+         {224,513}
+
+
+
+Cross-Reference: Netti_146 
+Verse: 174  
+174
+
+
+Halfverse: a     (s)uha sayadi muṇaya
+   {sukhaṃ sayanti munayo}
+   {na te socanti māvidha.}
+Cross-Reference: Jāt_VI_572 
+         {515}
+Halfverse: b     na te thiṇa va[(śaṇ)]u'(a)
+   {thīnaṃ vasaṃ na gaccheyyaṃ-}
+         {224}
+Halfverse: c     suha śikṣida-\savasa
+Halfverse: d     kici teṣa na vijadi. (13)
+         {CV36}
+         {225 516}
+
+
+
+Cross-Reference: DP_206 
+Verse: 175  
+175
+
+
+Halfverse: a     suha darśaṇa ari'a\ṇa
+   {sādhu dassanaṃ ariyānaṃ}
+Halfverse: b     savaso vi sada suho
+   {sannivāso sadā sukho}
+         {225}
+Halfverse: c     adaśaṇeṇa \balaṇa
+   {adassanena bālānaṃ}
+Halfverse: d     nicam eva suhi si'a. (14)
+   {niccam eva sukhī siyā.}
+
+         {~YX. 25 (T_26)}
+         {Cv37}
+         {517}
+
+
+
+Cross-Reference: DP_207 
+Verse: 176  
+176
+
+
+Halfverse: a     (ba)la-saghada1-cari'u
+   {bāla-sangata-cāri hi}
+Halfverse: b     drigham adhvaṇa śoyiṣu
+   {dīgham addhāna socati}
+         {226}
+Halfverse: c     dukhu balehi (sa)\vasu
+   {dukkho bālehi samvāso}
+Halfverse: d     amitrehi va savrasi.
+   {amitteneva sabbadā}
+         {518}
+Halfverse: e     . (ra du) suha-savasa
+   {dhīro ca sukha-samvāso}
+Halfverse: f     ñadihi va samakamo. (15)
+   {nātīnaṃ va samāgamo.}
+Cross-Reference: Uv_30,_26 
+Cross-Reference: Uv_25,_24 
+         {Cv 38, 39}
+         {518 227}
+
+
+
+Cross-Reference: DP_208 
+Verse: 177  
+177
+
+
+Halfverse: a     dhira hi praña i \bhaye'a paṇido
+   {dhīraṃ ca paññaṃ ca bahussutaṃ ca}
+Halfverse: b     dhoreka-śila vadamada ari'a
+   {dhorayha-sīlam vatavantam arlyaṃ}
+         {519}
+Halfverse: c     . (ta)diśa sapuruṣa sumedha
+   {taṃ tādisaṃ sappurisaṃ sume-}
+Halfverse: d     bhay(e'a) naksatra-patha va cadrimu (16)
+   {bhaJetha nakkhatta-pathaṃ va candimā.}
+         {CV39' 40}
+Cross-Reference: Uv_25,_25 
+         {519 228}
+
+
+
+Cross-Reference: Jāt_IV_172 
+Verse: 178  
+178
+
+
+Halfverse: a     ra\dhe'aro va camasa
+   {rathakāro va cammassa}
+Halfverse: b     parikica uvahaṇa
+   {parikantam upāhanam}
+         {229 520}
+Halfverse: c     ya \(ya) jahad1 kamaṇa
+   {yam yam cajati kāmānam}
+Halfverse: d     ta ta samajadi suh(a)
+   {taṃ taṃ sampaJJate sukhaṃ}
+         {229}
+Halfverse: e     sarva ca suhu \ichi'a
+   {sabbaṃ ca sukham iccheyya}
+Halfverse: f     sarva kama parica'i. (17)
+   {sabbe kāme pariccaje.}
+Cross-Reference: Uv_2,_11~  12ab
+         {CV40, 41}
+         {230}
+
+
+
+Cross-Reference: DP_291 
+Verse: 179  
+179
+
+
+Halfverse: a     (pa) ......... ṇ(e)ṇa
+   {para-dukkhūpadhānena}
+Halfverse: b     [(yo atva]ṇa s)u . (icha) .
+   {yo attano sukham icchati}
+         {521 230}
+Halfverse: d     . ra-saṣaga . [(t]siṭha)
+   {vera-saṃsagga-saṃsaṭtno}
+Halfverse: e     so duha na parimucadi. (18)
+   {vera so na ppamuccat1}
+         {Cv42}
+Cross-Reference: Uv_30,_2 
+         {231}
+
+
+
+Cross-Reference: DP_201 
+Verse: 180  
+180
+
+
+Halfverse: a     jaya vera prasahadi
+   {jayaṃ veraṃ pasavati}
+Halfverse: b     dukhu śayadi parayidu
+   {dukkhaṃ seti parājito}
+Halfverse: c     uvaśadu sohu śayadi
+   {upasanto sukhaṃ seti}
+Halfverse: d     hitva jaya-paraya'a. (19)
+   {hitvā jaya-parājayaṃ.}
+         {CV43}
+Cross-Reference: Uv_30,_1 
+Cross-Reference: Ang_I,_57 
+         {232}
+
+
+
+Cross-Reference: D_II_157_etc. 
+Verse: 181  
+181
+
+
+Halfverse: a     aṇica va(da) saghara
+   {aniccā vata saṃkhārā}
+         {504}
+Halfverse: b     upada-vaya-dharmiṇo
+   {uppāda-vaya-dhammino}
+Halfverse: c     upajiti niruǰadi
+   {uppaJJ1tva n1ruJJhantl}
+Halfverse: d     teṣa uvaśamo suho. (20)
+   {tesaṃ vupasamo sukho-}
+         {CV44 i. 2 ~T. I)}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 11
+
+Vagga: 12  
+{thera}
+         {78}
+
+
+Cross-Reference: DP_260 
+Verse: 182  
+182
+
+
+Halfverse: a     na tavada theru bhodi
+   {na tena thero hoti}
+Halfverse: b     ya '(a)sa (pali . . r).
+   {yen' assa phalitaṃ siro}
+         {83}
+Halfverse: c     parivako vayu tasa
+   {paripakko vayo tassa}
+         {233}
+Halfverse: d     moha-ji[(ṇo)] / (d)i [(vu)]cadi. (1)
+   {mogha-ṅṇṇo ti vuccati.}
+Cross-Reference: Uv_11,_11 
+         {79}
+
+
+
+Cross-Reference: Mv_III_401 
+Verse: 183  
+183
+
+
+Halfverse: a     yo du puñe ca pave ca
+   {evaṃ puṇye ca pāpe ca}
+Halfverse: b     duhayasa na lipadi
+   {ubhayatra na lipyase.}
+Cross-Reference: DP_412 
+   {yo dha punnam ca pāpaṃ ca}
+   {ubho sangaṃ upaccagā.}
+Cross-Reference: DP_267 
+   {yo dha punnaṃ ca pāpaṃ ca}
+   {bahetvā brahmacariyavā.}
+Cross-Reference: DP_255 
+   {natthi buddhanam injitaṃ.}
+Cross-Reference: Sn_1041 
+      {kāmesu brahmacariyavā}
+      {vltataṇho sadāsato}
+      {saṃkhāya nibbuto bhikkhu}
+      {tassa no santi injitā.}
+Cross-Reference: Sn_1042 
+      {so ubhantaṃ abhiññāya}
+      {majjhe mantā na lippati}
+         {84 93}
+Halfverse: c     tam ahu thera bro\mi
+   {taṃ brūmi mahāpuriso ti}
+Halfverse: d     yasa na sadi igida. (2)
+   {so idha sibbaniṃ accagā.}
+         {80}
+
+
+
+Cross-Reference: Sn_420 
+Verse: 184  
+184
+
+
+Halfverse: a     kija vi daharu bhodi
+   {yuvā ca daharo cāsi}
+Halfverse: b     kaḍa-keśu śuśu yu'i
+   {pathamuppattiyā susu.}
+         {85 92}
+Cross-Reference: M_I_82_etc. 
+Halfverse: c     vikada-chano ca \kameṣu
+   {daharo hoti}
+Halfverse: d     bramayari pradisvadu (3)
+   {(prose) yuva susu kala-keso.}
+         {81}
+
+
+
+Cross-Reference: DP_263 
+Verse: 185  
+185
+
+
+Halfverse: a     so vada-doṣu medhavi
+   {sa vanta-doso medhāvl.}
+         {91}
+Cross-Reference: DP_261 
+Halfverse: b     praña-śila-sama\hidu
+   {yamhi saccaṃ ca dhammo ca}
+   {ahiṃsa sannamo damo}
+Halfverse: c     .u . . . visañuto
+   {sa ve vanta-malo dhlro}
+Halfverse: d     thero di pravucadi. (4)
+   {thero ti pavuccati.}
+         {(X- 7)}
+         {82}
+
+
+
+Cross-Reference: Uv_29,_10 
+Cross-Reference: DP_262 
+Verse: 186  
+186
+
+
+Halfverse: a     . . (ka)raṇa-matreṇa
+   {na vāk-karana-mattena}
+         {61}
+Halfverse: b     varṇa-pu\skalarna'i va
+   {vaṇṇa-pokkharatāya vā}
+         {90}
+Halfverse: d     sada-ruvu naru bhodi
+   {sādhu-rūpo naro hoti}
+Halfverse: e     iṣu'i matsari śaḍhu. (5)
+   {issukl maeeharī satho.}
+
+
+
+Cross-Reference: DP_263 
+Verse: 187  
+187
+
+
+Halfverse: a     . . . . . .
+   {yassa e'etaṃ samuechinnaṃ}
+Halfverse: b     . . . . . . . .
+   {mūlaghacchaṃ samūhataṃ}
+Halfverse: c     . . . . . . . .
+   {sa vantadoso medhāvī}
+         {89}
+Halfverse: d     (sada)-ruv(u) di vucadi. (6)
+   {sādhurūpo ti vuccati}
+Cross-Reference: Uv_29,_9 
+         {77}
+
+
+
+Cross-Reference: DP_264 
+Verse: 188  
+188
+
+
+Halfverse: a     . . . . . ṣamaṇo
+   {na muṇḍakena samano}
+Halfverse: b     avradu ali'a bhaṇi
+   {abbato alikam bhanam}
+         {88}
+Halfverse: c     icha-loha-sa\mavarṇo
+   {icchā-lobha-samāpanno}
+Halfverse: d     ṣamaṇo ki bhaviṣadi. (7)
+   {samaṇo kiṃ bhavissati.}
+         {76}
+
+
+
+Cross-Reference: DP_265 
+Verse: 189  
+189
+
+
+Halfverse: a     . . . . va pavaṇi
+   {yo ca sameti pāpāni}
+Halfverse: b     ta viñu śramaṇa vidu
+   {aṇuṃ-thūlāni sabbaso}
+Halfverse: c     śamadhare va pa[(va)]ṇi
+   {samitattā hi pāpānaṃ}
+Halfverse: d     śramaṇo di pravucadi. (8)
+   {samaṇo tl pavucc~ti}
+Halfverse: e     {236 75}
+
+
+
+Cross-Reference: DP_19 
+Verse: 190  
+190
+
+
+Halfverse: a     baho bi ida sahida bhaṣa\maṇa
+   {bahuṃ pi ce sahitam bhāsamāno}
+Halfverse: b     na takaru bhodi naru pramatu
+   {na takkaro hoti naro pamatto}
+         {86}
+Halfverse: c     govo va ga'u gaṇa\'u pareṣa
+   {gopo va gāvo gaṇayaṃ paresam}
+Halfverse: d     na bhakava ṣamañathasa bhodi.
+   {na bhagava samannassa hoti.}
+Cross-Reference: Uv_4,_22 
+         {237}
+
+
+
+Cross-Reference: DP_20 
+Verse: 191  
+191
+
+
+Halfverse: a     apa bi ida sahida bhaṣamaṇa
+   {appaṃ pi ce sahitaṃ bhāsamāno}
+         {(74)}
+Halfverse: b     dhamasa bhod(i) aṇudha(ma)cari
+   {dhammassa hotī anudhammacārī}
+   {rāgaṃcadosaṃ ca pahāyamohaṃ}
+   {sammappajānO suvimuttacitto}
+Halfverse: c     anuvad(i)'aṇu idha va horo va
+   {anupādiyāno idha vā huraṃ vā}
+Halfverse: d     so bhakava ṣamañathasa bhodi.
+   {sa bhāgavā sāmañnassa hoti.}
+         (10)
+Cross-Reference: Uv_4,_23 
+         {238}
+
+
+
+Verse: 192  
+192
+
+
+Halfverse: a     anikaṣayu kaṣaya
+   {anikkasāvo kāsāvaṃ}
+Halfverse: b     yo vastra parihasidi
+   {yo vattham paridahessati}
+Halfverse: c     avedu dama-soraca
+   {apeto dama-saccena}
+Halfverse: d     na so kaṣaya arahadi. (11)
+   {na so kāsāvam arahati.}
+         {239}
+
+
+
+Cross-Reference: DP_10 
+Verse: 193  
+193
+
+
+Halfverse: a     yo du vada-kaṣayu
+   {yo ca vanta-kasāv' assa}
+Halfverse: b     śilesu susamahidu
+   {sīlesu susamāhito}
+Halfverse: c     uvedu dama-soraca
+   {upeto dama-saccena}
+Halfverse: d     so du kaṣaya arahadi. (12)
+   {sa ve kasāvam arahadi.}
+         {240}
+
+
+
+Cross-Reference: Ang_IV_150 
+Verse: 194  
+194
+
+
+Halfverse: a     yu1 metra bhavayadi
+   {yO ca mettaṃ bhāvayati}
+Halfverse: b     apramaṇa nirovadhi
+   {appamānaṃ paṭissato}
+Halfverse: c     taṇu sañoyaṇo bhodi
+   {tanū saññojanā honti}
+Halfverse: d     paśadu vadhi-sakṣaya. (13)
+   {passato upadhi-kkhayaṃ.}
+         {241}
+
+
+
+Cross-Reference: Ang_IV_151 
+Verse: 195  
+195
+
+
+Halfverse: a     eka bi ya praṇa aduṭha-citu
+   {ekaṃ pi ce pāṇam aduṭṭhacitto}
+Halfverse: b     metrayadi kuśala teṇa bhodi
+   {mettāyati kusalī tena hoti}
+Halfverse: c     sarve ya praṇa maṇasaṇu'abadi
+   {sabbe va paṇe manasānukampi}
+Halfverse: d     prahona ari'a prakarodi puñu.
+   {pahūtam ariyo pakarnti punñaṃ.}
+         (14)
+Cross-Reference: Uv_31,_47 
+         {242}
+
+
+
+Verse: 196  
+196
+
+
+Halfverse: a     yo1 sata-ṣaṇa pradhavi vicirya
+   {ibid. ye satta-saṇḍaṃ paṭhavim vijetvā}
+Halfverse: b     rayerṣayu yayamaṇaṇaparyaya
+   {rājīsayo yajamānānupariyayā}
+Halfverse: c     aśpa-veka puruṣa-veka same-
+   {assa-medhaṃ purisa-medhaṃ sammā-}
+Halfverse: d     paśa vaya-veka niragaḍa (15)
+   {pāsam vājapeyyaṃ niraggalaṃ}
+         {243}
+
+
+
+Verse: 197  
+197
+
+
+Halfverse: a     metrasa citasa subhavidasa
+   {ibid. mettassa cittassa subhāvitassa}
+Halfverse: b     diṭhe va dharmi uvavaja va muṇo
+Halfverse: c     kala ami naṇubhavadi sarvaśo2
+   {kalam pi te nānubhavanti solasiṃ}
+Halfverse: d     cadri pravha tara-gaṇa va sarvi.
+   {canda-ppabhā tāra-gaṇā va sabbe.}
+         (16)
+         {244}
+
+
+
+Verse: 198  
+198
+
+
+Halfverse: a     yo na hadi na ghadhedi
+   {ibid. yo na hanti na ghāteti}
+Halfverse: b     na jeṇadi na yava'i
+   {na jināti na jāpaye}
+Halfverse: c     mitrisa sarva-bhudeṣu
+   {mettaṃso sabbabhūtānam}
+Halfverse: d     vera tasa na keṇayi. (17)
+   {veram tassa na kenaci.}
+         {245}
+
+
+
+Cross-Reference: Jāt_II_61 
+Verse: 199  
+199
+
+
+Halfverse: a     yo du metreṇa citeṇa
+   {yo ve mettena cittena}
+Halfverse: b     sarva-bhuda aṇu'abadi
+   {sabba-lok' ānukampati}
+Halfverse: c     udhva tiya adho yavi
+   {uddhaṃ adho ca tiriyaṃ ca}
+Halfverse: d     yo loku aṇu'abadi (18)
+   {appamāṇena sabbaso}
+         {246}
+
+
+
+Verse: 200  
+200
+
+
+Halfverse: a     aparitam ida cita
+   {annamanam hitam3 cittam}
+Halfverse: b     apramaṇa subhavida
+   {paripun. naṃ subhāvitaṃ}
+Halfverse: c     ya pramaṇa-kida karmu
+   {vam l~amāna-katam kammam}
+Halfverse: d     na ta tatra viśiśadi. (19)
+   {na tam tatrāvasissati}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 12
+
+Vagga: 13  
+{yamaka}
+         {247}
+
+
+Cross-Reference: DP_1 
+Verse: 201  
+201
+
+
+Halfverse: a     maṇo-puvagama dhama
+   {mano-pubbangamā dhammā}
+Halfverse: b     maṇo-śeṭha maṇojava
+   {mano-seṭṭhā mano-mayā}
+Halfverse: c     maṇasa hi praduṭheṇa
+   {manasā ce padutthena}
+Halfverse: d     bhaṣadi1 karodi va
+   {bhāsati vā karoti vā}
+Halfverse: e     tado ṇa duhu amedi
+   {tato nam dukkham anveti}
+Halfverse: f     cako va vahaṇe pathi. (1)
+   {cakkaṃ va vahato padaṃ.}
+Cross-Reference: Uv_31,_23 
+         {248}
+
+
+
+Cross-Reference: DP_2 
+Verse: 202  
+202
+
+
+Halfverse: a     maṇo-puvagama dhama
+   {mano-pubbangamā dhamma}
+Halfverse: b     maṇo-śeṭha maṇo-java
+   {mano-seṭṭhā mano-mayā}
+Halfverse: c     maṇasa hi prasaneṇa
+   {manasā ce pasannena}
+Halfverse: d     bhaṣadi va karodi va
+   {bhāsati vā karoti vā}
+Halfverse: e     tado ṇa suhu amedi
+   {tato nam sukham anveti}
+Halfverse: f     chaya va aṇukamiṇi. (2)
+   {chāyā va anapāyinī.}
+Cross-Reference: Uv_31,_24 
+         {249}
+
+
+
+Cross-Reference: DP_17 
+Verse: 203  
+203
+
+
+Halfverse: a     pava ma kada di śoyadi
+   {idha tappati pecca tappati}
+Halfverse: b     bhuyu śoyadi drugadi gado
+   {pāpakārī ubhayattha tappati}
+Halfverse: c     so śoyadi so vihañadi
+   {pāpaṃ me katam ti tappati}
+Halfverse: d     diṣpa kamu kiliṭha atvaṇo. (3)
+   {bhiyyo tappati duggatiṃ gato.}
+Cross-Reference: Uv_28,_34 
+         {250}
+
+
+
+Cross-Reference: DP_18 
+Verse: 204  
+204
+
+
+Halfverse: a     puña ma kida di nnanadi
+   {idha nandati pecca nandati}
+Halfverse: b     bhuyu nanadi sugadi gado
+   {kata-puñño ubhayattha nandati}
+Halfverse: c     so nanadi so pramodadi
+   {punñaṃ me kataṃ ti nandati}
+Halfverse: d     diṣpa kamu viśudhu atvaṇo. (4)
+   {bhiyyo nandati suggatiṃ gato.}
+Cross-Reference: Uv_28,_36 
+         {251}
+
+
+
+Cross-Reference: DP_15 
+Verse: 205  
+205
+
+
+Halfverse: a     idha śoyadi preca śoyadi
+   {idha socati pecca socati}
+Halfverse: b     pava-kamu duhayatra śoyadi
+   {p,apa-kārī ubhayattha socati}
+Halfverse: c     so śoyadi so vihañadi
+   {so socati so vihaññati}
+Halfverse: d     diṣpa kamu kiliṭha atvaṇo. (5)
+   {disvā kamma-kiliṭṭham attano.}
+Cross-Reference: Uv_28,_3o 
+         {252}
+
+
+
+Cross-Reference: DP_16 
+Verse: 206  
+206
+
+
+Halfverse: a     idha nanadi preca nanadi
+   {idha modati pecca modati}
+Halfverse: b     puña-kamo duhayatra nanadi
+   {kata-puñño ubhayattha modati}
+Halfverse: c     so nanadi so pramodadi
+   {sa modati sa pamodati}
+Halfverse: d     diṣpa kamu viśudhu atvaṇo. (6)
+   {disvā kamma-visuddhim attano.}
+         {~cxvIII. 32 (R_35)}
+         {253}
+
+
+
+Cross-Reference: DP_117 
+Verse: 207  
+207
+
+
+Halfverse: a     pava ja puruṣu kuya
+   {pāpañ ce puriso kayirā}
+Halfverse: b     na ṇa kuya puṇapuṇu
+   {na taṃ kayirā punappunam}
+Halfverse: c     na tasa chana kuvi'a
+   {na tamhi chandam kayiratha}
+Halfverse: d     dukhu pavasa ayayu. (7)
+   {dukkho pāpassa uccayo.}
+         {254}
+
+
+
+Cross-Reference: Uv_28,_22 
+Cross-Reference: DP_118 
+Verse: 208  
+208
+
+
+Halfverse: a     puña ea puruṣu kuya
+   {puññañ ee puriso kayirā}
+Halfverse: b     kuya yo ṇa puṇapuṇu
+   {kayirāth' enaṃ punappunaṃ}
+Halfverse: c     athatha chana korvi'a
+   {tamhi chandaṃ kayirātha}
+Halfverse: d     sukhu puñasa ucayu. (8)
+   {sukho puñnassa uccayo.}
+
+
+
+Cross-Reference: DP_121 
+Verse: 209  
+209
+
+
+Halfverse: a     na apu mañe'a pavasa
+   {māppamannetha pāpassa}
+Halfverse: b     na me ta akamiṣadi
+   {na maṃ tam āgamissati}
+Halfverse: c     uda-binu-nivadeṇa
+   {uda-bindu-nipātena}
+Halfverse: d     uda-kubho va puyadi
+   {uda-kumbho pi purati}
+Halfverse: e     puyadi balu paveṇa
+   {purati balo pāpassa}
+Halfverse: f     stuka-stoka bi ayaro. (9)
+   {thoka-thokam pi ācinaṃ.}
+         {xvII. 5}
+         {256}
+
+
+
+Cross-Reference: DP_122 
+Verse: 210  
+210
+
+
+Halfverse: a     na apu mañe'a puñasa
+   {māpparnanñetha punnassa}
+Halfverse: b     na me ta akamiṣadi
+   {na maṃ tam āgamissati}
+Halfverse: c     uda-binu-nivadeṇa
+   {uda-bindu-nipātena}
+Halfverse: d     uda-kubho va puyadi
+   {uda-kumbho pi pūrati}
+Halfverse: e     puyadi dhiru puñeṇa
+   {pūrati dhlro puñnassa}
+Halfverse: f     stoka-stuka bi ayaru. (10)
+   {thoka-thokaṃ pi ācinaṃ.}
+         {xvII. 6}
+         {257}
+
+
+
+Cross-Reference: DP_140 
+Verse: 211  
+211
+
+
+Halfverse: a     kaya-kamu vayi-kamu
+   {(athav' assa agārāni)}
+Halfverse: b     maṇo-kama ca pavaka
+   {(aggī dahati pāvako)}
+Halfverse: c     aseva'iti drupañu
+   {(kāyassa bhedā) duppañño}
+Halfverse: d     nira'eṣu vavajadi. (11)
+   {nirayaṃ so upapajjati.}
+         {258}
+
+
+
+Cross-Reference: It_60 
+Verse: 212  
+212
+
+
+Halfverse: a     kaya-kamu vayi-kamu
+   {(bahussuto puñnakaro}
+Halfverse: b     maṇo-kama ca bhadaka
+   {appasmiṃ idha jlvite}
+Halfverse: c     aseva'iti sapraño
+   {kāyassa bhedā) sappañño}
+Halfverse: d     sukadiṣu vavajadi. (12)
+   {saggaṃ so upapajjati.}
+         {259}
+
+
+
+Cross-Reference: DP_11 
+Verse: 213  
+213
+
+
+Halfverse: a     asari sara-vadino
+   {asāre sāra-matino}
+Halfverse: b     sari asara-daśiṇo
+   {sāre eāsāra-dassino}
+Halfverse: c     te sara nadhikachadi
+   {te sāram nādhigacchanti}
+Halfverse: d     micha-saggapa-goyara. (13)
+   {micchā-saṃkappa-gocarā.}
+Cross-Reference: Uv_29,_3 
+         {260}
+
+
+
+Cross-Reference: DP_12 
+Verse: 214  
+214
+
+
+Halfverse: a     sara du saradu ñatva
+   {sāraṃ ca sārato natvā}
+Halfverse: b     asara ji asarado
+   {asāraṃ ca asārato}
+Halfverse: c     te sara adhikachadi
+   {te sāram adhigacchanti}
+Halfverse: d     same-sagapa-goyara. (14)
+   {sammā-saṃkappa-gocarā.}
+         {~XIX. 4}
+         {261}
+
+
+
+Cross-Reference: DP_311 
+Verse: 215  
+215
+
+
+Halfverse: a     śaru yadha drugahido
+   {kuso yatha duggahito}
+Halfverse: b     hasta aṇuvikatadi
+   {hattham evānukantati}
+Halfverse: c     ṣamaña droparamuṭho
+   {sāmannaṃ dupparāmaṭtham}
+Halfverse: d     niraya uvakaḍhadi. (15)
+   {nirayāya upakaḍḍhati.}
+Cross-Reference: Uv_11,_4 
+   {śaro yathā durgṛh1to}
+   {hastam evāpakrntati}
+   {srāmaṇyaṃ duṣparāmrṣtaṃ}
+   {narakan upakarṣati.}
+
+
+
+Cross-Reference: Uv_11,_5 
+Verse: 216  
+216
+
+
+Halfverse: a     śaru yadha sugahido
+   {śaro yathā sugrhīto}
+Halfverse: b     hasta naṇuvikatadi
+   {na hastam apakṛntatil}
+Halfverse: c     ṣamaña suparamuṭho
+   {śrāmaṇyam suparāmrṣtaṃ}
+Halfverse: d     sukadiṣu vakaḍhadi. (16)
+   {nirvāṇasyaiva sāntike.}
+         {263}
+
+
+
+Cross-Reference: DP_7 
+Verse: 217  
+217
+
+
+Halfverse: a     śuhaṇupaśi viharadu
+   {subhānupassim viharantaṃ}
+Halfverse: b     idri'eṣu asavudu
+   {indriyesu asaṃvutaṃ}
+Halfverse: c     bhoyaṇasa amatraño
+   {bhojanamhi arnattannum}
+Halfverse: d     kusidu hiṇa-viryava
+   {kusītam hīna-vīriyam}
+Halfverse: e     ta gu prasahadi raku
+   {taṃ ve pasahati māro}
+Halfverse: f     vadu rakhksa ba drubala. (17)
+   {vāto rukkhaṃ va dubbalaṃ.}
+Cross-Reference: Uv_29,_15 
+         {264}
+
+
+
+Cross-Reference: Uv_29,_16 
+Cross-Reference: DP_8 
+Verse: 218  
+218
+
+
+Halfverse: a     aśuhaṇupaśi viharadu
+   {asubhānupassim viharantaṃ}
+Halfverse: b     idri'esu sisavudu
+   {indriyesu susaṃvutam}
+Halfverse: c     bhoyaṇasa ya matraño
+   {bhojanamhi ca mattañnuṃ}
+Halfverse: d     ṣadhu aradha-viryava
+   {saddhaṃ āraddha-vīriyaṃ}
+Halfverse: e     ta gu na prasahadi raku
+   {taṃ ve na ppasahati māro}
+Halfverse: f     vadu śela va parvada. (18)
+   {vāto selarn va pabbatam.}
+
+
+
+Cross-Reference: DP_13 
+Verse: 219  
+219
+
+
+Halfverse: a     yadha akara druchana
+   {yathā agāraṃ ducchannaṃ}
+Halfverse: b     vuṭhi samadibhinadi
+   {vutthi samativijjhati}
+Halfverse: c     emu arakṣida cata
+   {evaṃ abhāvitam cittaṃ}
+Halfverse: d     raku samadibhinadi. (19)
+   {rāgo samativijjhati.}
+Cross-Reference: Uv_31,_11 
+         {266}
+
+
+
+Cross-Reference: Uv_31,_17 
+Cross-Reference: DP_14 
+Verse: 220  
+220
+
+
+Halfverse: a     yadha akara suchana
+   {yathā agāraṃ succhannaṃ}
+Halfverse: b     vuṭhi na samadibhinadi
+   {vuṭthi na samativijjhati}
+Halfverse: c     emu surakṣida cita
+   {evaṃ subhāvitaṃ cittaṃ}
+Halfverse: d     raku na samadibhinadi. (20)
+   {rāgo na samativijjhati.}
+
+
+
+Cross-Reference: Uv_27,_3 
+Cross-Reference: DP_244 
+Verse: 221  
+221
+
+
+Halfverse: a     sujivu ahiri'eṇa
+   {sujīvaṃ ahirikena}
+Halfverse: b     kaya-śurina dhakṣiṇa
+   {kaka-sūrena dhamsinā}
+Halfverse: c     prakhaṇiṇo prakabhiṇa
+   {pakkhandinā pagabbhena}
+Halfverse: d     sagiliṭheṇa jaduṇa. (21)
+   {saṃkiliṭṭhena jlvitaṃ.}
+
+
+
+Cross-Reference: DP_245 
+Verse: 222  
+222
+
+
+Halfverse: a     hirimada du drujivu
+   {hinmatā ca dujjīvam}
+Halfverse: b     nica śuyi-gameṣiṇo
+   {niccaṃ suci-gavesina}
+Halfverse: c     aliṇeṇa ap}akabhiṇa
+   {alīnen' appagabbhena}
+Halfverse: d     śudhayiveṇa jaduṇa. (22)
+   {śuddhajīvena passatā.}
+Cross-Reference: Uv_27,_4 
+         {269}
+
+
+
+Verse: 223  
+223
+
+
+Halfverse: a     brama i bhikhu tasiṇa i pavu
+Halfverse: b     araha magena ya apramadu
+Halfverse: c     cita ji balu adhava jara i
+Halfverse: d     suheṇa theru yama'eṇa treḍaśa.
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 13
+
+Vagga: 14  
+{paṇḍita}
+         {270}
+
+
+Cross-Reference: DP_79 
+Verse: 224  
+224
+
+
+Halfverse: a     dhama-pridi suhu śayadi
+   {dhamma-pīti sukhaṃ seti}
+Halfverse: b     viprasaneṇa cedaso
+   {vippasannena cetasā}
+Halfverse: c     ari'a-pravedidi dharmi
+   {ariya-ppavedite dhamme}
+Halfverse: d     sada ramadi paṇidu. (1)
+   {sadā ramati paṇdito.}
+Cross-Reference: Uv_30,_16 
+         {271}
+
+
+
+Cross-Reference: DP_82 
+Verse: 225  
+225
+
+
+Halfverse: a     yatha vi rada gammiro
+   {yathā pi rahado gambhīro}
+Halfverse: b     viprasano aṇavilo
+   {vippasanno anāvilo}
+Halfverse: c     emu dhamu ṣuṇitvaṇa
+   {evaṃ dhammāni sutvāna}
+Halfverse: d     viprasidadi paṇida. (2)
+   {vippasīdanti paṇḍitā.}
+Cross-Reference: Uv_17,_}  }
+         {272}
+
+
+
+Cross-Reference: DP_83 
+Verse: 226  
+226
+
+
+Halfverse: a     sarvatra ya sapuruṣa vivedi
+   {sabbattha ve sappurisā vajanti}
+Halfverse: b     na kama-kama lavayadi dhira
+   {na kāma-kāmā lapayanti santo}
+Halfverse: c     suheṇa phuṭha adhava duheṇa
+   {sukhena phuṭṭhā athavā dukhena}
+Halfverse: d     na ucavaya paṇida daśayadi. (3)
+   {na uccāvacaṃ paṇḍitā dassayanti.}
+Cross-Reference: Uv_30,_52 
+         {273}
+
+
+
+Cross-Reference: DP_158 
+Verse: 227  
+227
+
+
+Halfverse: a     atmaṇam eva pradhamu
+   {attānam eva pathamam}
+Halfverse: b     pradiruvi niveśa'i
+   {patirūpe nivesaye}
+Halfverse: c     tadañi anuśaśe'a
+   {ath' aññam anusāseyya}
+Halfverse: d     na kiliśe'a paṇidu. (4)
+   {na kilisseyya paṇḍito.}
+Cross-Reference: Uv_23,_6 
+         {274}
+
+
+
+Cross-Reference: Thg_1018 
+Verse: 228  
+228
+
+
+Halfverse: a     aṣadhehi kradavehi
+   {pisunena ca kodhanena <ca>}
+Halfverse: b     phiśuṇehi vivhuda-nanahi
+   {maccharinā ca vibhūti-nandina}
+Halfverse: c     sakha na kari'a paṇido
+   {sakhitaṃ na kareyya panḍito}
+Halfverse: d     saǧadi kavuruṣehi paviya. (5)
+   {papo kāpurisena saṃgamo.}
+Cross-Reference: Uv_25,_1 
+   <dad pa med ciri hjuṅs pa daṅ>
+   <dbyen byed phra ma can dag dari>
+   <mkhas pas bśes par mi bya ziri>
+   <sdig can mi dali hgrogs mi bya.>
+
+
+
+Cross-Reference: Thg_1019 
+Verse: 229  
+229
+
+
+Halfverse: a     ṣadhehi ya peśalehi ya
+   {saddhena ca pesalena ca}
+Halfverse: b     (śilava)da yi bahoṣudehi ya
+   {paññavatā bahussutena ca}
+Halfverse: c     sakha kuvi'a paṇido
+   {sakhitaṃ hi kareyya paṇḍito}
+Halfverse: d     sagadi sapuruṣehi bhadi'a. (6)
+   {bhaddo sappurisena saṃgamo.}
+Cross-Reference: Uv_25,_2 
+   <dad ldan sñan par smra ba dah>
+   <thos mari tshul khrims ldan pa dan>
+   <mkhas pa yis ni mdzah bya ṅli>
+   <mi mchog dag dari hgrogs par bya.>
+         {276}
+
+
+
+Cross-Reference: DP_77 
+Verse: 230  
+230
+
+
+Halfverse: a     anuśaśadi ovadadi
+   {ovadeyyānusāseyya}
+Halfverse: b     asabhe hi navara'i
+   {asabbhā ca nivāraye}
+Halfverse: c     paṇidaṇa pri'o bhodi
+   {sataṃ hi so piyo hoti}
+Halfverse: d     balaṇa bhodi apri'o. (7)
+   {asataṃ hoti appiyo.}
+         {V. 26}
+         {277}
+
+
+
+Cross-Reference: DP_76 
+Verse: 231  
+231
+
+
+Halfverse: a     nisedara pravatara
+   {nidhīna~ṇ va pavattāraṃ}
+Halfverse: b     yo paśi vaji-daśaṇa
+   {yaṃ passe vajja-dassinaṃ}
+Halfverse: c     nigiśa-vadi medhavi
+   {niggayha-vādiṃ medhāviṃ}
+Halfverse: d     tadiśa paṇada bhayi
+   {tādisaṃ paṇḍitaṃ bhaje}
+         {278}
+Halfverse: f     tadi bhayamaṇaṇa
+   {tādisam bhajamānassa}
+Halfverse: g     ṣeho bhodi na pavi'u. (8)
+   {seyyo hoh na pāpiyo.}
+Cross-Reference: Uv_28,_7 
+         {278}
+
+
+
+Cross-Reference: It_78 
+Verse: 232  
+232
+
+
+Halfverse: a     ka'eṇa kuśala kitva
+   {kāyena kusalaṃ katvā}
+Halfverse: b     vaya'i kuśala baho
+   {vācāya kusalaṃ bahuṃ}
+         {279}
+Halfverse: c     maṇeṇa kuśala kitva
+   {manasā kusalam katvā}
+Halfverse: d     apramaṇa nirovadhi
+   {appamanaṃ mrupadh1}
+Cross-Reference: It_16,_52 
+Halfverse: e     avavaji suhi loke
+   {abyapa~Jhaṃ sukhaṃ lokaṃ}
+Halfverse: f     paṇidu uvavajadi. (9)
+   {pandito upapa~ati.}
+
+         {vII. 5}
+         {280}
+
+
+
+Cross-Reference: DP_64 
+Verse: 233  
+233
+
+
+Halfverse: a     yavajiva bi ya balu
+   {yāvajīvaṃ pi ce bālo}
+Halfverse: b     paṇida payuvasadi
+   {panḍitaṃ payirupāsati}
+Halfverse: c     neva dhamu vi'aṇadi
+   {na so dhammaṃ vijānāti}
+Halfverse: d     praña hisa na vijadi. (10)
+   {dabbī sūparasaṃ yathā.}
+Cross-Reference: Uv_25,_13,  15
+         {281}
+
+
+
+Cross-Reference: DP_65 
+Verse: 234  
+234
+
+
+Halfverse: a     muhuta bi ya viñu
+   {muhuttam api ce viññu}
+Halfverse: b     paṇada payuvasadi
+   {paṇḍitaṃ payirupāsati}
+Halfverse: c     so du dhamu vi'aṇadi
+   {khippaṃ dhammaṃ vijānāti}
+Halfverse: d     praña hisa tadovi'a. (11)
+   {jivhā sūparasaṃ yathā.}
+Cross-Reference: Uv_25,_14,  16
+         {282}
+
+
+
+Cross-Reference: Ang_II_51 
+Verse: 235  
+235
+
+
+Halfverse: a     na abhaṣamaṇa jaṇadi
+   {nābhāsamānaṃ jānanti}
+Halfverse: b     miṣa balehi paṇida
+   {missaṃ bālehi paṇḍitaṃ}
+Halfverse: c     bhaṣamaṇa du jaṇadi
+   {bhāsamānaṃ ca jananti}
+Halfverse: d     deśada amuda duduhi.1 (12)
+   {desentam amataṃ padaṃ.}
+Cross-Reference: Uv_29,_43 
+         {283}
+
+
+
+Verse: 236  
+236
+
+
+Halfverse: a     deśehi joda'i dhamu
+   {ibid. bhāsaye jotaye dhammaṃ}
+Halfverse: b     uṣivi iṣiṇa dhay(u)
+   {paggaṇhe isinaṃ dhajaṃ}
+Halfverse: c     subhaṣida-dhaya hi iṣayu
+   {subhāsita-dhajā isayo}
+Halfverse: d     dhamo ha iṣiṇa dhayu. (13)
+   {dhammo hi isinaṃ dhajo.}
+Cross-Reference: Uv_29,_44 
+         {284}
+
+
+
+Cross-Reference: DP_227 
+Verse: 237  
+237
+
+
+Halfverse: a     poraṇam ida adura
+   {porāṇam etam atula}
+Halfverse: b     na ida ajetaṇa iva
+   {n'etam ajjatanām iva}
+Halfverse: c     ninadi tuši-bhaveṇa
+   {nindanti tuṇhim āsīnaṃ}
+Halfverse: d     ninadi baho-bhaṇiṇo
+   {nindanti bahu-bhāṇinaṃ}
+Halfverse: e     mana-bhaṇi vi ninadi
+   {mita-bhāṇinam pi nindanti}
+Halfverse: f     nasti loki anini'a. (14)
+   {natthi loke anindito.}
+Cross-Reference: Uv_29,_45 
+         {285}
+
+
+
+Verse: 238  
+238
+
+
+Halfverse: a     praśaǰa śaśvada nasti
+Halfverse: b     nina nica na vijadi
+Halfverse: c     tasa nina-praśaǰaṣu
+Halfverse: d     na sammijadi paṇida. (15)
+         {286}
+
+
+
+Cross-Reference: DP_81 
+Verse: 239  
+239
+
+
+Halfverse: a     śelu yadha eka-khaṇo
+   {selo yatha eka-ghano}
+Halfverse: b     vadeṇa na sabhijadi
+   {vātena na samīrati}
+Halfverse: c     emu nina-praśaǰaṣu
+   {evaṃ nindā-pasaṃsāsu}
+Halfverse: d     na sammijadi paṇida. (16)
+   {na saminjanti paṇdita.}
+Cross-Reference: Uv_29,_49 
+         {287}
+
+
+
+Cross-Reference: Uv_29,_46 
+Cross-Reference: DP_228 
+Verse: 240  
+240
+
+
+Halfverse: a     ekada ninido prodhu
+   {na cāhu na ca bhavissati}
+Halfverse: b     ekada ji praśaǰidu
+   {na c'etarahi vijjati}
+Halfverse: c     na i aha na i bheṣida
+   {ekantaṃ nindito poso}
+Halfverse: d     na yi edarahi vijadi. (17)
+   {ekantaṃ vā pasamsito.}
+
+
+
+Cross-Reference: DP_229 
+Verse: 241  
+241
+
+
+Halfverse: a     yo nu ho viña praśaǰadi
+   {yañ ce viññū pasaṃsanti}
+Halfverse: b     aṇu'ija śuhaśuhu
+   {anuvicca suve suve}
+Halfverse: c     achidra-vuti medhavi
+   {acchidda-vuttiṃ medhāviṃ}
+Halfverse: d     praña-śila-samahida (18)
+   {pañnā-sīla-samā//itaṃ}
+         {289}
+
+
+
+Cross-Reference: Uv_29,_47 
+Cross-Reference: Uv_29,_48 
+Cross-Reference: DP_230 
+Verse: 242  
+242
+
+
+Halfverse: a     nikhu jabodaṇaseva
+   {nekkhaṃ jambonadasseva}
+Halfverse: b     ko ṇa ninidu arahadi
+   {ko taṃ ninditum arahati}
+Cross-Reference: Uv_22,_10 
+Halfverse: c     deva mi ṇa praśajadi
+   {devā pi naṃ pasamsanti}
+Halfverse: d     bramoṇa vi praśajidu. (19)
+   {brahmunā pi pasaṃsito.}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 14
+
+Vagga: 15  
+{bahuśruta}
+         {370}
+
+
+
+Verse: 243  
+243
+
+Halfverse: a     ayo'a va na jaṇadi
+Halfverse: b     micha-viṇayadu iva
+         {367}
+Halfverse: c     avija'i va samu\(śa)
+Halfverse: d     budhaṇa va adaśaṇi. (1)
+         {369, 300}
+
+
+
+Verse: 244  
+244
+
+
+Halfverse: a     aṇuyo'a du jaṇadi
+Halfverse: b     same-viṇi'ad(u) iva
+         {368, 300}
+Cross-Reference: M_III_262 
+Halfverse: d     yoṇiśa viyiṇi dhama
+   {yoniso vicine dhammaṃ.}
+Halfverse: e     sevamaṇa bahoṣuda. (2)
+         {301}
+
+
+
+Verse: 245  
+245
+
+
+Halfverse: a     duha'eṇa i artheṇa
+Halfverse: b     sevidavi bahoṣuda
+Halfverse: c     suhiṇa uyidatheṇa
+Halfverse: d     nica kicha-kadeṇa ca. (3)
+         {302}
+
+
+
+Verse: 246  
+246
+
+
+Halfverse: a     prahodi duhiṇo dokhu
+Halfverse: b     avaṇedu bahoṣuda
+Halfverse: c     katha'i paḍiruva'i
+Halfverse: d     bhaṣamaṇa puṇa-puṇu. (4)
+         {303}
+
+
+
+Verse: 247  
+247
+
+
+Halfverse: a     suhidasa vi pramoju
+Halfverse: b     jaṇayadi bahoṣuda
+Cross-Reference: Thg_309d 
+Halfverse: c     deśada amuda dhamu
+   {desentaṃ amataṃ padaṃ}
+Cross-Reference: Thg_1238c 
+   {desentaṃ virajaṃ dhammaṃ}
+Cross-Reference: Dhp_191d 
+Halfverse: d     dukha-vaśama-kami'a. (5)
+   {dukkhūpasama-gāminaṃ.}
+         {304}
+
+
+
+Cross-Reference: Uv_25,_6 
+Verse: 248  
+248
+
+
+Halfverse: a     śimada1 maha-praña
+   <tshul khrims ñe bar zi ba daṅ>
+Halfverse: b     dharmakama-bahoṣuda
+   <śes rab ches mchog ldan pa yi>
+Halfverse: c     bhayidavi saprañeṇa
+   <gtso bo gari yin de bsten na>
+Halfverse: d     bhuyasa bhorim ichadu. (6)
+   <gtso bo bas kyai~ ches gtsor hgyur.>
+         {305}
+
+
+
+Cross-Reference: Thg_1030 
+Verse: 249  
+249
+
+
+Halfverse: a     bahuṣuda dhama-dhara
+   {bahussutam dhamma-dharaṃ}
+Halfverse: b     sapraña budha-ṣavaka
+   {sappañnaṃ buddha-sāvakaṃ}
+Halfverse: c     śrudi-viñati akakṣu
+   {dhamma-viññāṇaṃ ākalikhaṃ}
+Halfverse: d     ta bhaye'a tadhavidha. (7)
+   {taṃ bhajetha tathāvidhaṃ.}
+Cross-Reference: Uv_22,_10 
+         {306}
+
+
+
+Cross-Reference: Saṃ_I_18,57 
+Verse: 250  
+250
+
+
+Halfverse: a     sabhir ava2 samase'a
+   {sabbhir eva samāsetha}
+Halfverse: b     sabhi kuvi'a sadhavu
+   {sabbhi kubbetha santhavaṃ}
+Halfverse: c     sada sadharmu aña'i
+   {sataṃ saddhammaṃ aññāya}
+Halfverse: d     sarva-dukha pramucadi. (8)
+   {sabba-dukkhā pamuccati.}
+         {307}
+
+
+
+Cross-Reference: Uv_22,_3 
+Verse: 251  
+251
+
+
+Halfverse: a     yadha akara suchana
+   <ji ltar khyim ni legs g'yogs pa>
+Halfverse: b     praviśi tamasarṇudu
+   <mun pa khebs pah, i nari iugs na>
+Halfverse: c     vijamaṇa vi ruveṣu
+   <g~ugs rnams yod par gyur kyai~ ni>
+Halfverse: d     cakhkṣuma vi na paśadi (9)
+   <mig ldan biin du mi mthoṅ ba>
+
+
+
+Verse: 252  
+252
+
+
+Halfverse: a     emam eva idh=ekacu
+   <de biin hdi na rigs skyes pa,hi>
+Halfverse: b     jadima vi ca yo naro
+   <mi ni blo gros ldan gyur kyaṅ>
+Halfverse: c     aṣutva na vi'aṇadi
+   <sdig pa dari ni dge bah. i chos>
+Halfverse: d     dhama dhama1 kalaṇa-pavaka.
+   <ma thos par du śes mi hgyur>
+         (10)
+         {309}
+
+
+
+Verse: 253  
+253
+
+
+Halfverse: a     pradiveṇa nu2 ruvaṇi
+   <mig ldan mar me yod pa yis>
+Halfverse: b     yadha paśadi cakhkṣuma
+   <gzugs rnams mthori ba ji lta bar>
+Halfverse: c     emu sutva vi'aṇadi
+   <de biin dge daṅ sdig pahi chos>
+Halfverse: d     dhama kalaṇa-pavaka. (11)
+   <thos pas rnam par śes par h. gyur.>
+Cross-Reference: Jāt_V_493 
+   {sutvā dhammaṃ vijānanti}
+   {narā kalyāṇa-pāpakaṃ.}
+         {310}
+
+
+
+Cross-Reference: Thg_141 
+Verse: 254  
+254
+
+
+Halfverse: a     suṣuda ṣuda-vaḍhaṇa
+   {SUSSūSā suta-vaḍdhanī}
+Halfverse: b     ṣuda prañaya vaḍhadi
+   {sutaṃ paññāya vaddhanam}
+Halfverse: c     praña artha viśodhedi
+   {paññāya atthaṃ jānati}
+Halfverse: d     artha śudho suhava'u. (12)
+   {ñāto attho sukhāvaho.}
+         {311}
+
+
+
+Cross-Reference: Thg_740,_746 
+Verse: 255  
+255
+
+
+Halfverse: a     so artha-ladhu medhavi
+   {SO atthavā so dhammattho.}
+Cross-Reference: Dhp_229d 
+Halfverse: b     praña-śila-samahidu
+   {pannā-sīla-samahitam.}
+Cross-Reference: Jāt_VI_296 
+Halfverse: c     ṣuda-dhamu suyi-drakṣu
+   {appamatto suci dakkho.}
+Cross-Reference: Thg_884d 
+Halfverse: d     panodi paramu suhu. (13)
+   {pappoti paramaṃ sukhaṃ.}
+Cross-Reference: Thg_740b 
+   {(so dakkho so vicakkhaṇo.)}
+         {312}
+
+
+
+Cross-Reference: Uv_22,_2 
+Verse: 256  
+256
+
+
+Halfverse: a     nica hi avi'aṇada
+   <byis pa mi mkhas pa dag ni>
+Halfverse: b     caradi amara viva
+   <h. chi ba med pa lta bur spyod>
+Halfverse: c     sadhama du vi'aṇada
+   <mkhas pa dam pahi chos dag la>
+Halfverse: d     aduraseva śadvari. (14)
+   <mtshan mo,hi nad pa biin du byed,>
+         {313}
+
+
+
+Cross-Reference: Uv_14,_4 
+Verse: 257  
+257
+
+
+Halfverse: a     kim añatra aṣamaṇadha
+   {anyatra śravanād asya}
+Halfverse: b     dhamaseva adaśaṇe
+   {saddharmasyāvijānakāh}
+Halfverse: c     eva apasa jividi
+   {āyusy evam parītte hi}
+Halfverse: d     vera kuyadi keṇa'i. (15)
+   {vairaṃ kurvanti kenacit.}
+         {314}
+
+
+
+Cross-Reference: DP_164 
+Verse: 258  
+258
+
+
+Halfverse: a     ye śaśaṇa arahadu
+   {yo sāsanaṃ arahataṃ}
+Halfverse: b     ari'aṇa dhama-jiviṇo
+   {ariyānam dhammajīvinam}
+Halfverse: c     paḍikośadi drumedho
+   {patikkosati dummedho}
+Halfverse: d     diṭhi niṣa'i pavi'a
+   {dit,ṭhiṃ nissāya pāpikaṃ}
+Halfverse: e     phalaṇi kaḍakaseva
+   {phalāni katthakasseva}
+Halfverse: f     atva-kaña'i phaladi. (16)
+   {atta-ghañnaya pha//ati.}
+         {vIII. 7}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 15
+
+Vagga: 16  
+{prakīrṇaka}
+         {315}
+
+
+Cross-Reference: Uv_23,_2 
+Cross-Reference: DP_305 
+Verse: 259  
+259
+
+
+Halfverse: a     ekasaṇa eka-saya
+   {ekāsanaṃ eka-seyyam}
+Halfverse: b     eka-'iya'i savudu
+   {eko caram atandito}
+Halfverse: c     eku ramahi atvaṇa
+   {eko damayam attānaṃ}
+Halfverse: d     arañi eka'o vasa. (1)
+   {vanante ramito siyā,}
+
+
+
+Cross-Reference: Sn_432 
+Verse: 260  
+260
+
+
+Halfverse: a     yasa ṣadha i praña ya
+   {atthi saddha tato viriyarn}
+Halfverse: b     viya otrapi'a hiri
+   {paiiiiā ca marna vijjati,}
+Cross-Reference: Mv_II_357 
+Halfverse: c     so ho maha-dhaṇa bhodi
+   {so so mahā-dhano bhavati,}
+Halfverse: d     moham aña baho dhaṇa. (2)
+Cross-Reference: Uv_10,_9 
+   {yo jīvaloke labhate}
+   {śraddhāṃ prajnāṃ ca paṇḍitah}
+   {tad dhi tasya dhanaṃ śreṣthaṃ}
+   {hīnam asyetare dhanam,}
+         {317}
+
+
+
+Cross-Reference: DP_288 
+Verse: 261  
+261
+
+
+Halfverse: a     na sadi putra traṇa'i
+   {na santi puttā tāṇāya}
+Halfverse: b     na bho'a na vi banava
+   {na pitā nāpi bandhavā}
+Halfverse: c     adeṇa abhiduṇasa
+   {antakenādhipannassa}
+Halfverse: d     nasti ñadihi traṇadha. (3)
+   {natthi nātīsu tāṇatā.}
+         {i. 4o}
+         {318}
+
+
+
+Cross-Reference: DP_302 
+Verse: 262  
+262
+
+
+Halfverse: a     druprava'i dru'abhiramu
+   {duppabbajjaṃ durabhiramaṃ}
+Halfverse: b     dru'aǰavasaṇa ghara
+   {durāvāsā gharā dukhā}
+Halfverse: c     dukhu samaṇa-savaso
+   {dukkho 'samāna-saṃvāso}
+Halfverse: d     dukhaṇuvadida bhava. (4)
+   {dukkhānupatitaddhagū}
+      {tasmā na c'addhagū siyā}
+      {na ca dukkhānupatito siyā.}
+Cross-Reference: Uv_11,_8 
+         {319}
+
+
+
+Cross-Reference: DP_182 
+Verse: 263  
+263
+
+
+Halfverse: a     kiche maṇuśa-pradilabhu
+   {kiccho manussa-patilābho}
+Halfverse: b     kicha macaṇa jivida
+   {kicchaṃ maccāna jlvitaṃ}
+Halfverse: c     kiche sadhama-śramaṇa
+   {kiccha ṃ saddhamma-savaṇaṃ}
+Halfverse: d     kiche budhaṇa upaya. (5)
+   {kiccho buddhānaṃ uppādo.}
+         {320}
+
+
+
+Cross-Reference: DP_163 
+Verse: 264  
+264
+
+
+Halfverse: a     sukaraṇi asadhuṇi
+   {sukarāni asādhūni}
+Halfverse: b     atvaṇo ahidaṇa yi
+   {attano ahitāni ca}
+Halfverse: c     ya du hida ji sadhu ji
+   {yaṃ ve hitaṃ ca sādhuṃ ca}
+Halfverse: d     ta gu parama-drukara. (6)
+   {taṃ ve parama-dukkaraṃ.}
+Cross-Reference: Uv_28,_16 
+         {321}
+
+
+
+Cross-Reference: DP_166 
+Verse: 265  
+265
+
+
+Halfverse: a     apaṇatha paratheṇa
+   {attadatthaṃ paratthena}
+Halfverse: b     na kudayiṇo hava'i
+   {bahunā pi na hāpaye}
+Halfverse: c     atvatha paramu ñatva
+   {attadatthaṃ abhiññāya}
+Halfverse: d     svakatha-paramu si'a. (7)
+   {sadattha-pasuto siyā.}
+Cross-Reference: Uv_23,_9 
+         {322}
+
+
+
+Cross-Reference: DP_209 
+Verse: 266  
+266
+
+
+Halfverse: a     ayo'i yuji atvaṇa
+   {ayoge yuñjaṃ attānaṃ}
+Halfverse: b     yo'aseva ayujadu
+   {yogasmiṃ ca ayojayaṃ}
+Halfverse: c     atha hitva pri'a-gaha
+   {atthaṃ hitvā piya-ggāhī}
+Halfverse: d     svihadi arthaṇupaśiṇo. (8)
+   {pihet' attānuyoginaṃ.}
+         {V, 9}
+         {323}
+
+
+
+Cross-Reference: Saṃ_I_127 
+Verse: 267  
+267
+
+
+Halfverse: a     nedi hi mahavira
+   {nayanti ve mahāvīrā}
+Halfverse: b     sadhameṇa tadhakada
+   {saddhammena tathāgatā}
+Halfverse: c     dhameṇa ne'amaṇaṇa
+   {dhammena nīyamānānaṃ}
+Halfverse: d     ka y-asu'a vi'aṇadu. (9)
+   {kā usuyā vijānataṃ.}
+         {Uv.}
+Cross-Reference: Uv_21,_8 
+Cross-Reference: Mv_III_90 
+         {324}
+
+
+
+Cross-Reference: Jāt_III_457 
+Verse: 268  
+268
+
+
+Halfverse: a     ali'a bhaṣamaṇasa
+   {alikaṃ bhāsamānassa}
+Halfverse: b     avakamadi devada
+   {apakkamanti devatā}
+Halfverse: c     muha ji pudi'a bhodi
+   {pūtikam ca mukham vāti}
+Halfverse: d     saga-ṯhaṇa i bhatsadi. (10)
+   {sagga-tthānā ca dhaṃsati.}
+         {325}
+
+
+
+Cross-Reference: DP_306 
+Verse: 269  
+269
+
+
+Halfverse: a     abhuda-vadi naraka uvedi
+   {abhu~ta-vādī nirayaṃ upeti}
+Halfverse: b     yo ya vi kitva na karodi āha
+   {yo vāpi katvā na karomi cāha}
+Halfverse: c     uvha'i ami preca sama bhavadi
+   {ubho pi te pecca samā bhavanti}
+Halfverse: d     nihiṇa-kama maṇuya paratri. (11)
+   {nihīna-kammā manujā parattha.}
+         {VIII. I}
+         {326}
+
+
+
+Cross-Reference: DP_309 
+Verse: 270  
+270
+
+
+Halfverse: a     catvari ṯhaṇaṇi naro pramatu
+   {cattāri ṭhānāni naro pamatto}
+Halfverse: b     avajadi para-darovasevi
+   {āpajjati para-dārūpasevī}
+Halfverse: c     amuña-labha ani'ama-saya
+   {apunña-lābhaṃ nanikāma-seyyaṃ}
+Halfverse: d     nina tridi'a niraya ca'uṯha. (12)
+   {nindaṃ tatiyaṃ nirayaṃ catutthaṃ.}
+Cross-Reference: Uv_4,_14 
+         {327}
+
+
+
+Cross-Reference: DP_50 
+Verse: 271  
+271
+
+
+Halfverse: a     na pareṣa vilomaṇi
+   {na paresam vilomāni}
+Halfverse: b     na pareṣa kidakida
+   {na paresam katākataṃ}
+Halfverse: c     atvaṇo i samikṣe'a
+   {attano va avekkheyya}
+Halfverse: d     samaṇi viṣamaṇi ca. (13)
+   {katāni akatāni ca.}
+         {328}
+
+
+
+Cross-Reference: DP_252 
+Verse: 272  
+272
+
+
+Halfverse: a     supaśi vaja añeṣa
+   {sudassaṃ vajjaṃ aññesaṃ}
+Halfverse: b     atvaṇo maṇa drudaśa
+   {attano pana duddasaṃ}
+Halfverse: c     pareṣa eṣu vajaṇa
+   {paresaṃ hi so vajjāni}
+Halfverse: d     upuṇadi yatha busu
+   {opunāti yathā bhusaṃ}
+Halfverse: e     atvaṇo maṇa chadedi
+   {attano pana chadeti}
+Halfverse: f     kali va kidava śaḍha. (14)
+   {kaliṃ va kitava saṭho.}
+         {330}
+
+
+
+Cross-Reference: DP_316 
+Verse: 273  
+273
+
+
+Halfverse: a     alajidavi lajadi
+   {alajjitāye lajjanti}
+Halfverse: b     lajidavi na lajadi
+   {lajjitāye na lajjare}
+      {micchāditthi-samādānā}
+      {sattā gacchanti duggatiṃ.}
+         {331}
+Cross-Reference: DP_317 
+Halfverse: d     abhayi bhaya-darśavi
+   {abhave bhava-dassino}
+Halfverse: e     bhayi abhaya-darśaṇo
+   {bhaye cābhaya-dassmo}
+Halfverse: f     michadiṭhi-samadaṇa
+   {mlcchāditthi-samādānā}
+Halfverse: g     satva gachadi drugadi. (15)
+   {sattā gacchanti duggatiṃ.}
+Halfverse: h     ga 10 4 I.
+
+         {xvi. 4}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 16
+
+Vagga: 17  
+{krodha}
+         {332}
+
+
+Cross-Reference: DP_221 
+Verse: 274  
+274
+
+
+Halfverse: a     kothu jahi viprayahe'a maṇa
+   {kodhaṃ jahe vippajaheyyamānaṃ}
+Halfverse: b     sañoyaṇa savi adikame'a
+   {sannojanaṃ sabbam atikkameyya}
+Halfverse: c     ta nama-ruvasa aṣajamaṇa
+   {taṃ nāma-rupasmiṃ asajjamānaṃ}
+Halfverse: d     akijaṇa naṇuvadadi dukhu. (1)
+   {akiñcanaṃ nānupatanti dukkhā.}
+Cross-Reference: Uv_20,_1 
+         {333}
+
+
+
+Cross-Reference: DP_222 
+Verse: 275  
+275
+
+
+Halfverse: a     yo du upadida kodhu
+   {yo ve uppatitaṃ kodham,}
+Halfverse: b     radha bhada va dhara'i
+   {rathaṃ bhantaṃ va dhāraye}
+Halfverse: c     tam aho saradi bromi
+   {tam ahaṃ sārathiṃ brūmi}
+Halfverse: d     rasvi-ggaha idara jaṇa. (2)
+   {rasmi-ggāho itaro jano.}
+Cross-Reference: Uv_20,_22 
+         {334}
+
+
+
+Verse: 276  
+276
+
+
+Halfverse: a     ya gu na prasahadi kudhu
+Halfverse: b     no yasa kuradi vaśa
+Halfverse: c     so hu rakṣadi atvaṇa
+Halfverse: d     nineva navaciṭhadi. (3)
+         {335}
+
+
+
+Cross-Reference: Jāt_V_222 
+Verse: 277  
+277
+
+
+Halfverse: a     akodhaṇasa vidi1
+   {akkodhanassa vijite}
+Halfverse: b     ṯhida-dhamasa rayiṇo
+   {ṭhita-dhammassa rājino}
+Halfverse: c     suhu puruṣu ase'a
+   {sukhaṃ manussā āsetha}
+Halfverse: d     śida-chade va sva ghari. (4)
+   {sīta-cchāyāya saṃghare.}
+         {336}
+
+
+
+Verse: 278  
+278
+
+
+Halfverse: a     uṣavha viva go-saǧi
+Halfverse: b     śilamadu akodhaṇo
+Halfverse: c     baho ṇa payuvasadi
+Halfverse: d     rayaṇa viva dhami'a. (5)
+         {337}
+
+
+
+Verse: 279  
+279
+
+
+Halfverse: a     hasti va muya-jadaṇa
+Halfverse: b     śela hemavañ iva
+Halfverse: c     sakaro va śravadiṇa
+Halfverse: d     adico tavada-r-iva
+         {338}
+Halfverse: f     khaṇa-khaṇi tidikṣe'a
+Halfverse: g     kodhu rakṣe'a atvaṇi. (6)
+         {339}
+
+
+
+Cross-Reference: DP_223 
+Verse: 280  
+280
+
+
+Halfverse: a     jiṇa kodha akotheṇa
+   {akkodhena jine kodhaṃ}
+Halfverse: b     asadhu sadhuṇa jiṇa
+   {asadhuṃ sādhuna jine}
+Halfverse: c     jiṇa kradava daṇeṇa
+   {jine kadariyaṃ dānena}
+Halfverse: d     saceṇa ali'a jiṇa. (7)
+   {saccenalika-vādina ṃ.}
+Cross-Reference: Uv_20,_19 
+         {340}
+
+
+
+Cross-Reference: DP_224 
+Verse: 281  
+281
+
+
+Halfverse: a     saca bhaṇi na kuve'a
+   {saccaṃ bhane na kujjheyya}
+Halfverse: b     daya apadu yayida
+   {dajjā appasmiṃ yācito}
+Halfverse: c     edehi trihi ṯhaṇehi
+   {etehi tīhi ṭhānehi}
+Halfverse: d     gacha devana sadi'i. (8)
+   {gacche devāna santike.}
+Cross-Reference: Uv_20,_16 
+         {341}
+
+
+
+Cross-Reference: Ang_IV_96 
+Verse: 282  
+282
+
+
+Halfverse: a     kudhu atha na jaṇadi
+   {kuddho atthaṃ na jānāti}
+Halfverse: b     kudhu dhamu na paśadi
+   {kuddho dhammaṃ na passati}
+Halfverse: c     anu tada tamu bhodi
+   {andhaṃ tamaṃ tadā hoti}
+Halfverse: d     ya kodhu sahadi naru. (9)
+   {yaṃ kodho sahate naraṃ.}
+         {342}
+
+
+
+Verse: 283  
+283
+
+
+Halfverse: a     ma sa kodhu pramuje'a
+Halfverse: b     dukhu kodhasa avaraṇa
+Cross-Reference: DP_69 
+Halfverse: c     mahoru mañati sadhu
+   {madhuvā maññatī bālo.}
+Cross-Reference: DP_314 
+Halfverse: d     pacha tavadi kodhaṇo. (10)
+   {pacchā tapati dukkataṃ.}
+         {343}
+
+
+
+Cross-Reference: DP_150 
+Verse: 284  
+284
+
+
+Halfverse: a     nakara aṯhi-pakara
+   {aṭṭhīnaṃ nagaraṃ kataṃ}
+Halfverse: b     matsa-lohida-levaṇa
+   {maṃsa-lohita-lepanaṃ}
+Halfverse: c     yatra rako ya doṣo ya
+   {yatra jarā ca maccū ca}
+Halfverse: d     maṇo makṣo samokadu. (11)
+   {māno makkho ca ohito.}
+Cross-Reference: Uv_16,_23 
+   {nagaraṃ asthi-prakaraṃ}
+   {maṃsa-śoṇita-lepanaṃ}
+   {yatra rāgaś ca deṣaś (sic) ca}
+   {māna mrakṣa,h pragāhati.l}
+      {344}
+
+
+
+Verse: 285  
+285
+
+
+Halfverse: a     makṣi'a matsari bhodi
+Halfverse: b     prahata bhodi gadhavo
+Halfverse: c     kodhaṇo su'aro bhodi
+Halfverse: d     ma sa kuju kumaraka. (12)
+         {345}
+
+
+
+Verse: 286  
+286
+
+
+Halfverse: a     suradu bhodi bhadrañu
+Halfverse: b     surado suho modadi
+Halfverse: c     suradasa a'i dhamu
+Halfverse: d     edha paśadha tadiṇo. (13)
+         {346}
+
+
+
+Verse: 287  
+287
+
+
+Halfverse: a     soracasa phala paśa
+Halfverse: b     tava kichaṣu jadiṣu
+Halfverse: c     yatra edadiśo sadu
+Halfverse: d     surado di na haṇadi. (14)
+         {347}
+
+
+
+Cross-Reference: Saṃ_I_41 
+Verse: 288  
+288
+
+
+Halfverse: a     ki nu ǰatva suho śayadi
+   {kiṃ su jhatva sukhaṃ seti}
+Halfverse: b     ki nu ǰatva na śoyadi
+   {kiṃ su jhatvā na socati}
+Halfverse: c     kisa nu eka-dhamasa
+   {kissa ssu eka-dhammassa}
+Halfverse: d     vadha royeṣi godama. (15)
+   {vadhaṃ rocesi gotama.}
+         {348}
+
+
+
+Cross-Reference: Saṃ_I_41 
+Verse: 289  
+289
+
+
+Halfverse: a     kodhu ǰatva suha śayadi
+   {kodhaṃ jhatva sukhaṃ seti}
+Halfverse: b     kodhu ǰatva na śoyadi
+   {kodhaṃ jhatvā na socati}
+Halfverse: c     kodhasa viṣa-mulasa
+   {kodhassa visa-mūlassa}
+Halfverse: d     masuragasa bramaṇa
+   {madhuraggassa brāhmaṇa}
+         {349}
+Halfverse: e     vadha ari'a praśaǰadi
+   {vadham ariyā pasamsanti}
+Halfverse: f     ta ji ǰatva na śoyadi. (16)
+   {tam hl ~hatvā na socah.}
+
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 17
+
+Vagga: 18  
+{puṣpa}
+         {350}
+
+
+Cross-Reference: DP_51 
+Verse: 290  
+290
+
+
+Halfverse: a     yatha vi ruyida puṣu
+   {yathāpi ruciraṃ pupphaṃ}
+         {366}
+Halfverse: b     vaṇama\da agana'a
+   {vaṇṇavantam, agandhakaṃ}
+         {350}
+   {evaṃ subhasita vaca}
+Halfverse: d     emu subhaṣi\da vaya
+   {aphalā hoti akubbato.}
+Halfverse: e     apha(la) . . akuvad(u). (1)
+Cross-Reference: Uv_18,_6 
+         {351}
+
+
+
+Cross-Reference: DP_52 
+Verse: 291  
+291
+
+
+Halfverse: a     yatha vi ruyida puṣu
+   {yathāpi ruciraṃ pupphaṃ}
+Halfverse: b     vaṇamada sagana'a
+   {vaṇṇavantaṃ sagandhaka ṃ}
+Halfverse: c     emu subhaṣida vaya
+   {evaṃ subhāsitā vācā}
+Halfverse: d     saphala bhodi kuvadu. (2)
+   {saphalā hoti sakubbato.}
+Cross-Reference: Uv_18,_7 
+         {352 360}
+
+
+
+Cross-Reference: DP_49 
+Verse: 292  
+292
+
+
+Halfverse: a     yatha vi bhamaru puṣ\pa
+   {yathāpi bhamaro pupphaṃ}
+Halfverse: b     vana-gana ah(e)da'(i)
+   {vaṇṇa-gandham, aheṭhayaṃ}
+Halfverse: c     paridi rasam ada'i
+   {paleti rasam adaya}
+Halfverse: d     emu gami muṇi cara. (3)
+   {evam game muni care.}
+Cross-Reference: Uv_18,_8 
+         {353 359}
+
+
+
+Cross-Reference: DP_53 
+Verse: 293  
+293
+
+
+Halfverse: a     yada vi puṣpa-raśi\sa
+   {yathāpi puppha-rāsimhā}
+Halfverse: b     kuya mala-guṇa baho
+   {kayirā mālā-guṇe bahu}
+Halfverse: c     emu jadeṇa maceṇa
+   {evaṃ jātena maccena}
+Halfverse: d     kata(v)i . . . . . (4)
+   {kattabbaṃ kusalaṃ bahuṃ.}
+Cross-Reference: Uv_18,_12 
+         {354 358}
+
+
+
+Cross-Reference: DP_47 
+Verse: 294  
+294
+
+
+Halfverse: a     p(u)ṣa(ṇ)i (y)e\va payiṇadu
+   {pupphāni heva pacinantaṃ}
+Halfverse: b     vasita-maṇasa nara
+   {vyāsatta-manasaṃ naraṃ}
+Halfverse: c     sutu gamu mahoho va
+   {suttaṃ gāmaṃ mahogho va}
+         {371}
+   {( ) maccu ādāya gacchati.}
+Cross-Reference: DP_48 
+Halfverse: e     a(da) . . . . . (5)
+   {antako kurute vasaṃ.}
+Cross-Reference: Uv_18,_14 
+         {357}
+
+
+
+Cross-Reference: DP_54 
+Verse: 295  
+295
+
+
+Halfverse: a     . . . . (pra)divada vayadi
+   {na puppha-gandho paṭivātam eti}
+Halfverse: b     na mali'a takar(a) canaṇa va
+   {na candanaṃ tagaraṃ ma//ikā vā}
+Halfverse: c     sadaṇa gano pradivada va'idi
+   {sataṃ ca gandho paṭivātam eti}
+         {373}
+Halfverse: d     sa(rva) \diśa sapuruṣo pada'idi. (6)
+   {sabbā disā sappuriso pavāti.}
+         {Vi. 16}
+         {365}
+
+
+
+Cross-Reference: DP_55 
+Verse: 296  
+296
+
+
+Halfverse: a     . . . . . . (ya vi)
+   {candanaṃ tagaram vāpi}
+Halfverse: b     . . . . . . . .
+   {uppalaṃ atha vassikī}
+Halfverse: c     ....... . (gana-ja[da)]ṇa
+   {etesaṃ gandhaiātanaṃ}
+         {376}
+Halfverse: d     śila-gano \ivutama. (7)
+   {sīla-gandho anuttaro.}
+         {Vi. 17}
+         {364}
+
+
+
+Cross-Reference: DP_57 
+Verse: 297  
+297
+
+
+Halfverse: a     . . . (baṇa)-śilaṇa
+   {tesaṃ sampanna-sīlānaṃ}
+         {374}
+Halfverse: b     apramada- \vihariṇa
+   {appamāda-vihārinam}
+Halfverse: c     samadaña-vimutaṇa
+   {sammad-anñā-vimuttānam}
+         {377}
+Halfverse: d     ga\di maro na vinadi. (8)
+   {maro maggaṃ na vmdat1.}
+         {vi. 19}
+         {363}
+
+
+
+Cross-Reference: DP_377 
+Verse: 298  
+298
+
+
+Halfverse: a     vaṣi'a yatha puṣaṇa
+   {vassikā viya pupphāni}
+         {375}
+Halfverse: b     poraṇaṇi pra\mujadi
+   {maddavāni pamuñcati}
+Halfverse: c     emu raka ji dosa ji
+   {evam rāgam ca dosam ca}
+         {378}
+Halfverse: e     vipramujadha bhikṣavi. (9)
+   {v1ppamuñcetha bhikkhavo.}
+Cross-Reference: Uv_18,_13 
+         {362}
+
+
+
+Cross-Reference: DP_285 
+Verse: 299  
+299
+
+
+Halfverse: a     uchina siṇeha atvaṇo
+   {ucchinda sineham attano}
+Halfverse: b     kumudu śaradaka ba p(r)a\ṇiṇa
+   {kumudam sāradikam va pāninā}
+Halfverse: c     śadi-magam eva broha'i
+   {sant1-maggam eva bruhaya}
+Halfverse: d     nivaṇa sukadeṇa deśida. (10)
+   {nibbānam sugatena desitam.}
+Cross-Reference: Uv_18,_5 
+         {361}
+
+
+
+Cross-Reference: Uv_18,_18 
+Cross-Reference: DP_46 
+Verse: 300  
+300
+
+
+Halfverse: a     pheṇovamu kayam ida viditva
+   {phenūpamaṃ kāyam imaṃ viditvā}
+Halfverse: b     mari(y)i . . . . (bhu)da'i
+   {madrlcl-dhammaṃ abh1saṃbu}
+Halfverse: c     chetvaṇa marasa p(a)p(a)vuṣe'aṇa1
+   {chetvāna mārassa papupphakāni}
+Halfverse: d     a . . . . . . (11)
+   {adassanaṃ maccu-rājassa gacche.}
+
+
+
+Cross-Reference: DP_44 
+Verse: 301  
+301
+
+
+Halfverse: a     . . . . . . . .
+   {ko imaṃ paṭhaviṃ vijessati}
+         {381}
+Halfverse: c     [yama-loka ji] ida sadevaka
+   {yama-lokam ca imam sadevakam}
+Halfverse: d     ko dhama-pada sudeśida
+   {ko dhamma-padam sudesitam}
+Halfverse: e     kuśala puṣa viva payeṣidi. (12)
+   {kusalo DuDDham iva ppacessati}
+Cross-Reference: Uv_18,_11  III -
+         {382}
+
+
+
+Cross-Reference: DP_45 
+Verse: 302  
+302
+
+
+Halfverse: a     budhu pradha . . . ṣidi
+   {sekho paṭhaviṃ vijessati}
+Halfverse: b     yama-loka ji ida sadevaka
+   {yama-lokaṃ ca imaṃ sadevakaṃ}
+Halfverse: c     budhu dhama-pada sudeśida
+   {sekho dhamma-padaṃ sudesitaṃ}
+Halfverse: d     kuśala puṣa viva payiṣidi. (13)
+   {kusalo puppham iva ppacessati.}
+         {Cr2}
+Cross-Reference: Uv_18,_2 
+         {383}
+
+
+
+Cross-Reference: DP_58 
+Verse: 303  
+303
+
+
+Halfverse: a     yadha sagara-'uḍasa
+   {yathā saṃkāra-dhānasmiṃ}
+Halfverse: b     uǰidasa maha-pathe
+   {ujjhitasmiṃ mahā-pathe}
+Halfverse: c     padumu tatra ja'e'a
+   {padumaṃ tattha jāyetha}
+Halfverse: d     suyi-gańa maṇoramu (14)
+   {suci-gandhaṃ manoramaṃ}
+         {Cr3}
+Cross-Reference: Uv_18,_10 
+         {384 419}
+
+
+
+Cross-Reference: DP_59 
+Verse: 304  
+304
+
+
+Halfverse: a     e[(mu)] sag(h)asa-dhama'(u)
+   {evaṃ saṃkara-bhūtesu}
+         {384}
+Halfverse: c     ańa-hodi prudhijaṇe
+   {andha-bhūte puthuJjane}
+Halfverse: d     abhi(r)oyadi praña'i
+   {at1rocat1 panñaya}
+Halfverse: e     same-sabudha-ṣavaka. (15)
+   {sammā-sambuddha-sāvako.}
+Cross-Reference: Uv_18,_11 
+         {cr4}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 18
+
+Vagga: 19  
+{sahasra}
+         {385}
+
+
+Cross-Reference: DP_103 
+Verse: 305  
+305
+
+
+Halfverse: a     yo (sa)hasa sahasaṇi
+   {yo sahassaṃ sahassena}
+Halfverse: b     saǧami maṇuṣa jiṇi
+   {saṃgāme mānuse jine}
+Halfverse: c     eka ji jiṇi atvaṇa
+   {ekaṃ ca jeyya attānaṃ}
+Halfverse: d     so ho sagamu utamu. (1)
+   {sa ve saṃgāmajuttamo.}
+         {Cr6}
+Cross-Reference: Uv_23,_3 
+         {386 415}
+
+
+
+Cross-Reference: DP_100 
+Verse: 306  
+306
+
+
+Halfverse: a     sahasa bi ya \vayaṇa
+   {sahassam api ce vācā}
+         {386}
+Halfverse: c     aṇatha-pada-sahida
+   {anattha-pada-samhitā}
+Halfverse: d     eka vaya-pada ṣevha
+   {ekam attha-padarn seyyo}
+Halfverse: e     ya ṣutva uvaśamadi. (2)
+   {yam sutva upasammat1.}
+         {Cr7}
+Cross-Reference: Uv_24,_1 
+         {415a 387}
+
+
+
+Verse: 307  
+307
+
+
+Halfverse: a     [(yo ja] va)ya-\śada (bha)ṣi
+Halfverse: b     aṇatha-pada-sahida
+         {414 387}
+Halfverse: d     e\ka vaya-(pa[da)] \ṣ(e)hu
+Halfverse: e     ya ṣutva uvaśamadi. (3)
+         {cr8}
+         {388}
+
+
+
+Cross-Reference: DP_101 
+Verse: 308  
+308
+
+
+Halfverse: a     . (ha)sa bi ya gadhaṇa
+   {sahassam api ce gāthā}
+Halfverse: b     aṇatha-pada-sahida
+   {anattha-pada-saṃhitā}
+Halfverse: c     eka gadha-pada ṣeho
+   {ekaṃ gāthā-padaṃ seyyo}
+Halfverse: d     ya ṣutva uvaśamadi. (4)
+   {yam sutvā upasammati.}
+         {cr9}
+
+
+
+Cross-Reference: DP_102 
+Verse: 309  
+309
+
+
+Halfverse: a     (yo) ja gadha-śada bhaṣi
+   {yo ca gāthā-sataṃ bhāse}
+Halfverse: b     aṇatha-pada-sahida
+   {anattha-pada-saṃhitā}
+Halfverse: c     eka gadha-pada ṣebha
+   {ekaṃ dhamma-padaṃ seyyo}
+Halfverse: d     ya ṣutva uvaśamadi. (5)
+   {yaṃ sutvā upasammati.}
+         {Crlo}
+Cross-Reference: Uv_24,_2 
+         {390}
+
+
+
+Cross-Reference: DP_106 
+Verse: 310  
+310
+
+
+Halfverse: a     masa-masi sahasiṇa
+   {māse-māse sahassena}
+Halfverse: b     yo ya'e'a śadeṇa ca
+   {yo yajetha sataṃ samaṃ}
+Cross-Reference: Mv_III_435 
+   {yo jayetal sahasrāṇāṃ}
+      {māse-māse śataṃ śatam}
+Halfverse: c     nevi budhi prasadasa
+         {CrrI}
+   {na so buddhe prasādasya}
+Halfverse: d     kala avedi ṣoḍaśa. (6)
+   {kalām arghati ṣoḍaśīm.}
+         {~XIV. 26}
+         {391}
+
+
+
+Verse: 311  
+311
+
+
+Halfverse: a     (ma)sa-mase sahaseṇa
+Halfverse: b     yo ya'e'a śadeṇa ca
+Cross-Reference: Mv_III_435 
+Halfverse: c     neva . . prasa . sa
+   {(dharme)}
+Halfverse: d     kala avedi ṣoḍaśa. (7)
+Cross-Reference: Uv_24,_27 
+         {Cr12}
+         {392}
+
+
+
+Verse: 312  
+312
+
+
+Halfverse: a     masa-masi sahasiṇa
+Halfverse: b     yo ya'e'a śadeṇa ca
+Cross-Reference: Mv_III_435 
+Halfverse: c     neva saǧi prasadasa
+   {(sanghe)}
+Halfverse: d     kala avedi ṣoḍaśa. (8)
+Cross-Reference: Uv_24,_28 
+         {Cr13}
+         {393}
+
+
+
+Verse: 313  
+313
+
+
+Halfverse: a     masa-masi sahaseṇa
+Halfverse: b     yo ya'e'a śadeṇa ca
+Cross-Reference: Mv_III_435 
+Halfverse: c     neva saghasa-dhameṣu
+   {na so svākhyāta-dharmāṇā ṃ.}
+Cross-Reference: DP_70 
+      {māse-māse kusaggena}
+      {bālo bhuñjetha bhojanaṃ}
+      {na so saṃkhata-dhammānaṃ}
+Halfverse: d     kala avedi ṣoḍaśa. (9)
+   {kalaṃ agghati solasiṃ.}
+         {Cr14}
+Cross-Reference: Uv_24,_33 
+         {394}
+
+
+
+Verse: 314  
+314
+
+
+Halfverse: a     masa-masi sahaseṇa
+Halfverse: b     yo ya'e'a śadeṇa ca
+Halfverse: c     ...... teṣu
+Halfverse: d     kala avedi ṣoḍaśa. (10)
+         {Cr15}
+         {395}
+
+
+
+Verse: 315  
+315
+
+
+Halfverse: a     masa-mase sahaseṇa
+Halfverse: b     yo ya'e'a śadeṇa ca
+Halfverse: c     eka-paṇaṇu'abisa
+Halfverse: d     kala navedi ṣoḍaśa. (11)
+         {Cr16}
+Cross-Reference: Uv_24,_29 
+         {396}
+
+
+
+Cross-Reference: DP_112 
+Verse: 316  
+316
+
+
+Halfverse: a     ya ja vaṣa-śada jivi
+   {yo ca vassa-sataṃ jīve}
+Halfverse: b     kusidhu hiṇa-viyava
+   {kusīto hīna-vīriyo}
+Halfverse: c     muhutu jivida ṣevha
+   {ekāhaṃ jīvitaṃ seyyo}
+Halfverse: d     virya arahado driḍha. (12)
+   {viriyaṃ ārabhato dalhaṃ.}
+         {Crl7}
+Cross-Reference: Uv_24,_4 
+         {397}
+
+
+
+Cross-Reference: DP_113 
+Verse: 317  
+317
+
+
+Halfverse: a     ya jivaṣa-śado jivi
+   {yocavassa-sataṃjīve}
+Halfverse: b     apaśu udaka-vaya
+   {apassaṃ udaya-vyayaṃ}
+Halfverse: c     muhutu jivida ṣevha
+   {ekāhaṃ jīvitaṃ seyyo}
+Halfverse: d     paśado udaka-vaya. (13)
+   {passato udaya-vyayaṃ.}
+         {Cr18}
+Cross-Reference: Uv_24,_6 
+         {398}
+
+
+
+Cross-Reference: DP_115 
+Verse: 318  
+318
+
+
+Halfverse: a     ya ja vaṣa-śada jivi
+   {yocavassa-sataṃjīve}
+Halfverse: b     apaśu dhamu utamu
+   {apassaṃ dhammaṃ uttamaṃ}
+         {(417)}
+Halfverse: c     mohotu jivida ṣehu
+   {ekāhaṃ jīvitaṃ seyyo}
+Halfverse: d     paśadu dhamu utamu. (14)
+   {passato anammam uttamam.}
+Cross-Reference: Uv_24,_12 
+         {Cr19}
+         {399}
+
+
+
+Cross-Reference: DP_107 
+Verse: 319  
+319
+
+
+Halfverse: a     ya ja vaṣa-śada jadu
+   {yo ca vassa-sataṃ jantu}
+Halfverse: b     agi pariyara vaṇi
+   {aggiṃ paricare vane}
+Halfverse: c     kṣireṇa sapi-teleṇa
+Halfverse: d     diva-ratra atadrido (15)
+         {cr20}
+         {400}
+
+
+
+Cross-Reference: DP_107 
+Verse: 320  
+320
+
+
+Halfverse: a     eka ji bhavidatvaṇa
+   {ekaṃ ca bhāvitattānaṃ}
+Halfverse: b     muhuta viva puya'i
+   {muhuttaṃ api pujaye}
+Halfverse: c     sameva puyaṇa ṣevha
+   {sā yeva pūjanā seyyo}
+Halfverse: d     ya ji vaṣa-śada hodu. (16)
+   {yaṃ ce vassa-sataṃ hutaṃ.}
+         {Cr21}
+Cross-Reference: Uv_24,_17 
+         {401}
+
+
+
+Cross-Reference: Uv_24,_34 
+Cross-Reference: DP_108 
+Verse: 321  
+321
+
+
+Halfverse: a     ya k(e)ja yaṭha va hoda va lake1
+   {yaṃ kiṃci yiṭṭhaṃ va hutaṃ va loke}
+Halfverse: b     (sa)vat(sa)ra yayadi puña([ve]kṣa)
+   {samvaccharam yajetha puññapekkho}
+Halfverse: c     sava bi ta na cadu-bhaku vedi
+   {sabbaṃ pi taṃ na catu-bhāgam eti}
+Halfverse: d     ahivadaṇa uju-kadeṣu ṣiho. (17)
+   {abhivādanā ujju-gatesu seyyo.}
+         Cr22
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 19
+
+Vagga: 20  
+{śīla}
+         {403}
+
+
+Cross-Reference: DP_217 
+Verse: 322  
+322
+
+
+Halfverse: a     śilamadu suyi-drakṣo
+   {sīla-dassana-sampannaṃ}
+Halfverse: b     dhama-ṯho sadhu-jivaṇo
+   {dhamma-ṭthaṃ sacca-vādinaṃ}
+Halfverse: c     atvaṇo karako sadu
+   {attano kamma kubbānam}
+Halfverse: d     ta jaṇo kuradi pri'u. (1)
+   {taṃ jano kurute piyaṃ.}
+         {Cr24 V. 24}
+         {404}
+
+
+
+Cross-Reference: DP_303 
+Verse: 323  
+323
+
+
+Halfverse: a     ṣadhu śileṇa sabaṇo
+   {saddho sīlena sampanno}
+Halfverse: b     yaśa-bho'a-samapidu
+   {yaso-bhoga-samappito}
+Halfverse: c     yeṇa yeṇeva vayadi
+   {yaṃ yaṃ padesaṃ bhajati}
+Halfverse: d     teṇa teṇeva puyidu. (2)
+   {tattha tattheva pūjito.}
+         {cr25}
+Cross-Reference: Uv_10,_8 
+         {405}
+
+
+
+Cross-Reference: DP_84 
+Verse: 324  
+324
+
+
+Halfverse: a     yo natva-hedu na parasa hedu
+   {na atta-hetu na parassa hetu}
+Halfverse: b     pavaṇi kamaṇi samayare'a
+   {na puttam icche na dhanaṃ na rattham}
+         {413}
+Halfverse: c     na (i)chi a . . [(sa)]midhi a(t)vaṇo
+   {na y1cche adhammena samlddhlm attano}
+         {405}
+Halfverse: d     so śi(lava) paṇidu dhami'o si'a. (3)
+   {sa sīlavā paññavā dhammiko siyā.}
+         {Cr26}
+         {406}
+
+
+
+Verse: 325  
+325
+
+
+Halfverse: a     sañadu sukadi yadi
+Halfverse: b     drugadi yadi asañadu
+Halfverse: c     ma sa viśpaśa avaja
+Cross-Reference: Jāt_IV_172 
+Halfverse: d     ida vidva samu cari. (4)
+   {iti vidva samaṃ care.}
+         {C 27}
+         {407}
+
+
+
+Cross-Reference: Sn_340ab 
+Verse: 326  
+326
+
+
+Halfverse: a     savudu pradimukhasa
+   {saṃvuto pātimokkhasmiṃ}
+Halfverse: b     idri'eṣu ya pajaṣu
+   {indriyesu ca pañcasu.}
+Cross-Reference: Jāt_I.275,_278 
+Halfverse: c     pramuṇi aṇupruviṇa
+   {pāpune anupubbena}
+Halfverse: d     sava-sañoyaṇa-kṣaya. (5)
+   {sabba-sanñojana-kkhayam.}
+         {Cr28 IV. 30cd}
+         {408}
+
+
+
+Cross-Reference: MN_I.39 
+Cross-Reference: D_I_139 
+Verse: 327  
+327
+
+
+Halfverse: a     śudhasa hi sada phagu
+   {suddhassa ve sadā phaggu}
+Halfverse: b     śudhasa posadhu sada
+   {suddhass' uposatho sadā}
+Halfverse: c     śudhasa s(u)yi . . .
+   {suddhassa suci-kammassa}
+Halfverse: d     tasa samajadi vada. (6)
+   {sadā sampajjate vatam.}
+         {Cr29}
+Cross-Reference: Uv_16,_5 
+         {409}
+
+
+
+Cross-Reference: DP_169 
+Verse: 328  
+328
+
+
+Halfverse: a     dhamu cari sucarida
+   {dhammaṃ care sucaritaṃ}
+Halfverse: b     . . . drucarida cari
+   {na taṃ duccaritam care}
+Halfverse: c     dhamayari suh(a) śedi
+   {dhammacārī sukhaṃ seti}
+Halfverse: d     asvi loki parasa yi. (7)
+   {asmiṃ loke paramhi ca.}
+         {Cr30}
+Cross-Reference: Uv_30,_5 
+Cross-Reference: Ang_I,_220 
+         {410}
+
+
+
+Cross-Reference: DP_320 
+Verse: 329  
+329
+
+
+Halfverse: a     aho nako va sagami
+   {ahaṃ nāgo va saṃgāme}
+Halfverse: b     cavadhivadida śara
+   {cāpāto patitaṃ saraṃ}
+Halfverse: c     adivaka ti(d)i(kṣ)ami
+   {ativākyaṃ titikkhissaṃ}
+Halfverse: d     druśilo hi baho-jaṇo. (8)
+   {dussīlo hi bahujjano.}
+         {Cr3 I YXIX. 21 (P. 3 I)}
+
+
+
+Cross-Reference: Uv_11,_10 
+Cross-Reference: DP_162 
+Verse: 330  
+330
+
+
+Halfverse: a     yasa acada-druśili'a
+   {yassa accanta-dussīlyam}
+Halfverse: b     malu'a va vilada vaṇi
+   {māluva sālam iv' otataṃ}
+Halfverse: c     kuya so tadha [(a)]tvaṇa
+   {karoti so tath' attānaṃ}
+Halfverse: d     yadha ṇa viṣamu ichadi. (9)
+   {yathā naṃ icchati diso.}
+Cross-Reference: Sn_272 
+      {māluvā va vitatā vane.}
+         {Cr32}
+
+
+
+Cross-Reference: DP_308 
+Verse: 331  
+331
+
+
+Halfverse: a     . . [(a)]yo-kuḍu bhuta
+   {seyyo ayo-gulo bhutto}
+         {526}
+Halfverse: b     
+   {tatto aggi-sikhūpamo}
+         {412}
+Halfverse: c     ............. [(bhu]j)e'a
+   {yaṃ ce bhuñjeyya dussīlo}
+Halfverse: d     raṭha-piṇa asañadu. (10)
+   {raṭṭha-pinḍaṃ asaññato.}
+Cross-Reference: Uv_9,_2 
+         {C'33}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 20
+
+Vagga: 21  
+{kṛtya}
+         {416}
+
+
+Cross-Reference: Uv_1,_41 
+Verse: 332  
+332
+
+
+Halfverse: a     ida ja mi keca ida ji kari'a
+   {idaṃ kṛtaṃ me kartavyam}
+Halfverse: b     ida kari . . . . . . .
+   {idaṃ kṛtvā bhaviṣyati}
+Halfverse: c     . . . . (pa)riphanamaṇa
+   {ity evaṃ spandano martyo}
+Halfverse: d     abhimadadimucu-(jara)saśo'a. (1)
+   {jarā mṛtyuś ca mardati.}
+         {cr35}
+         {418}
+
+
+
+Cross-Reference: DP_286 
+Verse: 333  
+333
+
+
+Halfverse: a     idha vaṣa kariṣamu
+   {idha vassaṃ vasissāmi}
+Halfverse: b     idha hemada-gi . .
+   {idha hemanta-gimhisu}
+Halfverse: c     . . . . . . . .
+   {iti bālo vicinteti}
+Halfverse: d     . . . . . . . . (2)
+   {antarāyaṃ na bujjhati.}
+         {Cr36 i. 38}
+         {420}
+
+
+
+Cross-Reference: DP_287 
+Verse: 334  
+334
+
+
+Halfverse: a     ta putra-paśu-samadha
+   {taṃ putta-pasu-sammattaṃ}
+Halfverse: b     . . . . . . . .
+   {byāsatta-manasaṃ naraṃ}
+Halfverse: c     sutu ga . . . . .
+   {suttaṃ gāmaṃ mahogho va}
+Halfverse: d     . . . . . . . . (3)
+   {maccu ādāya gacchati.}
+         {Cr37 i. 39}
+         {421}
+
+
+
+Cross-Reference: Jāt_IV_166 
+Verse: 335  
+335
+
+
+Halfverse: a     puve i kica paḍijaga(re'a)
+   {anāgatam paṭikayiratha kiccam}
+         {525 421}
+Halfverse: c     no yo \ kici kica-kale vade'a
+   {mā mam kiccam kicca-kāle vyadhesl}
+Halfverse: d     ta tadiśa paḍikama kica-kari
+   {tam tadlsam patlkataklccakānm}
+Halfverse: e     no i kica kici-'ali vade'a. (4)
+   {na taṃ klccaṃ klcca-kale vyadheti.}
+         {Cr38}
+Cross-Reference: Uv_16,_1 
+         {422}
+
+
+
+Cross-Reference: Thg_225 
+Verse: 336  
+336
+
+
+Halfverse: a     ya puvi karaṇi'aṇi
+   {yo pubbe kāraṇiyāni}
+Halfverse: b     pacha ṣa katu ichadi
+   {pacchā so kātum icchati}
+Halfverse: c     athadu batsadi balu
+   {sukhā so dhaṃsate ṭhānā}
+Halfverse: d     suhadu parihayadi. (5)
+   {pacchā ca-m-anutappati.}
+         {Cr3 9}
+         {423 523 423}
+
+
+
+Cross-Reference: DP_314 
+Verse: 337  
+337
+
+
+Halfverse: a     akida kuki\da \ṣehu
+   {akataṃ dukkataṃ seyyo}
+Halfverse: b     pacha tavadi drukida
+   {pacchā tapati dukkataṃ}
+Halfverse: c     kida nu sukida ṣeh(o)
+   {kataṃ ca sukataṃ seyyo}
+Halfverse: d     ya kitva naṇutapa(di). (6)
+   {yaṃ katvā nānutappati.}
+         {Cr4o}
+Cross-Reference: Uv_29,_41ab,  42ab
+         {424 524}
+
+
+
+Cross-Reference: Thg_226 
+Verse: 338  
+338
+
+
+Halfverse: a     ya \(gu) k(u)ya ta vadi'a
+   {yaṃ hi kayirā taṃ hi vade}
+         {4,2a4}
+Halfverse: b     . . . . . . .
+   {yaṃ na kayirā na taṃ vade}
+Halfverse: c     (akaroda bhaṣama[ṇa)]
+   {akarontam bhāsamānam}
+Halfverse: d     . .
+   {pan~anantl paṇḍlta.}
+         (7)
+         {467, 425}
+
+
+
+Cross-Reference: DP_292 
+Verse: 339  
+339
+
+
+Halfverse: a     ya kica ta a . . .
+   {yaṃ hi kiccaṃ tad apaviddhaṃ}
+Halfverse: b     . . . . . . . . (ki)yadi
+   {akiccaṃ pana kayirati}
+Halfverse: c     unaḍaṇa prama[(tana)]
+   {unnalānam pamattānam}
+Halfverse: d     . . . . . . . .
+   {tesam vadḍhanti āsavā}
+         {426}
+Cross-Reference: DP_253 
+Halfverse: e     asava teṣa vaḍhadi
+   {āsavā tassa vaḍḍhanti}
+Halfverse: f     ara te asava-kṣa[(ya)]. (8)
+   {ārā so āsava-kkhayā.}
+Cross-Reference: Uv_4,_19 
+         {Cr41}
+
+
+
+Cross-Reference: DP_293 
+Verse: 340  
+340
+
+
+Halfverse: a     yeṣa du susamaradha
+   {yesaṃ ca susamāraddhā}
+Halfverse: b     nica kaya-kada sva(d)i
+   {niccaṃ kāya-gatā sati}
+Halfverse: c     . . . . . . . .
+   {akiccaṃ te na sevanti}
+Halfverse: d     . . . . . . . .
+   {kicce sātacca-kārino}
+Halfverse: e     sadaṇa sabrayaṇaṇa
+   {sattthnaa gaaccmhpantainasnaava}
+Halfverse: f     taṣa kṣa(yad)i . . .(9)
+         {C 42, 43 IV. 20}
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 21
+
+Vagga: 22  
+{nāga / aśva}
+
+
+Cross-Reference: Uv_19,_7 
+Cross-Reference: DP_322 
+Verse: 341  
+341
+
+
+Halfverse: a     . . . . . . . .
+   {varam assatarā dantā}
+Halfverse: b     . . . . . . . .
+   {ājānīyā ca sindhavā}
+Halfverse: c     . . . . . . . .
+   {kuñjarā ca mahānāgā}
+Halfverse: d     atva-dada tada vara.
+   {atta-danto tato varam.}
+
+
+
+Cross-Reference: DP_323 
+Verse: 342  
+342
+
+
+Halfverse: a     . . . . . . . .
+   {na hi etehi yānehi}
+Halfverse: b     . . . . . . . .
+   {gaccheyya agataṃ disaṃ}
+Halfverse: c     . . . . . . . .
+   {yath' āttanā sudantena}
+Halfverse: d     ... [(dade)]ṣu gachadi.
+   {danto dantena gacchati.}
+
+
+
+
+
+
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
+
+
+TITUS Texts: Gandhari Dharmapada
+
+
+
+
+
+
+
+
+
+
+TITUS
+Gandhari Dharmapada
+Part No. 22
+
+Vagga: add.  
+
+
+{The following verses, written in a}
+{different hand, do not belong to the}
+{text:}
+355
+
+
+
+
+Verse: 343  
+343
+
+Halfverse: a     adikradaya ratri
+Halfverse: b     devada uvasagrami
+Halfverse: c     vaditva muninu pada
+Halfverse: d     imi praśaña pradiprocha.
+         {356}
+
+
+
+Cross-Reference: Sn_324 
+Verse: 344  
+344
+
+
+Halfverse: a     ki-śila ke-samacara
+   {kiṃ-sīlo kiṃ-samācāro}
+Halfverse: b     ke-guna kena karmaṇa
+   {kāni kammāni brūhayam}
+Halfverse: c     keh(i) darmehi sabana
+   {naro sammā-nivitth' assa}
+Halfverse: d     ke jaṇa sparga-ǧamiyu.
+   {uttamatthaṃ ca papuṇe.}
+
+This text is part of the TITUS edition of Gandhari Dharmapada.
+
+Copyright TITUS Project,
+Frankfurt a/M, 8.9.2002.
+ No parts of this document may be republished in any form
+without prior permission by the copyright holder.
+
